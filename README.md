@@ -10,6 +10,7 @@ Transportklagenemnda egner seg godt til en slik undersøkelse. For det første e
 ## Framgangsmåte
 
 1. [Etablering av korpus med vedtak fra Transportklagenemnda](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)  
+
 SDfsdf dsf dsf sd fsd fds f dsf
 2. Parsing av vedtak
 3. RAG
