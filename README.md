@@ -7,10 +7,10 @@ I prosjektet utforsker vi språkteknologi og anvender store språkmodeller og ve
 Transportklagenemnda egner seg godt til en slik undersøkelse. For det første er en omfattende praksis (over 12000 vedtak) tilgjengelig. For det andre er hvert enkelt vedtak relativt kort. 
 
 
-
 ## Framgangsmåte
 
-1. [Etablering av korpus med vedtak fra Transportklagenemnda](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)
+1. [Etablering av korpus med vedtak fra Transportklagenemnda](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)  
+SDfsdf dsf dsf sd fsd fds f dsf
 2. Parsing av vedtak
 3. RAG
 4. Løsing av rettspørsmål
