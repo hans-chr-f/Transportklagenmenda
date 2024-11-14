@@ -1,0 +1,95 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om refusjon av utgifter til hotell, telefonsamtaler,
+mat og drikke og transport. Feil ved bestilling.
+
+Dato
+10.03.2020
+
+Saksnummer
+2019-03403
+
+Tjenesteytere
+SAS
+
+Klager har i det vesentlige anført
+
+I februar 2019 bestilte klager en reise med SAS for fire personer til USA. Reisen skulle gå
+fra Bergen til New York 27. juni 2019 med retur 17. juli. Utreise og retur hadde forskjellige
+reservasjonsnummer. Utreisen forløp uten problemer. Returreisen var booket med
+bonuspoeng fra EuroBonus, og det tok litt tid å få gjennomført bestillingen på grunn av
+spredte bonusbilletter på denne ruten. Klager har derfor vist til at det ble gjort en del
+endringer på reisen. Til slutt fikk imidlertid klager bestilt reisen han ønsket med retur
+fra USA 17. juli. Reisen ble bestilt på internett, men på grunn av endringer i skatter låste
+webløsningen seg, og klager måtte ringe. Reisen ble derfor ferdigstilt pr. telefon. 
+
+De reisende benyttet SAS' mobilapplikasjon for å kontrollere opplysningene, og de
+reisende forholdt seg til denne informasjonen. På avreisedagen fra USA oppdaget klager
+at avreisedato og rutenummer hadde blitt endret i løpet av de siste dagene, og ny
+returreise var nå endret til 19. juli. Dette påførte klager ekstra kostnader for to ytterligere
+dager i New York. Klager mener SAS må ha ansvaret for feil ved bestillingen, og har
+fremsatt krav om refusjon av utgifter til hotell (782,40 amerikanske dollar), telefon til
+kundesenter (230,67 kroner), mat og drikke (248,25 amerikanske dollar) og togbilletter
+(85 amerikanske dollar).
+
+Tjenesteyterne har i det vesentlige anført
+Klager kjøpte den 8. februar 2019 billetter med SAS EuroBonus på SAS' hjemmesider.
+Klager skulle reise fra New York - Newark den 17. juli med SK910 til København med
+forbindelse til Bergen med SK2862. Det var fire personer i reisefølget. 
+
+Den 16. februar endret klager avreisen til 22. juli med samme reiserute med flyvningene
+SK902 og SK2868. Dette ble gjort på SAS' nettside av passasjeren selv. Den 19. februar
+kontaktet klager SAS og endret billettene til avreise den 19. juli med SK908 fra Oslo, med
+forbindelse med SK257 til Bergen. Siden klager endret flyplass han mellomlandet på fra
+København til Oslo, ble det en prisjustering i flyskattene. Hver gang billetter endres, blir
+det sendt en e-post med ny reiserute og en e-post med reisedokument til hver person i
+bestillingen. 
+
+Klager har selv endret sin bestilling til avreise den 19. juli ved å kontakte SAS på telefon
+19. februar. Dette var den siste endringen som ble gjort i bestillingen, og klager har fått
+tilsendt reiserute og billettkvitteringer for denne datoen. Det er passasjerens ansvar å
+sørge for at tilsendte billetter, kvitteringer og reiseruter er korrekte. 
+
+Ved bestilling kun i SAS' mobilapplikasjon er det viktig å oppdatere den manuelt, da den
+ikke oppdateres automatisk. Klager har også vist til at setene var endret fra rad tre til
+rad seks og fra København til Bergen til Oslo til Bergen. SAS har anført at dette tilsier at
+klager burde ha sjekket hva som hadde skjedd. SAS har kun sendt SMS for innsjekking på
+SK908 den 19. juli. På ovennevnte grunnlag har SAS avvist klagers krav.
+
+Nemnda bemerker
+
+Opprinnelig bestilt avreise fra New York (Newark) var den 17. juli 2019.  Ut fra SAS'
+vedlagte PNR-historie (Passenger Name Record) kan en se at hjemreisen først ble endret
+til 22. juli. Denne endringen ble foretatt den 16. februar. Den 19. februar kan en se at
+klager endret avreisen til 19. juli. Klager anfører at hjemreisen ble endret tilbake til 17.
+juli. Nemnda kan ut fra SAS' vedlagte PNR-historie ikke se at det har blitt foretatt en slik
+endring.
+
+SAS' vedlagte dokumentasjon av SMSer som har blitt sendt ut, viser at klager fikk SMS
+om innsjekk til hjemreisen den 19. juli. Nemnda mener dette underbygger at klagers
+hjemreise var booket til denne datoen. En kan se at ingen SMS om innsjekk ble sendt til
+klager den 17. juli. Klager fikk imidlertid en push-varsel gjennom SAS-appen den 17. juli
+om at det var på tide å dra til flyplassen.  Nemnda er av den oppfatning at dette muligens
+henger igjen fra den opprinnelige bestillingen hvor hjemreisen var 17. juli.
+
+Klager har vedlagt skjermbilde som viser at de fikk flere e-poster den 19. februar. Klager
+har uttalt at de først og fremst forholdt seg til appen, og at derfor ikke alle mailer ble lest.
+SAS har på sin side vedlagt kopi av elektronisk billett hvor det står at denne ble utstedt
+19. februar. Hjemreisedato på billetten var 19. juli.  Nemnda finner det sannsynlig at det
+var denne billetten som ble sendt til klager på e-post den 19. februar.
+
+Klager har vist til et skjermbilde hvor det står at hjemreise var 17. juli. Nemnda finner
+det imidlertid ikke sannsynliggjort at dette var klagers aktive og sist bestilte billett.
+Det er ikke klart når bildet ble tatt, da datoen for skjermbildet er skrevet manuelt på
+skjermbildet/SMS-en. Det er heller ikke klart om skjermbildet som viser 17. juli har blitt
+tatt etter oppdatering i appen eller ei. Når klager utelukkende baserer seg på SAS sin app
+i sin bestilling og ombooking, bør han også sette seg inn i hvordan appen fungerer
+
+Basert på bevisbildet med flyselskapets vedlagte PNR-historie og utstedte reisedokument
+utstedt 19. februar, kan nemnda ikke se at SAS kan pålegges erstatningsansvar i saken.
+
+Vedtak
+
+Transportklagenemnda-fly anbefaler ikke at klager gis medhold.

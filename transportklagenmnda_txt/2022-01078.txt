@@ -1,0 +1,109 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om sletting av Klarna-faktura.
+
+Dato
+31.05.2023
+
+Saksnummer
+2022-01078
+
+Tjenesteytere
+Travelgenio
+
+Klager har i det vesentlige anført
+
+Den 14. mars 2022 bestilte klager flybilletter Oslo-London-Frankfurt-Malta via nettsiden
+Momondo. Reisebyrået som var linket opp til bestillingen var Travelgenio. Kort tid
+etter bestillingen oppdaget klager at han hadde booket feil flydatoer og ønsket å bytte
+flydatoene med bytteforsikringen ("booking change fee") han hadde betalt Travelgenio. 
+
+Travelgenio sendte klager et forslag til bytter, noe klager takket ja til. Klager fikk et tilbud
+om å betale et gebyr på 55 euro for denne tjenesten.
+
+Klager fikk deretter en betalingslenke som førte til Commercia Global Payment. Klager
+synes denne nettsiden virket suspekt, men forsøkte likevel å betale endringsgebyret.
+Dette var umulig for klager, da banken nektet å godkjenne betaling med alle klagers fem
+bankkort (debit- og kredittkort), i tillegg til samboers kort. Ingen ble godkjent.
+
+Klager orienterte Travelgenio om problemet, men fikk kun samme betalingslenke tilbake,
+og det samme problemet oppstod igjen. Klager spurte Travelgenio om muligheten til å
+bruke andre betalingsmetoder som bank transfer, paypal og lignende, men Travelgenio
+nektet. 
+
+Travelgenio ba klager om å kontakte samtlige tre flyselskaper og ba de bytte om på
+flyene. 
+
+Flyselskapene hadde stengt telefonlinjene, derfor forsøkte klager å gå inn på nettsidene
+til flyselskapene. Klager brukte følgende referanser fra Travelgenio:
+AIR MALTA - LSUVXM
+LUFTHANSA - PDIKZP
+SCANDINAVIAN AIRLINES - PDIKZP
+
+Lufthansa ga feilmelding om at det ikke var mulig å bytte. Air Malta og SAS gjenkjente
+ikke referansene.
+
+Klager fikk deretter ikke kontakt med Travelgenio. På dette punktet var det for sent for
+klager å gjøre noe som helst for å endre flyvningene. Klager hevder Travelgenio gjorde
+det umulig for ham å betale gebyret, og at de gjorde det umulig å endre på flyene selv
+med falske referanser.
+
+Klager kontaktet Klarna med en forklaring av saken. Klarna fortalte klager at det ikke var
+han som kansellerte billettene, derfor har ikke klager noe som skulle blitt sagt i denne
+saken.
+
+Klager krever å få sin Klarna-faktura slettet da han føler han har blitt svindlet av
+Travelgenio.
+
+Tjenesteyterne har i det vesentlige anført
+Travelgenio har bekreftet at de forsøkte å hjelpe klager med å endre bookingen. På
+grunn av et problem med betalingen hans var det ikke mulig å gjennomføre denne
+endringen.
+
+Da klager initierte chargeback med banken sin, vil ikke Travelgenio være i stand til å
+hjelpe klageren med mindre chargeback stoppes.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at klager hadde booket feil flydatoer og ønsket å bytte
+flydatoene med bytteforsikringen han hadde betalt Travelgenio. Etter klagers anførsler
+gikk det ikke an å betale endringsgebyret på 55 euro. Klager forsøkte å bruke fem
+forskjellige bankkort, men alle ble avvist. Travelgenio tillot heller ikke klager å benytte
+alternative betalingsløsninger som Paypal. 
+
+Klager fikk dermed ikke ombooket billettene etter å ha kjøpt bytteforsikring.
+
+Spørsmålet er om klager er forpliktet til å betale fakturaen på 6 221,84 NOK eller om
+dette er et økonomisk tap som Travelgenio er erstatningsansvarlige for som følge av
+avtalebrudd.
+
+Vilkårene for erstatning er som følger:
+a) et ansvarsgrunnlag
+b) et økonomisk tap
+c) adekvat årsakssammenheng
+
+Da Travelgenio ikke har kommentert klagers anførsler om betalingsproblemene, vil
+klagers anførsler bli lagt til grunn. 
+
+Klager har ikke fått tjenesten han har betalt for (bytteforsikring) da det ikke har vært
+praktisk mulig å betale endringsgebyret og gjennomføre ombooking. Det foreligger
+ansvarsgrunnlag i form av uaktsomhet. Travelgenio kunne og burde ha hjulpet klager
+med å finne en fungerende betalingsløsning. Videre har klager blitt påført et økonomisk
+tap på 6 221,84 NOK. Det er også adekvat årsakssammenheng mellom klagers tap og
+Travelgenios handlemåte. Tapet er ikke fjernt, avledet eller upåregnelig.
+
+Nemnda anbefaler derfor at Travelgenio erstatter klagers økonomiske tap med 6 222
+NOK. Dersom klager har fått refundert beløpet gjennom charge-back kommer dette til
+fradrag. Klager skal ikke ha kravet dekket to ganger.
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Travelgenio erstatter klagers økonomiske tap med 6
+222 NOK.

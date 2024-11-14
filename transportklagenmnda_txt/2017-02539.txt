@@ -1,0 +1,86 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standardkompensasjon ved endret rutetid.
+
+Dato
+16.08.2018
+
+Saksnummer
+2017-02539
+
+Tjenesteytere
+Widerøe
+SAS
+
+Klager har i det vesentlige anført
+
+Klager hadde bestilt reise med Widerøe fra Svolvær (SVJ) til Bodø (BOO) med WF815 og
+videre med WF615 fra Bodø til Bergen (BGO) 5. juni 2017. Flyvningen fra Svolvær hadde
+avgangstid kl. 18.13, og flyvningen fra Bodø kl. 20.10. Billettene ble kjøpt hos SAS. 
+
+Flyvningen fra Svolvær ble kansellert samme dag kl. 09.45. Reisefølget anfører at de ikke
+fikk informasjon om at rutetiden ble endret, og at det i så fall er opererende flyselskap
+som har det overordnede ansvar for at informasjon om endringer i reiseplanen
+videreformidles til passasjerene. Klager har på ovennevnte bakgrunn fremsatt krav om
+standardkompensasjon i henhold til EU-forordning 261/2004 på 250 euro pr. person,
+totalt 750 euro for tre passasjerer.
+
+Tjenesteyterne har i det vesentlige anført
+* Widerøe har i det vesentlige anført:
+
+Klagers bestilling ble laget på SAS sine hjemmesider 25. august 2016. Widerøe endret
+avgangstid på WF615 (5. juni 2017) fra kl. 20.10 til kl. 14.50. Denne endringen skjedde 8.
+november 2016, og SAS (salgsstedet) ble varslet automatisk fra Widerøe. SAS kansellerte
+WF615 og booket samtidig WF615 6. juni 2017. Ny korresponderende avgang ble WF831
+6. juni 2017. Denne endringen ble gjort 5. april 2017 og bestillingen ble bekreftet. 
+
+Det følger av IATA ticketing handbook artikkel 7.1.2 at salgsstedet er ansvarlig for å
+gi passasjeren informasjon om endringene og eventuell ombooking dersom dette er
+nødvendig. Widerøe anfører at de har gitt SAS beskjed om endring i sine flytider, men at
+SAS ikke har gitt beskjed videre til klager. 
+
+Widerøe viser til fremlagt dokumentasjon, og anfører på dette grunnlag at det ble gitt
+informasjon om ruteendring mer enn 14 dager før avgang, Selskapet avviser på dette
+grunnlag klagers krav om standardkompensasjon i henhold til EU-forordning 261/2004. 
+
+* SAS har i det vesentlige anført:
+
+Den 25. august 2016 bestilte klager en tur retur reise Bergen - Svolvær for reise 2. - 5. juni
+2017 på SAS' hjemmeside. Returreisen var som følger: 
+
+WF 815 E 05JUN 1 SVJBOO LK3 1813 1838
+WF 615 T 05JUN 1 BOOBGO LK3 2010 2200
+
+Den 5. april gjorde Widerøe en ruteendring på WF615 som skulle gå til Bergen klokken
+20.10, ny avgangstid var kl 14.50. Dette førte til at avgangen fra Svolvær til Bodø klokken
+18.30 ikke kunne benyttes.
+
+SAS sendte samme dag både en SMS og en epost til klager med informasjon, og nye
+reisetider. Klager ble samtidig informert om at hun måtte kontakte SAS dersom de nye
+tidene ikke passet. 
+
+I bestillingen klager hadde gjort på SAS sin nettside var det totalt 3 passasjerer. Det var
+klager som var satt opp som kontaktperson med e-post adresse og
+mobilnummer. Det er grunnen til at hun blir bedt om å informere de andre hun reiser
+sammen med. 
+
+I henhold til artikkel 5.1.c.1 bortfaller passasjerens krav om kompensasjon i henhold til
+forordningen dersom det opplyses om endring minst 2 uker før avreise.
+
+SAS kan ikke imøtekomme klagers krav.
+
+Nemnda bemerker
+
+En ruteendring innebærer kansellering av en avtalt flygning. Kansellering gir grunnlag
+for standarderstatning etter EU-forordning 261/2004 artikkel 5, jf artikkel 7 med mindre
+flyselskapet informerer om endringen minst to uker før planlagt avgangstid. 
+
+Flyselskapet SAS har fremlagt kopi av klagers bookinghistorie som viser at det den 5.
+april ble sendt både epost og sms til klager. Klager fikk informasjon om ruteendringen
+mer enn to uker før avreise, og det er med dette ikke grunnlag for standarderstatning.
+
+Vedtak
+
+Transportklagenemnda-fly kan ikke anbefale at klager gis medhold.

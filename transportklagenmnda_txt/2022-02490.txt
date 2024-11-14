@@ -1,0 +1,87 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+21.06.2023
+
+Saksnummer
+2022-02490
+
+Tjenesteytere
+Lufthansa German Airlines
+
+Klager har i det vesentlige anført
+
+Klager hadde reise med Lufthansa fra Oslo med LH867 via Frankfurt med LH1342 til
+Budapest den 26. august 2022. Flygningen fra Oslo ble kansellert samme dag, og klager
+fikk derfor ikke benyttet sin flygning fra Frankfurt. Klager ble booket om fra Oslo via
+München den 26. august 2022 med LH2455 og fra München til Budapest den 27. august
+2022 med LH1674.
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004 for denne
+kanselleringen.
+
+Tjenesteyterne har i det vesentlige anført
+Lufthansa har opplyst at LH867 fra Oslo til Frankfurt 26. august (UTC-tider 16:50 –
+18:55), 2022 ble kansellert. Årsaken til kanselleringen var forsinkelsen av innkommende
+flight LH858 fra Frankfurt til Oslo, noe som førte til at det ikke var mulig å operere
+returflygningen LH867 før nattforbud, også på grunn av ATC-restriksjoner i Frankfurt.
+
+Flight LH858 den 26. august 2022 ble operert som følger (UTC-tid): 
+Planlagt avgangstid fra FRA: 14:05
+Effektiv avgangstid fra FRA: 16:03
+Planlagt ankomsttid i OSL: 16:00
+Effektiv ankomsttid i OSL: 17:49
+
+Flight LH858 26. august 2022 ble forsinket ved avgang med 1 time og 58 minutter på
+grunn av IATA-uregelmessighetskode 77 (vær). En CTOT (beregnet starttid) ble tildelt av
+Eurocontrol for UTC 16:08 mens planlagt avgangstid var UTC14:05.
+
+Det vises til et vedlegg om restriksjoner over luftrommet sør-EDWW (forskrift
+EDWWS26A) (flight information region Bremen).
+
+Lufthansa forklarer at det ikke er mulig å levere en METAR da det i dette spesielle tilfellet
+rammet en region og ikke en flyplass.
+
+På grunn av forsinkelsen og ekstra tordenvær i Frankfurt som førte til restriksjoner også i
+Frankfurt, måtte returflygning LH867 kanselleres.
+
+LH867 skulle etter planen lande i Frankfurt (UTC18:55). Den tilsvarende TAF (Terminal
+Aerodrome Forecast) utstedt kl. 17.00 UTC varslet mellom kl. 18.00 UTC og 08.00 (neste
+morgen) regn og skyer på 2000 fot med cumulonimbus. Med en sannsynlighet på 30
+prosent, mellom UTC 18:00 og UTC 21:00 vind som kommer fra 300 ° ved 15 knop,
+vindkast med 25 knop med tordenvær, regn og cumulonimbus.
+
+På grunn av den innkommende flyforsinkelsen og ankomstrestriksjonene i Frankfurt,
+kunne ikke LH867 operere før nattforbud og måtte kanselleres. På grunn av de
+ekstraordinære omstendighetene i denne saken kan ikke Lufthansa imøtekomme klagers
+krav.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at Lufthansas flyvning LH867 fra Oslo til Frankfurt den 26.
+august 2022 ble kansellert.
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5.
+
+Værforhold som påvirker flytrafikken kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret. Det er
+flyselskapet som må godtgjøre at det foreligger et slikt spesielt tilfelle. Flyselskapet må
+videre godtgjøre at de har truffet alle rimelige tiltak for å unngå forsinkelsen.
+
+Lufthansa har fremlagt tre dokumenter som ikke forklart nærmere. Nemnda mener
+at selskapet burde forklart hva de ulike kodene og dokumentene viser. Uten slik
+forklaring gir den fremlagte dokumentasjonen ikke mening for nemnda. Nemnda mener
+derfor at selskapet i dette tilfellet ikke har sannsynliggjort at kanselleringen skyldes
+ekstraordinære omstendigheter som ikke kunne vært unngått. Nemnda mener derfor at
+klager har rett på standarderstatning med 400 euro.
+
+Vedtak
+
+Transportklagenemnda anbefaler at selskapet betaler standarderstatning til klager med
+400 euro.

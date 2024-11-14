@@ -1,0 +1,100 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr som følge av påstigning
+uten billett, i vogn merket "kun gyldig billett".
+
+Dato
+17.09.2021
+
+Saksnummer
+2021-00818
+
+Tjenesteytere
+Vy
+
+Klager har i det vesentlige anført
+
+Klager og hans kone reiste16. februar med toget i forbindelse med en time til øyelege i
+Oslo. De rakk såvidt å påstige toget før avgang, og vel om bord fant de frem reisekortet
+klar til å trekke billettprisen fra det forhåndsbetalte beløpet de hadde til gode på
+reisekortet. Klager hadde ikke i tanke for at det kunne være noe problem å få betalt, for
+han har - så vidt han kan huske - alltid opplevd at konduktøren hadde passert forbi i alle
+vognene. 
+
+Klager har sett på reisekortet som en forhåndsbetalt billett, og sitter alltid med det klart
+for "trekk", og har aldri noensinne hatt tanke om å snike på toget. Han var bare helt
+utslitt etter all omveien til togstasjonen, og var ikke kjent med at det fantes forskjellig
+typer vogner, ei heller hadde han lagt merke til noe skilt ved påstigingen. 
+
+Forskrekkelsen var stor da klager og hans kone ble ilagt gebyr for manglede billett. Klager
+insisterte på å få betale de 2 x 31 kronene han og kona skyldte, men uten hell. 
+
+Klager krever at Vy frafaller gebyret som er ilagt han og kona.
+
+Tjenesteyterne har i det vesentlige anført
+Ved billettkontroll ble klager påtruffet i en ubetjent vogn merket «kun gyldig billett»
+på tog 1916 den 16. februar etter avgang fra Kolbotn. Klager kunne ved kontroll ikke
+fremvise gyldige billetter for reisen som ble benyttet, og det ble derfor korrekt ilagt
+kontrollgebyr. Vy  viser til vedlagg sanntidslogg for toget. 
+
+Gebyrslipper var ikke lagt ved fra klager til Nemnda, men fra kontrollen er gebyrene
+elektronisk registrert:
+
+1100126559400403 Tid [2021-02-16 12:04 CET] Årsak: [NO_TICKET] Tog: [1916] Stasjon:
+[Kolbotn stasjon]
+1100137759400200 Tid: [2021-02-16 12:02 CET] Årsak: [NO_TICKET] Tog: [1916] Stasjon:
+[Kolbotn stasjon]
+* tidspunkt er registret minus 1 time vs lokaltid.
+
+Generelt kan reisende kjøpe billett ved Entur eller Ruters billettautomater og da ev.
+benytte Entur eller Ruter reisekort som «billettbærer» og betale med ev. reisepenger som
+man måtte ha på reisekortet. Dersom man av forskjellige årsaker ikke har billett i orden
+på forhånd kan man kjøpe billett om bord i toget. Man må da imidlertid velge vogn på
+toget som er merket «billettsalg/betjent». Konseptet med betjente og ubetjente vogner
+har eksistert i ca. 30 år.
+Vy viser til bilder av selskapets merking av vogner.
+
+Til tross for tydelig merking av de ubetjente vognene utvendig og innvendig med «kun
+gyldig billett» som påminner og gjør de reisende oppmerksom på å ha billett i orden, kan
+mange som har blitt påtruffet i billettkontroll og ikke kunne fremvise gyldig billett angi
+sympatiske årsaker til hvorfor de likevel ikke hadde gyldig billett. Vy må imidlertid stille
+krav til at man har billett i orden når man har tatt plass i en vogn som er merket med
+«kun gyldig billett».
+
+Det ble ilagt kontrollgebyr på det objektive kriterium og faktum at klager ikke kunne
+presentere gyldige billetter for reisen som ble benyttet. Hjemmel for å ilegge gebyr
+fremgår av Vys reisevilkår punkt 4 A; Hvis du ikke kan vise gyldig billett i en kontroll, må
+du betale et gebyr fastsatt av Samferdselsdepartementet. Vy opprettholder krav om
+betaling av de to gebyrene det her er tale om.
+
+Nemnda bemerker
+
+Klager og hans kone ble 16. februar 2021 påtruffet i en ubetjent vogn i toget til Oslo S
+uten gyldig billett og ble ilagt gebyr.
+
+Det fremgår av Vys transportvilkår § 4 C at passasjerer som ved kontroll ikke kan
+fremvise gyldig billett, vil bli ilagt et gebyr. Bestemmelsen er objektiv. Gebyr kan således
+ilegges selv om passasjeren ikke har opptrådt klanderverdig.
+
+Klager og hans kone kunne ikke vise gyldig billett for reisen og vilkårene for å ilegge
+gebyr var til stede. 
+
+Nemnda har merket seg klagers opplysning om at de ikke er så vant til å reise med tog
+og at begge har redusert mobilitet og kjennskap til data og tekniske betalingsformer.
+Dette kan imidlertid ikke føre til å gebyret faller bort. Vognen klager satt i er tydelig
+merket med kun gyldig billett, hvor det fremgår klart at billetten må være betalt på
+forhånd. Dette er et system som har vært praktisert i over 30 år, og bør være godt
+innarbeidet hos reisende. 
+
+Nemnda finner ikke grunnlag for å anbefale at gebyret frafalles.
+
+Nemnda har forståelse for at gebyret kan oppleves som en streng reaksjon, men av
+hensyn til reiseforetakenes behov er det imidlertid behov for en konsekvent praksis da
+det er ulike årsaker til at reisende ikke har gyldig billett
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

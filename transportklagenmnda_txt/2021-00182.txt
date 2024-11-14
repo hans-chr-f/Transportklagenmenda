@@ -1,0 +1,111 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr - manglende gyldig billett
+
+Dato
+22.03.2021
+
+Saksnummer
+2021-00182
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 20. januar 2021. Klager anfører at det i billettappen hennes stod
+at hun hadde aktiv billett, men at betalingen hadde feilet grunnet nytt EU-direktiv som
+gjorde at kortopplysninger måtte legges inn på nytt. Klager forklarer at AtB har registrert
+forsøket på å betale på Vipps, men etter at klager forsøkte å betale med kredittkort
+trodde appen at hun hadde kjøpt billett. Klager mener at når det stod at hun hadde aktiv
+billett i appen så er det misvisende fra AtB sin side. Klager anfører at hun derfor trodde
+at hun hadde gyldig billett. 
+
+Klager mener hun ble behandlet på en uhøflig måte av kontrolløren siden vedkommende
+sa at hun snek på bussen, noe hun mener hun ikke gjorde siden det kom tydelig frem at
+hun hadde fått beskjed om at hun hadde aktiv billett. 
+
+Klager mener det er systemet til AtB som må forbedres og at beskjeden om at hun
+hadde aktiv billett må fjernes siden dette var feil. Klager forklarer at hun selvsagt kjøpte
+ny billett da hun fikk vite hva som hadde skjedd. Hun legger til at hun gjerne skulle fått
+denne beskjed i appen for å unngå å bli lurt til å tro at hun hadde gyldig billett. 
+
+Etter å ha mottatt AtB sitt tilsvar i saken legger klager til at dersom hun må betale
+gebyret, så ber hun om en avklaring om når betalingsfristen skal være da informasjonen
+AtB har gitt vedrørende betalingsfrist har vært forvirrende. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr 20. januar 2021 fordi hun ikke kunne fremvise gyldig billett under
+billettkontrollen. Det fremgår av AtBs Transportvedtekter nr. 3 f at passasjeren skal
+
+«oppbevare billetten og rabattbeviset under hele reisen og helt til passasjeren har forlatt
+transportmiddelet eller kontrollsonen.» Dersom den reisende ikke kan fremvise gyldig
+billett i en kontrollsituasjon, vil det anses som å reise uten gyldig billett. AtBs regelverk
+gjelder for alle som befinner seg ombord på AtB sine transportmidler.
+
+Det kan være mange årsaker til at betaling ikke ble gjennomført. I slutten av desember
+2020 kom det et nytt EU-direktiv for sikker betaling. Hensikten bak direktivet var å
+øke sikkerheten for nettbetalinger. Dette har ført til at mange kortutstedere har hatt
+problemer med å oppdatere sikkerheten i bankkortene til kundene sine.
+
+AtB har hatt god dialog med leverandøren av AtB Mobillett, og var tidlig ute med å
+oppdatere betalingsløsningen som benytter Nets som betalingsformidler. AtB viser til
+driftsmeldingene for Nets som viser at det ikke er noen problemer knyttet til AtB sin
+betalingsformidler. AtB kan ikke holdes ansvarlig for problemer som oppstår utenfor AtB
+sin kontroll, og internt i forbindelse med kundenes kortutstedere. 
+
+Klager viser til et skjermbilde der hun får opp en feilmelding om at hun allerede har
+gyldig billett. Dette er en feilmelding som kun skal vises dersom man nylig har kjøpt en
+billett, og er ment for å forebygge «dobbeltkjøp». Klager har ikke tatt kontakt med AtB før
+gebyret ble ilagt hvilket var 18 dager etter bestillingen den 2. januar 2021, og mener at
+dette ikke kan vektlegges for behandlingen av klagen. Billettkjøpet har aldri blitt verifisert
+av Mobillettsystemet hvilket betyr at det aldri har vært en gyldig billett under "Mine
+billetter" i klagers Mobillettapp. 
+
+Det fremgår av AtBs transportvedtekter at det er den reisendes ansvar at man til enhver
+tid skal påse at man har gyldig billett før man reiser.
+
+Klager anfører i sin klage at hun ikke fikk noen varsel om at betalingen ikke hadde gått
+gjennom. Når man kjøper billett i Mobillett, vil alle gjennomførte kjøp dukke opp under
+menyen «aktive billetter». Når man kjøper periodebillett, vil man i tillegg få opp hvor
+mange dager som er igjen.
+
+I dette tilfellet forsøkte Klager å kjøpe en billett 2. januar .2021, og betalingen fikk
+betalingsstatus «feilet» kort tid etterpå. Vanligvis blir nettbestillinger reservert i 1-5
+dager. Dersom betalingen feiler, vil dette beløpet bli frigitt. Den 20. januar 2021 ble det
+gjennomført billettkontroll, og da hadde klager fortsatt ikke oppdaget at kjøpet ikke
+hadde gått gjennom. Dette utgjør 18 dager som klager har reist uten gyldig billett.
+
+AtB kan ikke tillate en praksis hvor reisende på grunn av eksterne forhold utenfor AtBs
+kontroll ikke fremviser gyldig billett. Å vise til at man forsøkte å bestille en billett 18 dager
+tidligere er ikke tilstrekkelig, når transaksjonen ikke går gjennom.
+
+På bakgrunn av dette opprettholder AtB sin tidligere avgjørelse i saken.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på bussen den 20. januar 2021 fordi hun ikke kunne fremvise gyldig
+billett ved kontroll.
+
+Det er dokumentert fra klagers egen telefon at klagers billettkjøp den 2. januar 2021
+feilet, og at hun således ikke hadde gyldig billett ved kontrollen. 
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning. Av transportvedtektenes pkt.
+6.2 følger det at det skal ilegges tilleggsavgift dersom den reisende ikke kan vise gyldig
+billett. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om passasjeren ikke har
+opptrådt klanderverdig.
+
+At klager ved forsøk på kjøp den 20. januar 2021, etter kontrollen, fikk opp en melding
+om at hun hadde en aktiv billett, endrer ikke på dette. Klager kunne ikke fremvises billett
+ved kontrollen, og det var grunnlag for ileggelse av gebyr.
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

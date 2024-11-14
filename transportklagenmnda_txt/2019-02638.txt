@@ -1,0 +1,89 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+16.06.2020
+
+Saksnummer
+2019-02638
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Bergen til Aberdeen med WF392 den 30. april 2019 kl. 08.25. Flyet
+ble kansellert. 
+
+Klager mener han er berettiget standarderstatning, ettersom tåken kun varte i noen
+timer. Flyselskapet var veldig raskt ute med å kansellere flyvningen. Ca to timer etter
+kanselleringen var værforholdene betraktelig bedre, og andre fly tok av og landet på
+flyplassen. Klager lurer på om Widerøe utnytter midlertidige værforhold for å kansellere
+flyvninger, og på denne måten sparer penger ved å fylle tomme seter på en annen
+flyvning, noe som igjen medfører store konsekvenser for de passasjerene som blir
+strandet. 
+
+Klager ble booket om til en flyvning neste dag, mer enn 36 timer senere enn den
+opprinnelige flyvningen.
+
+Klager ble ikke tilbudt overnatting, og pådro seg derfor utgifter på 700 kroner til dette.
+
+Tjenesteyterne har i det vesentlige anført
+WF404 fra Torp til Bergen kunne ikke lande grunnet tåke. Flyet ble omdirigert tilbake
+til Torp. Grunnet omdirigeringen som en følge av tåken ved Bergen flyplass, var
+besetningen og flyet ment for WF392/393 på Torp, og Widerøe måtte derfor kansellere
+WF392 og WF393 Bergen-Aberdeen-Bergen.
+
+METAR-rapporten viser at det var tett tåke. FGVV001 betyr at det er tåke (FG) og med
+vertikal sikt 100 fot. Widerøe sin laveste minimum for landing i Bergen er 204 fot. Videre
+viser METAR-rapporten at det var lite vind, kun 3 knop, noe som igjen betyr at det er lite
+bevegelse i været.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet kan godtgjøre at
+kanselleringen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått
+selv om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5. 
+
+Værforhold som påvirker flytrafikken kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret. Det er
+flyselskapet som må godtgjøre at det foreligger et slikt spesielt tilfelle. 
+
+Widerøe har fremlagt en METAR-rapport som viser at det var tåke ved Bergen Lufthavn
+om morgenen (06.20 UTC) den 30. april. Det forklares videre at dette medførte at
+maskinen som skulle operere klagers flyvning (WF404) ikke fikk landet i Bergen, men
+returnerte til Torp. Fly og mannskap var derfor ikke på plass til klagers flyvning med
+WF392.
+
+Widerøe har imidlertid ikke fremlagt dokumentasjon i form av operasjonell logg for
+WF404, ei heller noen dokumentasjon som viser sammenhengen mellom WF404
+og WF392 eller når WF404 skulle ha landet i Bergen.  Det er heller ikke fremlagt
+dokumentasjon eller forklaring på hva slags tiltak som ble truffet eller hvilke overveielser
+eller prioriteringer som ble gjort. Fremlagt METAR-rapport viser kun værsituasjonen kl.
+06.20 UTC (08.20). 
+
+På denne bakgrunn har nemndas flertall kommet til at Widerøe ikke tilstrekkelig
+har godtgjort at kanselleringen skyldtes ekstraordinære omstendigheter som ikke
+kunne vært unngått selv om alle rimelige tiltak var truffet. Klager har da rett til
+standarderstatning på 250 euro i henhold til EU-forordning 261/2004.
+
+Bransjerepresentant Rise finner at Widerøe i denne situasjon har tilstrekkelig godtgjort at
+andre rimelige tiltak ikke var tilgjengelig,  og at kanselleringen ikke kunne unngås. 
+
+I tilfeller hvor et fly kanselleres og passasjeren blir booket om til en flyavgang neste dag,
+har passasjeren rett på hotellovernatting, transport mellom flyplassen og hotellet, og rett
+på å få dekket rimelige utgifter til mat og alkoholfri drikke i ventetiden, jf. EU-forordning
+261/2004 artikkel 9, jf. artikkel 5.  Klager har lagt frem dokumentasjon på at han selv
+måtte dekke hotellovernatting i påvente av ny flyvning neste dag.  Nemnda anbefaler
+at Widerøe refunderer denne utgiften på 700 kroner. Nemnda anbefaler i tillegg at
+Widerøe dekker rimelige utgifter til mat og alkoholfri drikke i ventetiden, dersom klager
+kan fremlegge kvitteringer på dette. Det samme gjelder eventuelt transport mellom
+flyplassen og hotellet.
+
+Vedtak
+
+Transportklagenemnda-fly anbefaler at Widerøe utbetaler 250 euro, samt 700 kroner for
+hotell til klager.

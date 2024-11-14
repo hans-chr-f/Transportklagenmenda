@@ -1,0 +1,139 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kanselleringer
+
+Dato
+12.02.2019
+
+Saksnummer
+2018-00926
+
+Tjenesteytere
+SAS
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Bergen via København og San Francisco til Albuquerque i staten
+New Mexico, USA den 22. mars 2018. Den første flyvningen fra Bergen til København
+med SK2865 ble kansellert på grunn av været. Klager ble så booket om til en senere
+avgang via Stavanger. Denne avgangen ble kansellert på grunn av tekniske problemer. I
+kontakt med kundebehandler hos SAS ble klager informert om at han ville få erstatning
+for kanselleringen som skyldtes tekniske problemer. Klager ble så booket om til en reise
+som ville medføre en forsinkelse på to døgn. Klager fikk selv endret denne reiseruten da
+han landet i København, men ankom likevel Alberquerque med ett døgns forsinkelse. 
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004 for reisen som ble
+kansellert som følge av tekniske problemer.
+
+Tjenesteyterne har i det vesentlige anført
+Klager hadde billett for reise fra Bergen den 22. mars 2018 med SK2865 til København og
+forbindelse videre med SK935 til San Francisco og UA5648 til Albuquerque. 
+SK2865 skulle opereres av flyindivid EIFPJ. Dette flyet skulle komme fra København som
+SK2862. Underveis fra København til Bergen ble imidlertid SK2862 omdirigert til Oslo på
+grunn av værforholdene på Bergen Lufthavn/Flesland. 
+
+SK2862 kunne ikke lande i Bergen og måtte omdirigeres til Oslo på grunn av tåke.
+Dette er ekstraordinært, og SAS er derfor ikke pliktige til å betale kompensasjon, jf. EU-
+forordning 261/2004, fortalens punkt 14. Det er denne første forsinkelsen som gjør at
+klager ble booket om. Med andre ord hadde ikke ombookingen vært nødvendig dersom
+flyet ikke trengte å returnere til Oslo. Da den første forsinkelsen oppstod på grunn av
+ekstraordinære omstendigheter, har klager ikke rett til erstatning om den flyvning han
+blir booket om til også blir kansellert eller forsinket. Dette er ansett som en alternativ
+flight, og er fastslått i en tysk underrettsdom fra Dusseldorf Local Court 40 C-81/17.
+
+SAS kan ikke imøtekomme klagers krav om erstatning i henhold til forordningen.
+
+Nemnda bemerker
+
+Klagers flyvning til København ble kansellert da innkommende flyvning til Bergen ikke
+kunne lande på Flesland på grunn av været og måtte lande i Oslo i stedet. Klager ble
+omrutet til en ny avgang senere samme kveld via Stavanger, men denne flyvningen ble i
+følge klager kansellert på grunn av teknisk feil. Det er denne kanselleringen klager krever
+erstatning for. 
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5. 
+
+Værforhold som påvirker flytrafikken kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret. Det er
+flyselskapet som må godtgjøre at det foreligger et slikt spesielt tilfelle. Flyselskapet må
+videre godtgjøre at de har truffet alle rimelige tiltak for å unngå kanselleringen.
+
+I dette tilfellet skyldtes kanselleringen at flyet som skulle betjene klagers flyvning
+måtte omdirigeres til Oslo på grunn av dårlig vær i Bergen. Det vises til fremlagt
+dokumentasjon. Værforhold av en slik art er ansett som en ekstraordinær omstendighet
+i forordningens forstand og gir ikke klager rett til standarderstatning. Det er heller ikke
+krevet.
+
+Spørsmålet for nemnda er om klager har krav på standarderstatning som følge av ny
+kansellering ved omrutingen. 
+
+SAS har ikke redegjort for hvorfor omrutingsflyvningen ble kansellert, eller fremlagt noen
+dokumentasjon. Klager har oppgitt at det skyldtes teknisk svikt. Etter nemndas syn har
+SAS ikke godtgjort at kanselleringen av avgangen til Stavanger skyldtes ekstraordinære
+omstendigheter som ikke kunne vært unngått, eller at alle rimelige tiltak var truffet.
+Klager måtte omrutes på nytt og ankom til slutt Alberquerque ett døgn forsinket. 
+
+Nemnda konstaterer at det ikke finnes noen bestemmelse i forordningen som tar sikte
+på den aktuelle situasjonen. Spørsmålet berøres ikke i forordningens fortale og har heller
+ikke vært prøvd av EU-domstolen eller i norsk rettspraksis 
+
+I juridisk litteratur og også i utenlandsk rettspraksis har ulike oppfatninger kommet
+til uttrykk. En måte å se det på er at en flyvning som følge av en omruting i henhold
+til artikkel 8 ikke kan betraktes  som en selvstendig flyvning i henhold til artikkel 5.1,
+men bare er et slags oppfyllelsessurrogat knyttet til den opprinnelige flyvningen som
+ikke gir rett til erstatning på samme vis som andre kansellerte flyvninger, selv om
+forutsetningene i artikkel 7 er oppfylt. En annen måte å se det på er at en slik flyvning
+gir rett til kompensasjon på lik linje med andre kansellerte flyvninger om de øvrige
+forutsetninger i artikkel 7 er oppfylt.  
+
+EU-kommisjonen har i sin ikke-bindende veiledning av tolkningen av forordningen, datert
+15. juni 2016, anbefalt det siste alternativet. 
+Følgende fremgår av nest siste avsnitt under punkt 4.2: 
+
+"Enhver ny ret til kompensation i henhold til artikel 7 gælder for den omlagte flyavgang,
+der er accepteret i henhold til artikel 8, stk. 1, litra b eller c, hvis den også aflyses eller
+er forsinket ved ankomst (se afsnit 4.4.11). Kommisjonen anbefaler, at mulighetene
+beskrives klart for passagerer, når bistand skal ydes." 
+
+Nemndas flertall - lederen og forbrukerrepresentantene - forstår dette slik at en
+eventuell ny rett til kompensasjon gjelder for den nye bookingen som passasjeren har
+godtatt i henhold til artikkel 8.1 dersom denne flyvningen kanselleres eller er forsinket
+ved ankomst. 
+
+I mangel på regulering eller forhåndsbeskjed fra EU-domstolen som sier noe annet,
+finnes det etter flertallets syn ingen grunn til at flyselskapet skal unnlate å betale
+erstatning for en kansellert flyvning bare fordi bookingen har skjedd for å oppfylle
+selskapets forpliktelse etter artikkel 8.1. Forordningens formål taler i samme retning
+ettersom en passasjer på en slik flyvning rammes av tidsspille og ulemper på samme
+måte som øvrige passasjerer på flyvningen. Flertallet er følgelig av den oppfatning at en
+passasjer er berettiget til kompensasjon i henhold til artikkel 7 i denne situasjonen om
+øvrige forutsetninger i henhold til forordningen også er oppfylt. 
+
+Tilsvarende må etter flertallets oppfatning også gjelde selskapets forpliktelser
+vedrørende forpleining i henhold til artikkel 8 og 9. 
+
+Klager hadde akseptert en omruting snarest mulig og vil dermed etter flertallets syn ha
+rett til standarderstatning for kanselleringen av denne omrutingen. 
+
+Mindretallet - bransjerepresentantene - er av en annen oppfatning: 
+Ved en kansellering har passasjeren krav på å bli omrutet til sin endelige destinasjon så
+tidlig som mulig under sammenlignbare transportvilkår. Passasjeren oppnår ikke nye
+rettigheter til kompensasjon ved en omruting. Omrutingen er en form for avhjelp som
+skal sikre at befordringsavtalen oppfylles. Det er dermed ingen ny befordringsavtale som
+inngås. Det inngås kun én kontrakt. Forordningen gir kun rettigheter til flyvninger som
+passasjeren har betalt. Omruting gjøres uten ytterligere kostnad for passasjeren. Det
+gis derfor ingen nye rettigheter til erstatning. Dette støttes av sak i tysk domstol; 18b
+C-27/16. 
+
+Nemnda mener derfor at klager har krav på standarderstatning på 600 euro. 
+
+Vedtaket er fattet med den dissens for fremgår ovenfor.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler at SAS utbetaler standarderstatning til klager med
+600 euro.

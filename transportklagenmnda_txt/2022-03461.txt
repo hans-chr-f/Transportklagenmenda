@@ -1,0 +1,78 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning for forsinket ankomst på mer enn 3 timer.
+
+Dato
+22.05.2023
+
+Saksnummer
+2022-03461
+
+Tjenesteytere
+Ryanair
+
+Klager har i det vesentlige anført
+
+Klager og hans medreisende reiste med Ryanair fra London, Stansted til Oslo den 24.
+oktober 2022. De ankom Oslo med en forsinkelse på tre timer og to minutter, og klager
+fremsatte et krav om standarderstatning på 250 euro per passasjer i henhold til EU-
+forordning 261/2004. 
+
+Ryanair avviste kravet og anførte at forsinkelsen var på under tre timer. Klager viser
+til e-posten de fikk fra Ryanair mens de satt og ventet på flyplassen i London. Da
+var forsinkelsen allerede på godt over to timer. Videre viser han til Flighttracker og
+utskrift derfra som viser en forsinkelse på tre timer og ti minutter. Også Avinor og
+Flightaware.com med flere viste lignende informasjon da de landet.
+
+Klager fastholder sitt krav standarderstatning for mer enn tre timer forsinkelse.
+
+Tjenesteyterne har i det vesentlige anført
+Ryanair beklager forsinkelsen på FR1392 fra London, Stansted til Oslo den 24. oktober
+2022. Da forsinkelsen var på under tre timer kan de ikke utbetale erstatning i henhold til
+EU-forordning 261/2004.
+
+Nemnda bemerker
+
+Forsinkelse som medfører at passasjerene kommer frem til det endelige
+bestemmelsesstedet mer enn tre timer etter det planlagte ankomsttidspunktet gir rett
+til erstatning. Dette gjelder imidlertid ikke dersom flyselskapet godtgjør at forsinkelsen
+skyldes ekstraordinære omstendigheter som ikke kunne vært unngått selv om alle
+rimelige tiltak var truffet. Det vises til EU-forordning 261/2004 artikkel 6 jf. artikkel 7
+jf. artikkel 5 nummer 3 og EU-domstolens avgjørelser i Sturgeon m.fl. mot Condor
+(C-402/07) og Nelson m.fl. mot Lufthansa (C-581/10 og C-629/10).
+
+Ryanair har fremlagt en linje fra trafikkloggen til klagers flyvning. Der vises tiden i
+feltet «LAND ON» med «1215/20». Tidene i loggen er oppgitt i UTC og det må derfor
+legges til to timer. I henhold til klagers billett var planlagt ankomsttidspunkt kl 11.15.
+Nemnda har i sin henvendelse til flyselskapet om tilsvar til saken forklart hva som
+kreves av dokumentasjon og forklaringer for å godtgjøre at de i et slikt tilfelle ikke er
+erstatningsansvarlige for forsinkelsen. Ryanair har ikke konkret opplyst om tidspunktet i
+trafikkloggen gjelder for når flyet landet eller om dette var tidspunktet flyet parkerte ved
+gaten eller da dørene ble åpnet. Det er tidspunktet for når dørene åpnes og passasjerene
+kan forlate flyet som er relevant når tidspunktet for faktisk ankomsttid skal beregnes.
+Det vises til EU-dom C-452/13 (Germanwings) og kommisjonens tolkningsveiledning til
+forordningen punkt 3.3.3. Nemnda mener at dersom flyselskapet ikke dokumenterer på
+hvilket tidspunkt dørene ble åpnet, må det legges til fem minutter. Dette er fast praksis
+i nemnda og også den praksis som dansk nemnd følger. Nemnda bemerker at det kan
+synes som det er gjort i loggen fra Ryanair også ved at ankomstidspunktet er uttrykt med
+«1215/20».
+
+Ettersom Ryanair ikke har forklart eller dokumentert nærmere hvilket tidspunkt døren
+på flyet ble åpnet, legges det fem minutter til tiden som er opplyst som «LAND ON» i
+trafikkloggen fra Ryanair. Nemnda kommer da frem til at forsinkelsen var på tre timer og
+fem minutter. Nemnda finner heller ikke at Ryanair har godtgjort at forsinkelsen skyldtes
+ekstraordinære omstendigheter som ikke kunne vært unngått selv om alle rimelige tiltak
+var truffet. Klager og hans medreisende har rett på standarderstatning på 250 euro per
+person, totalt 500 euro, for forsinkelsen.
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Ryanair utbetaler standarderstatning til klager og
+hans medreisende med 250 euro per person, totalt 500 euro.

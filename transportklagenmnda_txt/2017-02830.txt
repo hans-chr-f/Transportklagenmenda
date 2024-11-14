@@ -1,0 +1,181 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet forsinkelse
+
+Dato
+09.10.2018
+
+Saksnummer
+2017-02830
+
+Tjenesteytere
+United Airlines
+Flightfinder.no
+SAS
+
+Klager har i det vesentlige anført
+
+Den 25. september 2016 bestilte klager en reise for fire personer hos Flightfinder
+fra Kristiansand til New York via Oslo og Frankfurt den 24. juni 2017 og retur fra
+San Francisco via Zürich og Oslo den 16. juli 2017. I tiden som fulgte etter bestilling
+kom det flere meldinger om tidendringer på reiseplanen, men så lenge avreise- eller
+ankomsttidspunktet ikke ble endret, hadde ikke tidendringene noe å si for klager.  
+
+Den 22. juni, to dager før avreise, oppdaget klager at strekningen Kristiansand - Oslo
+manglet fra reiseruten. Klager ringte United Airlines, og de kunne bekrefte at alt var
+i orden. Klager sjekket hos SAS også, men da heller ikke de kunne finne strekningen
+Kristiansand - Oslo på klagers reiserute, booket klager fire nye fullprisbilletter på
+strekningen som back-up, pris kroner 10 196.
+
+Ved innsjekk avreisedagen i Kristiansand måtte klager reise på back-up billettene, da SAS
+ikke kunne finne de opprinnelige plassene på klagers reiseplan. Klager fikk etter mye om
+og men sjekket inn i Oslo og ankom New York etter ruteplanen.
+
+På returen fra San Fransisco med Swiss Air møtte klager og hans reisefølge opp fire timer
+før avgang for å ha god tid. Likevel opplevde klager samme problem som på utreisen.
+Swiss Int Air Lines kunne ikke finne klagers reservasjon, hun holdt på i to timer før
+innsjekk stengte og klager ble deretter henvist til United Airlines skranken. Her fikk klager
+hjelp til ombooking til neste dag, men kun til Oslo. Det var ikke mulig å booke om klagers
+billett helt til Kristiansand. 
+Reisefølget ble tildelt et hotellrom på deling for natten og reiste dagen etter til Oslo via
+Frankfurt. 
+
+Klager endte opp med å kjøpe nye billetter med Norwegian fra Oslo til Kristiansand, pris
+kroner 4 236. 
+
+Klager har til nå kun mottatt 17 000 eurobonuspoeng.
+
+Klager krever standarderstatning 600 euro per person for både utreisen og for returen,
+tilsammen 4 800 euro. Videre krever han refusjon av utgifter til nye billetter, kroner 10
+196 og kroner 4 236.
+
+Det vises for øvrig til klagers brev.
+
+Tjenesteyterne har i det vesentlige anført
+* Flightfinder har ikke avgitt uttalelse til klager eller til nemnda.
+
+* United Airlines har ikke avgitt uttalelse til nemnda. Til klager har selskapet i det
+vesentlige anført:
+
+United Airlines har tilbakebetalt beløp for ubenyttede billetter til billettutsteder
+Flightfinder. United Airlines kan i tillegg av godvilje  tilby reisegavekort eller bonuspoeng i
+Uniteds lojalitetsprogram. 
+
+* SAS har i det vesentlige anført:
+
+Klager med reisefølge hadde bestilt følgende reiserute hos Flightfinder:
+
+UA6981 L 24JUN 6 KRSOSL HK4 0730 0815 (operert av SAS)
+UA7002 L 24JUN 6 OSLCDG HK4 0900 1110
+UA 055 L 24JUN 6 CDGEWR HK4 1310 1545
+LX 039 L 15JUL 6 SFOZRH LK4 2005 1555+1
+LX1216 L 16JUL 7 ZRHOSL LK4 1640 1900
+SK 225 T 16JUL 7 OSLKRS LK4 1955 2040
+
+I oktober 2016 gjorde SAS to ubetydelige ruteendringer på strekningene Kristiansand-
+Oslo og Oslo-Kristiansand.  SAS viser til fremlagt kopi av klagers bookinghistorie. Her
+kommer det frem at flyselskapet United Airlines den 18. november 2016 kansellerte
+utreisen i bestillingen, for deretter den 28. desember å booke en ny utreise denne
+gangen via Frankfurt i stedet for via Paris. Men United Airlines fikk etter gjentatte forsøk
+ikke bekreftet  segmentene med SAS. Status blir UN som betyr unconfirmed.
+
+037 XS/UA6981 L 24JUN 6 KRSOSL HK4 0715 0800.
+037 AS/UA6981 L 24JUN 6 KRSOSL UN4 0715 0800.
+
+I tillegg manglet billettnummeret på klagers retur med Swiss Int. Air Lines, slik at klager
+igjen fikk problemer ved innsjekk også på returen. 
+
+Den 20. januar 2017 sendte SAS en melding til reisebyrået og til United Airlines om at
+billettnummer mangler på SAS-segmentene i bookingen, og at plassene blir kansellert
+dersom ikke billettnummer legges inn. Ingenting ble gjort og SAS-segmentene ble
+kansellert den 22. januar:
+
+281 SX/SSR OTHSUA PLEASE PROVIDE PROPER TKT ASSOCIATION BY 22JAN17 2359/0SL
+281 SX/SSR OTHSUA OR SK WILL CANCEL
+281 SA/SSR OTHSUA AUTO CANCELED DUE TO LACK OF VALID TICKET NUMBER
+
+Dette er en sak mellom reisebyrået Flightfinder og United Airlines som er eier av
+dokumentet. Bestillingshistorien i Amadeus viser at reisebyrået/United mottok
+endringene fra SAS vedrørende SK208/UA6981 24 juni og SK225 16 juli. Klagerne kom
+ikke med flyet, men selve flygningen ble ikke forsinket. 
+
+SAS kan ikke se å ha gjort noe galt i denne saken, og kan ikke imøtekomme klagers krav
+utover kompensasjonen på 17 000 eurobonuspoeng som er overført klager av godvilje. 
+
+Det vises for øvrig til SAS' brev.
+
+Nemnda bemerker
+
+I angjeldende sak fikk klager beskjed om SAS' små ruteendringer i god tid og aksepterte
+dem. Saken gjelder da heller ikke kanselleringene, men hvem som har ansvaret for at
+bookingen var ufullstendig ved avreise. Det var dette som skapte problemene for klager
+og hans reisefølge.
+
+Det er flyselskapene som er ansvarssubjekter etter forordningen. Formidlere av
+flybilletter vil imidlertid kunne bli holdt ansvarlig for tap som følge av mangelfull
+formidling av informasjon eller annen uaktsomhet på alminnelig erstatningsrettslig
+grunnlag. 
+
+Før saken behandles i nemnda, skal partene gis mulighet til å uttale seg om både
+faktiske og rettslige sider av saken. Dersom partene ikke benytter seg av sin adgang til
+å uttale seg, kan nemnda likevel treffe vedtak på grunnlag av de opplysninger som er
+fremkommet tidligere i saken, jf. forskrift om klagenemnd for flypassasjerer § 5-3.
+
+Klagen er forelagt United Airlines og Flightfinder ved nemndas e-post av 28. november
+2017 med frist til 16. januar 2018 for eventuelle bemerkninger. I e-posten opplyses
+det bl.a. om at flyselskapet har bevisbyrden ved påberopelse av ekstraordinære
+omstendigheter som kan gi grunnlag for fritak for ansvar. Det fremgår videre at nemnda
+vil legge passasjerens opplysninger til grunn dersom disse ikke imøtegås av flyselskapet.
+Det blir også opplyst at saken vil bli forelagt nemnda selv om flyselskapet ikke avgir
+uttalelse.  
+
+Verken United Airlines eller Flightfinder har avgitt uttalelse til nemnda.  
+
+Nemnda legger etter dette følgende til grunn:
+De angjeldende billettene var gjennomgående og utstedt av Flightfinder på United
+Airlines dokument. 
+Klagers reiserute involverte følgende flyselskaper: SAS, United Airlines og Swiss Air.
+Problemene og forsinkelsen oppstod på ruten fra Kristiansand som var operert av SAS og
+på avgangen fra San Fransisco som var operert av Swiss Air. 
+Etter to ubetydelige ruteendringer fra SAS, gikk United Airlines inn og booket om
+billettene med det resultat at de ikke fikk tilbake opprinnelige seter med SAS. Billettene
+ikke ble bekreftet på tross av at reisebyrået gjentatte ganger forsøkte, men ikke lyktes.
+Billettene ble derfor heller ikke skrevet om korrekt. Dette førte til at SAS sendte advarsel
+til både United Airlines og Flightfinder om at billettene ville bli kansellert om ikke
+billettnummer ble registrert i bestillingen. Dette ble ikke gjort, og billettene ble kansellert
+fem-seks måneder før avreise. Flightfinder foretok seg ingenting fra SAS-flygningene ble
+kansellert i januar frem til to dager før avreise i juni. Da forsøkte igjen United å legge inn
+SAS avgangene uten at de ble bekreftet. 
+
+Nemnda legger etter dette til grunn at hverken SAS eller Swiss Air har  noe ansvar i
+saken. Problemene som oppstod skyldtes hverken forsinkelse eller kansellering av
+flyvningene eller for øvrig feil fra disse selskapene. Klagerne kom ikke med flyene, men
+selve flygningene ble ikke forsinket. Nemnda er av den oppfatning at det i dette tilfellet
+ikke er grunnlag for standarderstatning etter EU-forordningen.
+
+Bestillingshistorien i Amadeus viser at både reisebyrået og United Airlines mottok
+endringene fra SAS vedrørende SK208/UA6981 24 juni og SK225 16 juli. De har
+selv senere gjort endringer i bookingen. Etter nemndas syn skulle både United og
+Flightfinders ha aksjonert. Begge har etter nemndas syn et ansvar i denne saken, men
+det var reisebyrået klager kjøpte billettene av, og det er også reisebyrået som er ansvarlig
+for at bestillingen er i orden ved avreise. Reisebyrået kunne følge med bestillingen hele
+veien, men ignorerte advarselen fra SAS.  Det er reisebyrået som er ansvarlig for at
+bestillingen er i orden ved avreise, både på utreise og retur. Reisebyrået har som nevnt
+ikke svart nemnda. 
+
+Etter dette har nemnda kommet til at såvel Flightfinder som United Airlines har opptrådt
+uaktsomt, men at reisebyrået er nærmest til å bære ansvaret overfor klager som sin
+kunde. Et eventuelt etteroppgjør i form av regress blir opp til reisebyrået og United
+Airlines.
+
+Nemnda anbefaler etter dette at Flightfinder betaler til klager kr 10 196 for billettene fra
+Kristiansand til Oslo og kr 4 236 for billettene fra Oslo til Kristiansand. I tillegg kommer
+penger til forpleining. Eventuell utbetalt erstatning trekkes fra.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler at Flightfinder betaler til klager kr 10 196 for
+billettene fra Kristiansand til Oslo og kr 4 236 for billettene fra Oslo til Kristiansand. I
+tillegg kommer penger til forpleining. Eventuell utbetalt erstatning trekkes fra.

@@ -1,0 +1,92 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Skanning av QR-kode under kontroll.
+
+Dato
+19.05.2021
+
+Saksnummer
+2021-00472
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager reiste med buss fra Strindheim til Skovgård den 16. februar 2021 da han ble ilagt
+gebyr. Klager åpnet billettappen til AtB og viste billett, men kontrolløren fikk feilmelding
+i form av bokstav og tallkode da han forsøkte å få frem QR-koden for å scanne billetten.
+Kontrolløren anså dette som ikke fremvist billett og ila klager et gebyr. 
+
+Da klager tok kontakt med AtB kundeservice om denne feilmeldingen, var beskjeden fra
+selskapet at feilmeldingen med bokstav og tallkode kunne benyttes i stede for QR-koden.
+
+Tjenesteyterne har i det vesentlige anført
+I forbindelse med innføring av ny rutestruktur i Trondheim den 03.08.2019 gikk AtB
+samtidig over til åpen billettering. Gyldighetstiden på billettene er basert på at de
+reisende må kjøpe billett før de starter reisen, og følgelig er SMS- og -enkeltbilletten på
+Mobilappen gitt 30 minutter lengre aktiveringstid. 
+
+Det fremgår av bruksvilkårene for Mobillett at datatrafikk må være påslått i en
+kontrollsituasjon, slik at billetten kan fremvises på forespørsel. I tillegg er det
+passasjerens ansvar at mobiltelefonen fungerer normalt, skjermen er leselig og har nok
+batterikapasitet så lenge reisen varer slik at gyldig billett kan fremvises. Enkelte ganger
+kan man erfare problemer i appen, enten på grunn av problemer med nettforbindelsen
+eller andre tekniske årsaker. Det er likevel den reisendes ansvar å påse at man til enhver
+tid kan fremvise gyldig billett. Dersom du ikke kan fremvise billett, vil det anses som å
+reise uten gyldig billett.
+
+For hvert tilleggsgebyr som blir utstedt, skriver billettkontrollørene en rapport for
+hendelsen. kontrollørrapport fra billettkontroll på linje 25 står det følgende:
+
+Det blir foretatt en uniformert billettkontroll på linje 25 ved holdeplass Strindheim i
+retning Vikåsen. Kontrollør 333 starter ved fremre del, kontrollører 160626 og 161820
+ved midtre del og kontrollør 161742 starter ved bakre del. En mannlig passasjer blir
+kontrollert i midtre del av bussen. Passasjeren har ingen billett å fremvise. Passasjeren
+oppgir personalia i form av student ID. Passasjeren blir informert om betalingsmåte og
+klagefrist. Gebyr 70603 blir utstedt.
+
+Det ligger i retningslinjene til kontrollørene at de skal notere uregelmessigheter/moment
+som kan ha en vesentlig karakter under sjekk av billettkontroll. I denne saken står det
+ikke noe om det Klager viser til ved problemer med å fremvise QR-kode. Det som bør
+vektlegges i slike tilfeller er i hvilken grad QR-koden spiller for AtB og kontrollørene. QR-
+koden ble laget og implementert hos leverandøren av AtBs mobillettsystem i et ledd
+for å effektivisere billettkontrollørene. Denne løsningen med skanning av QR-koder har
+imidlertid ikke blitt implementert hos AtB. Det betyr at man ikke trenger å fremvise QR-
+koden ved billettkontroll. Alle Mobilletter blir enten visuelt sjekket eller inspektert ved at
+kontrollørene sender en kontrollmelding på SMS. I dette tilfellet ble det ikke fremvist en
+billett, som resulterte i at kontrollørene utstedte et tilleggsgebyr.
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på bussen den 16. februar 2020 fordi han ikke kunne fremvise
+gyldig billett ved kontroll.
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning. Av transportvedtektenes pkt.
+6.2 følger det at det skal ilegges tilleggsavgift dersom den reisende ikke kan vise gyldig
+billett. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om passasjeren ikke har
+opptrådt klanderverdig.
+
+Klager anfører at billett ble fremvist, men at kontrolløren ikke fikk scannet QR-koden
+i billettappen og at han derfor ble ilagt gebyr for ugyldig billett. AtB har i sitt tilsvar
+til nemnda opplyst at QR-koden er implementert av leverandøren til systemet for
+mobilbillett, men at selskapet ikke har innført bruk av den type strekkode. Ved kontroll av
+mobilbillett blir disse sjekket visuelt, eller ved at kontrolløren sender en kontrollmelding
+på SMS. 
+
+Nemnda har merket seg at det i gebyret er notert at klager ikke kunne fremlegge noen
+billett. På bakgrunn av fremsatt informasjon om selskapets rutiner ved kontroll av
+mobilbillett, finner nemnda det lite sannsynlig at det ble fremvist noen gyldig billett
+under kontrollen. Nemnda kan derfor ikke se at det foreligger en grunn til å ettergi
+gebyret i dette tilfellet.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

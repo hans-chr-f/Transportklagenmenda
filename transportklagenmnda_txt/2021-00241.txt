@@ -1,0 +1,127 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr
+
+Dato
+21.06.2021
+
+Saksnummer
+2021-00241
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 8. januar 2021. Klager forklarer at hun alltid har betalt med
+bankkort og at det har gått bra. Klager anfører at da hun skulle kjøpe billett denne dagen
+dukket det opp en tekst i rød skrift hvor det fremkom at hun allerede hadde en aktiv
+billett, men at hun allikevel kunne kjøpe en ny billett. Videre anfører klager at når hun
+trykket bekreft og skulle kjøpe en ny billett stod det at hun var nødt til å betale med
+Vipps. Klager mener at AtB gjorde det umulig for henne å kjøpe billett via appen. Videre
+anfører klager at siden det stod at hun allerede hadde en aktiv billett trodde hun at hun
+kunne reise med bussen. 
+
+Klager forklarer at hun viste den røde teksten til kontrollørene hvor det stod at hun
+allerede hadde en aktiv billett. Da kontrolløren sjekket om hun hadde en aktiv billett fant
+de ingen aktiv billett. Klager forklarer at hun ikke visste at man kunne sjekke om man har
+en aktiv billett. 
+
+Klager anfører at det var tekniske problemer med appen og ikke med hennes mobil. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr 8. januar 2021 fordi hun ikke kunne fremvise gyldig billett under
+billettkontrollen. Det fremgår av AtBs Transportvedtekter nr. 3 f at passasjeren skal
+«oppbevare billetten og rabattbeviset under hele reisen og helt til passasjeren har forlatt
+transportmiddelet eller kontrollsonen.» Dersom passasjeren ikke kan fremvise gyldig
+billett i en kontrollsituasjon, vil det anses som å reise uten gyldig billett.
+
+Klager påpeker at det ble forsøkt å kjøpe Mobillett, men at appen ga beskjed om at det
+allerede var en gyldig billett på mobilen. AtB er kjent med denne feilmeldingen, men den
+skal kun dukke opp dersom det faktisk foreligger en gyldig billett i Mobillettappen, og har
+som hensikt å unngå at det blir gjennomført «dobbeltkjøp». Alle forsøk på billettkjøp blir
+logget hos AtB.
+
+AtB ser av klagers kjøpshistorikk den 8. januar 2021 at klager har forsøkt å kjøpe billett,
+men at kjøpsprosessen ikke gikk igjennom. I slike tilfeller skal må få feilmelding om
+at appen ikke får belastet betalingskortet og at man blir bedt om å prøve et annet
+betalingsalternativ. Årsaken til at kjøpet ikke gikk gjennom kan eksempelvis skyldes
+manglende dekning på konto, tidsavbrudd (dårlig nettdekning) eller tekniske problemer
+hos Vipps. AtB har for ordens skyld undersøkt Mobillettsystemet for feil, men kan ikke se
+at andre kunder har opplevd de samme problemene som klager.
+
+I slutten av desember 2020 kom det et nytt EU-direktiv for sikker betaling. Hensikten
+bak direktivet var å øke sikkerheten for nettbetalinger. Dette har ført til at mange
+kortutstedere har hatt problemer med å oppdatere sikkerheten i bankkortene
+til kundene sine. Dette har ført til at mange kunder opplever problemer med å
+få gjennomført betalingen sin når de skal kjøpe billett i AtBs Mobillett. AtB har
+hatt god dialog med leverandøren av AtB Mobillett, og AtB var tidlig ute med å
+oppdatere vår betalingsløsning som benytter Nets som betalingsformidler. AtB viser
+til driftsmeldingene for Nets som viser at det ikke var noen problemer knyttet til AtB
+sin betalingsformidler. AtB kan derfor ikke holdes ansvarlig for problemer som oppstår
+utenfor AtB sin kontroll, og internt i forbindelse med kundenes kortutstedere. 
+
+Det fremgår av AtBs transportvedtekter at det er den reisendes ansvar at man til enhver
+tid skal påse at man har gyldig billett før man reiser. Dersom man opplever problemer
+med å benytte et av betalingsalternativene for Mobillett, må man benytte et annet.
+Dersom en kunde kjøper for mange billetter som en følge av tekniske problemer, vil
+dette bli refundert. Dette blir også kommunisert dersom kunder tar kontakt med AtBs
+kundeservice.
+
+Klager anfører i sin klage at hun ikke fikk noen varsel om at betalingen ikke hadde gått
+gjennom. Når man kjøper billett i Mobillett, vil alle gjennomførte kjøp dukke opp under
+menyen «aktive billetter». Dette er en løsning som er brukertestet og som vi har fått
+tilbakemelding på at er både intuitivt og oversiktlig.
+
+I dette tilfelle forsøkte klager å kjøpe flere billetter 8. januar 2021, og betalingene fikk
+betalingsstatus "feilet" kort tid etterpå. 
+
+AtB kan ikke tillate en praksis hvor reisende på grunn av eksterne forhold utenfor AtBs
+kontroll ikke fremviser gyldig billett. Å vise til at man forsøkte å bestille en billett 18 dager
+tidligere er ikke tilstrekkelig, når transaksjonen ikke går gjennom.
+
+På bakgrunn av ovennevnte opprettholder AtB sin tidligere avgjørelse i saken.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr 8. januar 2021 fordi hun ikke kunne fremvise gyldig billett under
+billettkontrollen.
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av transportvedtektenes pkt. 6.2 følger det at det skal ilegges tilleggsavgift dersom den
+reisende ikke kan vise gyldig billett. Bestemmelsen er objektiv. Gebyr kan således ilegges
+selv om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, slik at vilkårene for å
+ilegge gebyr var til stede. 
+
+Klager anfører at det var tekniske problemer med appen og ikke med hennes mobil. 
+
+Det fremgår av dokumentasjonen fra AtB at deres betalingsformidler ikke har registrert
+noen problemer knyttet til AtB sin betalingsformidler. Videre har AtB forklart at de har
+undersøkt Mobillettsystemet for feil, men kunne ikke se at noen andre kunder hadde
+opplevd de samme problemene som klager. 
+
+Nemnda mener at klager skulle forsikret seg om hun hadde en gyldig billett eller
+ikke, og viser til at det er den reisendes ansvar å sette seg inn i billettsystemer og
+betalingsmåter. Nemnda viser til AtBs redegjørelse for muligheter for å legge inn
+alternative betalingsordninger i appen. 
+
+Nemnda bemerker at det ved kjøp av billetter via app er den reisendes ansvar å sørge for
+at billetten blir lastet ned og deretter også aktivert. Videre er det den reisendes ansvar å
+sjekke om en billett fremdeles er gyldig. 
+
+Det er den reisendes ansvar å sørge for gyldig billett ved reise med kollektiv transport. 
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

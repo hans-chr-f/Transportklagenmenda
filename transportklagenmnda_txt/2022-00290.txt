@@ -1,0 +1,150 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Ikke validert billett. Anført at det
+må ha vært en feil med automaten eller forsinkelse i systemet.
+
+Dato
+19.05.2022
+
+Saksnummer
+2022-00290
+
+Tjenesteytere
+Vy
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr den 13. desember 2021 som følge av at billetten ikke var aktivert.
+
+Klager anfører at hun validerte billetten på Jessheim stasjon og gikk på toget i ubetjent
+vogn, siden billetten var validert. Klage anfører at hun derfor er blitt ilagt kontrollgebyr
+på feil grunnlag, siden hun aktiverte månedskortet sitt som normalt før hun gikk på
+toget. Klager anfører at det har vært en teknisk svikt som har gjort at automaten har gitt
+uttrykk for at billetten hennes ble aktivert, noe den da muligens ikke ble likevel. Klager
+anfører at hun har en lang historikk på aktiverte månedskort over flere år. Klager anfører
+at hun aldri har fått noen advarsel eller bot i kontroll tidligere.
+
+Klager anfører at hun har et veldig godt grunnlag for å kunne bevise at hun gikk på toget
+i god tro om at billetten var validert etter å ha gjort dette på stasjonen. Klager anfører at
+måten hun ble behandlet på av kontrolløren var rystende, da andre passasjerer ble nødt
+til å gripe inn, siden kontrolløren var aggressiv og ubehagelig mot henne.
+
+Klager anfører at hun ble skjelt ut av kontrolløren foran hele vognen, og hun ble sittende
+to timer etter og gråte og skjelve som følge av hvor ubehagelig hele opplevelsen var.
+Klager anfører at hun endte opp med å måtte dra til legen for en hastetime siden hun ble
+så slått ut av måten kontrolløren oppførte seg på at hun mistet følelsen i hele kroppen.
+Klager anfører blant annet at kontrolløren var ekkel mot henne og antydet at hun var
+ute etter å ta noen, og at det tilfeldigvis ble klager. Klager anfører at slik oppførsel skal
+unnskyldes og tas videre med ledelsen, slik at dette ikke skjer igjen. Klager anfører at hun
+har forhørt seg med en jurist og fått tilbakemelding om at det er tydelig at hun har gått
+gebyr på feil grunnlag.
+
+Klager anfører at det er normal praksis å gi en advarsel første gang noe slikt skjer. Klager
+anfører at poenget med kontrollene ikke er å ta dem som har månedskort og alltid reiser
+med gyldig billett, men passasjerer som ikke har billett og heller ikke har intensjon om å
+kjøpe en. Klager anfører at dette ikke stemmer med hennes sak.
+Klager anfører at det ikke er blitt fremlagt dokumentasjon på at det ikke var en teknisk
+svikt som gjorde at billetten ikke ble validert, eller at det ikke kan oppstå forsinkelse i
+datasystemet under noen omstendigheter. Klager anfører at en 30-minutters forsinkelse
+ved validering ikke er uvanlig for et IT-system ved feil.
+
+Klager anfører at det på Jessheim stasjon er en billettautomat som kan validere kort.
+Klager anfører at det var første gangen hun hadde benyttet seg av automaten, da hun
+normalt ikke er i det området, men hun anfører at den har vært der hele tiden. Klager
+anfører at kontrolløren ikke tilbød seg å validere billetten. Klager anfører at da hun
+spurte om det, fikk hun beskjed om at de ikke validerer billetter og at hun måtte gjøre
+det selv. Klager anfører at det hadde hun jo gjort på forhånd, men det fungerte tydeligvis
+ikke.
+
+Klager viser til dokumentasjon på at hun aktiverte billetten på automat på Jessheim
+stasjon. Klager anfører at det derfor må ha vært en teknisk årsak til at kontrollørene
+ikke kunne lese av billetten ved kontroll. Klager anfører at billetten var gyldig da hun
+dobbeltsjekket på automaten.
+
+Klager anfører at hun alltid har gyldig billett, hadde kjøpt månedskort og hadde aktivert
+den som normalt. Klager anfører at det tilfeldigvis var en forsinkelse eller teknisk feil på
+systemet den dagen som gjorde at kontrollørene ikke fikk lest av billetten riktig. Klager
+anfører at det ikke er hennes feil og at hun heller ikke bør straffes med en kjempebot for
+dette.
+
+Klager anfører at kundebehandlerne kunne utvise litt skjønn. Klager anfører at hun har
+fått beskjed om at det har vært en feil på automaten ved aktivering, og at Vy/Entur er
+pliktig til å undersøke dette. Klager anfører at hun også har fått beskjed om at det kan
+være forsinkelser fra aktivering på automat og til kortleser fra kontrolløren kan lese
+billetten og den registreres som aktivert. Klager anfører at dette skyldes at datasystemer
+har en feilmargin og at det var kjent at det spesielt ofte er problemer om vinteren.
+
+Det vises til klagers øvrige anførsler i fremlagt dokumentasjon.
+
+Klager krever frafall av det ilagte gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Ved billettkontroll ble klager påtruffet i en vogn merket «kun gyldig billett» på tog 1632
+den 13. desember etter avgang fra Frogner og på vei mot Oslo. Klager kunne ved kontroll
+ikke fremvise gyldig billett for reisen hun benyttet seg av, og hun ble derfor korrekt ilagt
+et kontrollgebyr.
+
+Kontrollgebyret ble betalt på stedet kl. 13.02. Ved kontroll fremviste klager en Ruter-
+enkeltbillett kjøpt den 13. april – samt et Ruter-reisekort som inneholdt en billett som
+var kjøpt den 24. november. Ingen av disse billettene var aktivert da klager ble påtruffet
+i kontroll den 13. desember. Billetten på reisekortet ble aktivert av personalet kl. 13.03
+etter at kontrollen var avsluttet. Det vises til fremlagt kopi av kontrollørens anførsler.
+
+Klager anførte i klage til Vy at hun validerte billett(ene) ved «Jessheim Stasjon, kl. 12.33,
+på valideringsautomaten som står ved siden av billettautomaten på stasjonen». Entur-
+validatorer ved stasjonene ble frakoblet, «offline», den 15. februar 2021 og fysisk fjernet
+fortløpende. Det er således ikke mulig at klager skulle ha foretatt validering på denne
+måten. Billett på reisekort kan aktiveres på Ruter-kortlesere, Enturs billettautomater
+eller av personale på toget. Vy var for ordens skyld i kontakt med Entur AS, som eier og
+drifter automater, som ikke har registret noen feil eller nedetid på sine to automater ved
+Jessheim stasjon denne dagen.
+
+Vy må stille krav til at man har billett i orden for hele reisen når man har valgt en vogn
+merket «kun gyldig billett», og forholder seg til det faktum at klager ikke kunne fremvise
+gyldig validert billett for reisen hun benyttet seg av.
+
+Hjemmel for å ilegge gebyr fremgår av Vy reisevilkår § 4 A: «Hvis du ikke kan vise gyldig
+billett i en kontroll, må du betale et gebyr fastsatt av Samferdselsdepartementet.»
+
+Vy ser ingen grunn til å refundere betalt gebyr.
+
+Nemnda bemerker
+
+Det fremgår av Vys transportvilkår punkt 4 A at passasjerer som ved kontroll ikke kan
+vise gyldig billett, vil bli ilagt et gebyr. Bestemmelsen er objektiv, og gebyr kan således
+ilegges selv om passasjeren ikke har opptrådt klanderverdig. Videre fremgår det av
+transportvilkårenes punkt 3 at digitale/elektroniske billetter skal være aktivert før man
+går på toget.
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, og vilkårene for å ilegge
+gebyr var således til stede.
+
+Klager har anført at hun validerte billetten som normalt før hun gikk på toget og at hun
+var i god tro om at billetten var validert. Klager har anført at hun alltid kjøper billett.
+Klager har videre blant annet anført at det har vært en teknisk feil eller forsinkelse som
+medførte at billetten ikke var registrert validert da kontrolløren kom. Klager har også
+anført at kontrollen var en svært ubehagelig opplevelse og at det burde utvises skjønn.
+
+Vy har oppgitt at de har vært i kontakt med Entur, som har bekreftet at det ikke var noen
+feil med billettautomatene på Jessheim stasjon den aktuelle dagen.
+
+Nemnda bemerker at det er den reisendes ansvar å sørge for gyldig billett ved reise med
+kollektiv transport, og det er den reisendes ansvar å kunne vise gyldig billett. Klager gikk
+om bord i ubetjent vogn, hvor man må ha kjøpt og aktivert billetten på forhånd.
+
+Nemnda er kjent med at kontrollørene utøver et visst skjønn ved ileggelse av gebyrer,
+men finner av prinsipielle grunner ikke å kunne vurdere skjønnsutøvelsen i det enkelte
+tilfelle. Videre har ikke nemnda grunnlag for å overprøve Vys skjønnsmessige vurderinger
+i forbindelse med gebyrileggelser sammenlignet med andre saker. Nemnda har for øvrig
+ikke grunnlag for å vurdere om kontrollørene kan bebreides for sin atferd.
+
+Nemnda har forståelse for at reaksjonen med gebyr kan oppleves som streng i et
+tilfelle som dette, men av hensynet til reiseforetakenes behov er det nødvendig å ha en
+konsekvent praksis.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager gis medhold.

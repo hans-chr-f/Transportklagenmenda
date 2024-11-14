@@ -1,0 +1,118 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning og dekning av matutgift
+grunnet forsinkelse med mistet videreforbindelse.
+
+Dato
+27.06.2023
+
+Saksnummer
+2022-02530
+
+Tjenesteytere
+SAS
+Singapore Airlines
+
+Klager har i det vesentlige anført
+
+Klager med reisefølge (til sammen fire personer) skulle reise fra Singapore til Oslo via
+London den 27.-28. juli 2022 (SK8042 og SK802). Flyvningen fra Singapore til London
+(SK8042 Operated by Singapore Airlines) ble forsinket, med den følge av de reisende
+mistet videreforbindelsen fra London til Oslo. De ble ombooket til en senere flyvning fra
+London til Oslo (SK804) med avgang fra London kl. 09:50.  Denne ble også noe forsinket.
+Klager med reisefølge landet i Oslo cirka kl. 13:45. Forsinkelse på endelig destinasjon var
+med dette på cirka 3 timer og 30 minutter. 
+
+Det er fremsatt krav om høyeste sats for standarderstatning i henhold til EU-forordning
+261/2004, samt dekning av matkostnad på flyplassen i London (49,85 GBP). 
+
+Klagers krav baserer seg på følgende forutsetninger:
+
+- Klager med reisefølge hadde en reise som var booket hos SAS som en gjennomgående
+billett, med én bestillingsreferanse  for hele reisen fra Singapore til Oslo.
+- Klager med reisefølge ble mer enn tre timer forsinket til endelige reisemål. 
+- Forsinkelsen til det endelige reisemålet skyldes ikke ekstraordinære omstendigheter
+utenfor flyselskapets kontroll.
+- Reisen var bestilt gjennom SAS som er et flyselskap hjemmeværende i EU/EØS og flyet
+til endelig reisemål ble betjent av SAS som er et flyselskap hjemmeværende i
+EU/EØS.
+
+At EU-forordning 261/2004 gir rett til erstatning fra billettutsteder basert på forsinkelse til
+endelig destinasjon som følge av mistet flyforbindelse (uavhengig av hvem som opererer
+denne flyvningen) er forøvrig slått fast i en rekke avgjørelser i EU domstolen som f.eks
+EU-dom C-537/17.
+
+Tjenesteyterne har i det vesentlige anført
+Singapore Airlines har anført at klager har søkt kompensasjon etter EU-forordning
+261/2004 grunnet forsinkelsen av SQ322 den 27. juli 2022 fra Singapore til London.
+Ettersom flyvningen gikk fra Singapore, en flyplass lokalisert utenfor EU, kan ikke
+Singapore Airlines utbetale kompensasjon etter EU-forordning 261/2004.
+
+SAS har anført: Slik Singapore Airlines skriver ble denne flighten operert av SQ. Følgelig
+er det SQ som er ansvarsubjekt etter forordningen. SAS anser at dette er en sak mellom
+passasjeren og SQ og har dermed ikke ytterligere kommentarer til saken.
+
+Nemnda bemerker
+
+Nemnda finner det ubestridt at det oppsto en forsinkelse på flyvningen fra Singapore til
+London som medførte at klager mistet videreforbindelsen til Oslo og kom frem med en
+forsinkelse som overstiger tre timer.
+
+Spørsmålet er om EU-forordning 261/2004 får anvendelse på klagers reise fra Singapore
+til London med videreforbindelse fra London til Oslo. 
+
+EU-forordning 261/2004 gjelder i utgangspunktet for passasjerer som reiser fra en
+lufthavn som ligger i EU/EØS-området jf. artikkel 3 nr. 1 bokstav a. Forordningen får også
+anvendelse for passasjerer som reiser fra en lufthavn utenfor EU/EØS området, og til
+en lufthavn innen EU/EØS dersom det utførende flyselskapet er et EU/EØS flyselskap,
+jf. artikkel 3 nr. 1 bokstav b. Det «utførende luftfartsselskap» er i artikkel 2 bokstav b)
+definert til «et lufttransportforetak som utfører eller har til hensikt å utføre en flyvning i
+henhold til en avtale med en passasjer eller på vegne av en annen person, juridisk eller
+fysisk, som har en avtale med denne passasjeren. 
+
+EU-domstolen har imidlertid i sin dom C-367/20 KLM Royal Dutch Airlines av 12.
+november 2020 som gjaldt en flyvning fra New York via Amsterdam til Hamburg,
+der billetten var utstedt av KLM i et såkalt code share samarbeid med Delta Airlines,
+konkludert med følgende (dansk oversettelse):
+
+«Artikel 5, stk. 1, litra c), og artikel 7, stk. 1, i Europa-Parlamentets og Rådets forordning
+(EF) nr. 261/2004 af 11. februar 2004 om fælles bestemmelser om kompensation
+og bistand til luftfartspassagerer ved boardingafvisning og ved aflysning eller lange
+forsinkelser og om ophævelse af forordning (EØF) nr. 295/91, sammenholdt med
+denne forordnings artikel 3, stk. 1, litra b), og artikel 3, stk. 5, skal fortolkes således, at
+i forbindelse med en flyvning med direkte tilsluttet flyforbindelse, som er sammensat
+af to flyvninger, og som har været genstand for en samlet reservation, fra en lufthavn,
+der er beliggende på et tredjelands område, til en lufthavn beliggende i en medlemsstat
+via en lufthavn i en anden medlemsstat, kan en passager, der ankommer til sit endelige
+bestemmelsessted med en forsinkelse på tre timer eller mere, som skyldes den første
+flyvning, som i henhold til en code sharing-aftale blev udført af et luftfartsselskab
+med hjemsted i et tredjeland, i henhold til denne forordning anlægge sit søgsmål om
+kompensation mod det EF-luftfartsselskab, som udførte den anden flyvning."
+
+Klager i forstående sak hadde en billett utstedt av SAS i et såkalt "code share" samarbeid
+med Singapore Airlines, det vil si at flyselskapene samarbeider om reiseruten, og selger
+denne som en gjennomgående billett merket med rutenumrene til det flyselskapet
+som har utstedt billetten, selv om en eller flere av strekningene faktisk flys av et
+annet selskap. I klagers billett er flynumrene utstedt med "SK" som står for SAS, med
+informasjon om at flyvningen fra Singapore til London opereres av Singapore Airlines, og
+flyvningen fra London til Oslo av SAS.
+
+Nemnda mener på denne bakgrunn at klager kan rette sitt krav om standarderstatning
+til SAS, og mener at klager har rett på å få utbetalt standarderstatning fra SAS.
+Standarderstatningen må imidlertid reduseres med 50% fordi forsinkelsen er under 4
+timer og distansen er over 3500 km, jf. flypassasjerforordningen art. 7 nr. 2 c). Nemnda
+anbefaler derfor at SAS utbetaler 300 euro per person, samt dekker de reisendes
+matkostnad pålydende 49,85 GBP. SAS kan i henhold til forordningen artikkel 13,
+eventuelt søke regress hos Singapore Airlines.
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standarderstatning eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at SAS utbetaler 300 EUR per person i tillegg til å dekke
+matkostnaden på 49,85 GBP.

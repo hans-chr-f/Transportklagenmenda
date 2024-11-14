@@ -1,0 +1,139 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Anført feil med QR-koden i appen
+og at det ble gitt beskjed om at et eventuelt gebyr ville bli frafalt.
+
+Dato
+13.12.2022
+
+Saksnummer
+2022-01874
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr på bussen den 23. mai 2022.
+
+Klager anfører at hun i mars hadde dratt innom AtBs kundesenter i Trondheim etter
+å ha snakket med kundeservice på telefon, angående et problem med å fremvise QR-
+koden i appen. Klager anfører at hun forklarte problemet overfor personalet og at hun
+ikke kunne fremvise QR-koden på telefonen selv om hun hadde billett. Klager anfører at
+hun kjøpte en billett foran dem, og at de kunne se at billettkjøpet var registrert i systemet
+deres, men at QR-koden ikke kunne fremvises. Klager anfører at de prøvde å hjelpe
+henne, men ikke fikk til å løse problemet. Klager anfører at hun fikk beskjed om at mange
+andre hadde opplevd det samme og at de ville kontakte teknisk team for å forsøke å
+finne ut av problemet.
+
+Klager anfører at hun spurte hva hun burde gjøre hvis det var kontroll på bussen, og de
+forklarte da at hun kunne vise e-posten fra AtB til kontrolløren. Klager anfører at hun
+også fikk beskjed om at kontrollørene kanskje ikke ville ta hensyn til forklaringen hennes,
+men at hun da kunne henvende seg til kundesenteret igjen for å få gebyret slettet. Klager
+anfører at hun ikke har dette skriftlig. Klager anfører videre at hun ikke hørte noe mer fra
+AtB angående problemet med QR-koden etter dette.
+
+Klager anfører at hun ved kontrollen den 23. mai 2022 hadde periodebillett og har
+kvittering som bevis på dette. Klager anfører at hun imidlertid ikke kunne fremvise QR-
+koden. Klager anfører at hun fremviste kvitteringen og e-posten fra AtB. Klager anfører at
+kontrolløren insisterte på å ilegge henne gebyr og forklarte at hun måtte kontakte AtBs
+kundeservice.
+
+Klager anfører at hun ville ha forstått det og akseptert gebyret dersom AtBs personale i
+mars hadde sagt til henne at hun var selv ansvarlig for følgene forårsaket av telefonen.
+Klager anfører at hun fikk beskjed om at det ikke var noe problem å reise med telefonen.
+Klager anfører at dette derfor er urettferdig, og at AtB har innrømmet dette per e-post.
+
+Klager krever frafall av ilagt gebyr.
+
+Tjenesteyterne har i det vesentlige anført
+AtB har i det vesentlige anført følgende:
+
+I henhold til AtBs transportvilkår må kundene betale for reisen i henhold til vilkårene og
+prisene som er fastsatt av AtB. I henhold til AtBs transportvilkår må alle passasjerene
+beholde billetten gjennom hele reisen og frem til de har gått ut av transportmiddelet
+eller kontrollsonen. Passasjerene må ha gyldig billett under hele reisen. Dersom
+passasjeren ikke kan fremvise gyldig billett under kontroll, vil dette anses som at
+passasjeren reiser uten gyldig billett. Dersom passasjeren ikke kan fremvise gyldig billett
+under kontroll, er dette et brudd på vilkårene, og gebyr vil da bli utstedt.
+
+AtB viser til vilkårene for AtB Mobilett, der det står at passasjeren er ansvarlig for å sørge
+for å kunne fremvise gyldig billett under reisen. I tillegg er det passasjerens ansvar å
+sørge for at mobiltelefonen fungerer som normalt, at skjermen er leselig og at mobilen
+har tilstrekkelig strøm for hele reisen, slik at gyldig billett kan fremvises. Tekniske feil
+kan oppstå i appen, enten som følge av problemer med internettforbindelsen eller av
+andre tekniske årsaker. Det er uansett passasjerens ansvar å sørge for at gyldig billett
+kan fremvises.
+
+I henhold til vilkårene for billettkontroll må kontrolløren rapportere uregelmessigheter
+som kan være relevante for kontrollen. I dette tilfellet er det ikke skrevet noe i rapporten
+som støtter klagers anførsler vedrørende tekniske problemer i appen. AtB ønsker å
+poengtere at QR-koden ble laget og implementert av en tredjepartsutvikler for å gjøre
+valideringsprosessen mer effektiv. Denne metoden er imidlertid ikke implementert av
+AtB, slik at QR-koden ikke brukes for å inspisere billetten. Kundene trenger således ikke
+å vise frem QR-koden under kontrollen. Alle billettene som kjøpes i appen AtB Mobillett
+kontrolleres enten visuelt eller ved å sende en kontrollmelding. Under denne kontrollen
+ble det ikke fremvist noen gyldig billett. På grunnlag av dette utstedte kontrollørene
+gebyr.
+
+Klager har kontaktet AtBs kundeservice angående problemet med QR-koden. AtB har
+ved gjennomgang av klagen kontaktet apputviklerne for å se om de kunne finne noen feil
+med klagers brukerkonto. Utviklerne klarte ikke å gjenskape problemet eller finne noe
+i systemet som støtter klagers anførsler. Klager ble informert om at feilen i forbindelse
+med QR-koden var blitt sendt til apputviklerne, men at dette ikke var av betydning for
+gyldigheten av billetten under kontroll.
+
+Klager anfører at hun av AtBs kundeservicepersonale fikk beskjed om at gebyret ville
+bli frafalt. AtB ønsker å be om unnskyldning dersom en representant har sagt noe som
+vedkommende ikke hadde grunnlag for å si. AtBs kundeservicerepresentanter må
+alltid opptre nøytralt i forbindelse med klager på gebyr. Kundeservicerepresentantene
+har ikke nødvendigvis tilgang til all objektiv dokumentasjon i saken. AtB har ikke klart
+å bekrefte klagers anførsel på dette punkt, men vil gjennomgå interne rutiner blant
+kundeservicerepresentantene for å sikre at misforståelser som dette ikke vil oppstå igjen
+i fremtiden.
+
+På bakgrunn av det overnevnte og at gyldig billett ikke ble fremvist under kontrollen, kan
+ikke AtB se at det er grunnlag for å frafalle gebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr den 23. mai 2022.
+
+Det følger av AtBs transportvedtekter punkt 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av transportvedtektenes punkt 6.2 følger det at det skal ilegges tilleggsavgift dersom den
+reisende ikke kan vise gyldig billett. Bestemmelsen er objektiv. Gebyr kan således ilegges
+selv om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, så vilkårene for å ilegge
+gebyr var til stede.
+
+Klager har anført at hun hadde periodebillett, men at hun ikke klarte å fremvise QR-
+koden og at hun tidligere hadde kontaktet AtB angående dette problemet. Klager har
+videre anført at hun fikk muntlig beskjed på kundesenteret til AtB om at hun ville få
+gebyret slettet dersom hun likevel ble ilagt gebyr ved kontroll. AtB har i tilsvaret forklart
+at QR-koden ikke er nødvendig ved kontroll og at billetten vil bli kontrollert på andre
+måter.
+
+Nemnda bemerker at det er den reisendes ansvar å sørge for gyldig billett ved reise
+med kollektiv transport, og at det er den reisendes ansvar å kunne fremvise gyldig
+billett ved kontroll. AtB har forklart at kontroll av billetter ikke innebærer kontroll av QR-
+koden, og klager har fremlagt kopi av e-post fra AtBs kundesenter i mars 2022 der det er
+oppgitt at det bare er å fremvise referansekoden i appen til kontrolløren. På bakgrunn
+av dette, sammenholdt med informasjonen fra kontrolløren i fremlagt gebyrrapport,
+finner nemnda det mest sannsynlig at klager ikke fremviste billett under kontrollen og at
+gebyret derfor var rettmessig ilagt.
+
+Nemnda har forståelse for at ileggelsen av gebyr oppleves som en streng reaksjon.
+Likevel er det slik at det av hensyn til reiseforetakenes behov er nødvendig å ha en
+konsekvent praksis. Reisende påberoper en rekke årsaker til at billetter ikke er kjøpt,
+blant annet dårlig tid, sykdom og stress. Nemnda har i en rekke saker lagt til grunn at
+slike årsaker ikke gir grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager gis medhold.

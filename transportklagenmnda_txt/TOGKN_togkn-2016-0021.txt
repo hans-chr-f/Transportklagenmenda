@@ -1,0 +1,129 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Billettapplikasjon på håndholdte enheter - Microsoft-telefon
+
+Dato
+17.11.2016
+
+Saksnummer
+021/16 K
+
+Tjenesteyter
+Skyss
+
+Klager har i det vesentlige anført:
+
+Klager bruker en Windows 10 mobil fra Microsoft og opplever at ingen av Skyss' digitale
+tjenestene er tilgjengelig for denne plattformen. Per i dag gjelder de kun for Android og iOS
+(iPhone)/-plattformer.
+
+Klager hevder Skyss mener at tilbudene er tilgjengelige for klager. Men en enveisbillett koster
+i dag kr 36,- og ved kjøp på mobil-app kommer 17 % avslag på denne billetten. Dersom klager
+skal oppnå rabatt på 17% må han bruke skysskortet.
+
+Klager er enig i at Skyss ikke kan ta ansvar for om han glemmer sitt skysskort. Likevel,
+glemmer han kortet kan han ikke bruke mobil app-en som også gir 17% rabatt, men må i
+stedet kjøpe billett hos sjåføren til kr 50,-. Klager mener med andre ord at han ikke har det
+samme tilbudet som andre passasjerer som benytter enheter med støtte for Android eller
+iOS.
+
+I følge klager hevder Skyss at han vil få et gratis barn på kort. Klager har sjekket dette med
+både sjåfør og kundesenter og svaret er helt klart, det må kjøpes en enkeltbillett på automat
+for å få dette tilbudet eller bruke skysskortet. På klagers holdeplass er det ingen tilgjengelig
+automat og han er derfor delvis avskåret fra tilbudet, bortsett fra ved å betale kr 50,- til
+sjåføren.
+
+Klager mener at Skyss, som driver et offentlig tilbud med midler fra fylkeskommunen,
+må og skal tilby samme tjenester uavhengig av digital plattform. Om ikke blir det et
+konkurransefortrinn for enkelte mobilplattformer som ikke burde skje med offentlige midler.
+
+Klager stiller seg undrende til at han ikke kunne ta del i den digitale utviklingen fordi han har
+kjøpt en telefon med et OS som Skyss ikke støtter. Klager hevder at per i dag har windows 10
+fått universelle app-er og det betyr at grunnlaget for en digital app fra skyss er utvidet med
+flere millioner brukere i Norge. Denne app-en skal kunne kjøre på pc, nettbrett, mobil osv.
+
+Klager krever at det installeres app-er på alle plattformer, slik at alle oppnår det samme
+tilbudet.
+
+Skyss har i det vesentlige anført:
+
+Det er en nasjonal målsetting å redusere kontanthåndteringen ved billettsalg om bord
+i buss. I Sone Bergen, som dekker Bergen kommune pluss enkelte knutepunkt i noen
+omegnskommuner, ble det i 2013 derfor innført tillegg i prisen for enkeltbilletter kjøpt av
+bussjåfør. I forkant av dette bygget Skyss opp en rekke ulike betalingsløsninger som alternativ
+til billettkjøp om bord. Alle løsningene kan ikke benyttes av alle til enhver tid, men løsningene
+utfyller hverandre slik at alle reisende er gitt mulighet til å kjøpe gebyrfrie billetter.
+
+Skysskortet har siden 2010 vært vår viktigste billettbærer. Skysskortet kan bestilles på nett og
+fås tilsendt kostnadsfritt hjem i postkassen. Man kan fylle på Skysskortet på billettautomat
+eller om bord hos bussjåfør uten ekstra gebyr. Skysskortet er gratis og lett å anskaffe for alle
+reisende og gir full mulighet til å benytte alle billett-typer og rabatter. Ved bruk av Skysskort
+kan en voksen reisende kjøpe produktet «10 klipp» eller betale enkeltbillett med reisepenger
+og vil da få 17 prosent rabatt på en enkeltreise.
+
+Mobil-appen Skyss Billett ble lansert i 2013 og øker stadig i bruk. App-en kan brukes på iOS-
+og Androidtelefoner, som har svært dominerende markedsposisjon i Norge. Utbredelsen
+av Windows-telefoner er fortsatt svært begrenset, og markedsandelen på rundt 1 prosent
+ser ikke ut til å øke. Skyss' søsterselskaper som tilbyr billett-app for Windows, opplyser at
+billettsalget på denne plattformen ligger under 1 prosent. Skyss har ut fra dette vurdert
+at utvikling og vedlikehold av billett-app for Windows-telefoner eller for andre plattformer
+med begrenset utbredelse ikke vil være en hensiktsmessig bruk av offentlige midler, ikke
+minst med tanke på at de reisende har flere andre salgskanaler å velge mellom. Ikke-smarte
+mobiltelefoner kan heller ikke brukes til billettkjøp, og vi har ikke vurdert løsninger for disse.
+
+Kollektivselskapet Ruter i Oslo/Akershus tilbyr billett-app også for Windows-telefoner. Det
+er verdt å merke seg at Ruter innførte pristillegg for ombordkjøpte billetter allerede i 2003,
+mange år før mobil-apper ble tilgjengelige. Gebyrfrie billetter kunne kjøpes via reisekort og fra
+billettautomat og hos kommisjonær, og dette ble oppfattet å være tilstrekkelig.
+
+Det er for øvrig ikke korrekt som klager skriver at man «får 17 prosent rabatt på alle billetter
+kjøpt gjennom Skyss sin billett-app». Det er kun én billett-type (enkeltbillett voksen) i billett-
+appen der man kan få denne rabatten, som er den samme som ved bruk av Skysskort
+som nevnt over. Rabatten i mobil-app-en får man kun når billetten betales ved trekk fra
+mobilkonto, i stedet for direkte trekk fra bank/kredittkort eller via telefonregning.
+
+Kunden fremhever at han ikke har tilgang til billettautomat på holdeplassen sin. Selv om
+han hadde hatt en billettautomat på holdeplassen sin, kunne han likevel ikke fått 17 prosent
+rabatt på enkeltbillett uten å benytte Skysskort. Billetter til ordinær pris uten ombordtillegg
+er tilgjengelig ved forhåndskjøp i kiosk/butikk, som Skyss ofte anbefaler reisende som ønsker
+andre alternativ. Billettene har lang gyldighet, slik at man kan kjøpe inn flere og spare dem til
+senere bruk.
+
+Skyss har ikke planer om å utvide appen Skyss Billett til bruk på Windowstelefoner, med
+mindre markedsandelen endrer seg vesentlig.
+
+Når det gjelder ruteinformasjon, stemmer det at mobil-appene Skyss Reiseplanlegger og
+Skyss Reise ikke kan benyttes på Windows-telefoner. Begrunnelsen vår er den samme om
+markedsandeler som nevnt over. Ruteinformasjon og reiseplanlegger finnes på skyss.no,
+som er tilgjengelig fra smarttelefoner. Skyss har dessverre foreløpig ikke noen løsning
+for sanntidsdata i andre kanaler enn mobil-appen Skyss Reise, men Skyss jobber med
+tilgjengeliggjøring av rutedata og etter hvert også sanntidsdata gjennom Google.
+
+Nemnda bemerker:
+
+Nemnda oppfatter klager slik at han krever at Skyss installerer sine apper også på Windows-
+plattformer.
+
+Nemnda har merket seg at Skyss ikke har planer om å gjøre dette blant annet under
+henvisning til den lave markedsandelen av Windows-telefoner og at dette ikke vil være
+hensiktsmessig bruk av offentlige midler.
+
+Nemnda legger til grunn at passasjerer ved bruk av Skysskortet får mulighet til å bruke alle
+billettyper og rabatter som kan fås gjennom en mobil-app. Kortet er gratis, kan bestilles på
+nett og fås tilsendt uten kostnader.
+
+Nemnda viser for øvrig til den detaljerte redegjørelsen for forskjellige billettyper fra Skyss.
+
+Nemnda legger vekt på at reisende får et likeverdig billettilbud ved bruk av Skysskortet som
+ved mobil-app-ene.
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at klager gis medhold.
+
+Vedtak:
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale å ta klagen til følge.
+
+Vedtaket er enstemmig.

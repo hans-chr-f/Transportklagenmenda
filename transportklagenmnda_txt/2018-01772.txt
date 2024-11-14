@@ -1,0 +1,57 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+09.04.2019
+
+Saksnummer
+2018-01772
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Stokmarknes til Bodø den 3. juni 2018 kl 19.50 med ankomst kl
+20.25 med WF857. Flyet ble kansellert, og klager ble booket om til neste dag kl 13.25.
+
+Klager krever standarderstatning 250 euro i henhold til EU-forordning 261/2004.
+
+Tjenesteyterne har i det vesentlige anført
+WF857 ble kansellert som følge av fabrikasjonsfeil av flymaskin Bombardiers Dash 8.
+Den 3. juni 2018 opplevde Widerøe en feil ved flymaskinens FMS (Flight Management
+System) som leveres av Universal Avionics. Det var da en latent programvare feil i
+systemets interne GPS-modul som var problemet. Systemet brukes blant annet som
+hjelp ved innflyging. GPSene starter uke-tellingen på nytt hver 1024 uke, og det var da en
+programmeringsfeil i logaritmen som skulle ivareta denne overgangen. Dette førte til at
+en rekke flymaskiner måtte settes på bakken inntil man fikk konferert med flyprodusent,
+slik at man kunne fly på manuelle rutiner. 
+
+Widerøe viser til fremlagt dokumentasjon fra flyprodusenten. 
+
+I henhold til Guidelines til EU-forordning 261/2004 så kan skjulte feil som oppdages av
+produsent regnes som en ekstraordinær omstendighet. 
+
+Widerøe kan på grunnlag av ovennevnte ikke imøtekomme klagers krav.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var blitt truffet, jf EU-forordning 261/2004 artikkel 5 og 7. 
+
+Teknisk feil er som regel ikke en ekstraordinær omstendighet som fritar flyselskapet
+fra plikten til å betale standarderstatning, jf EU-domstolens avgjørelse av 17.09.2015
+Corina van der Lans - KLM (C-257/14) og Kommisjonens veileder av 15.06.2016 punkt 5.2.
+Unntakene er blant annet fabrikasjonsfeil.
+
+Flyselskapet har fremlagt dokumentasjon fra flyprodusenten for at den tekniske svikten
+skyldtes fabrikasjonsfeil. Kanselleringen gir etter dette ikke rett til standarderstatning da
+Widerøe har godtgjort at den tekniske svikten skyldtes en ekstraordinær omstendighet.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold.

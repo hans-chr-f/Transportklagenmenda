@@ -1,0 +1,81 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Kunne ikke vise gyldig billett
+
+Dato
+06.02.2019
+
+Saksnummer
+2018-04275
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager kjøpte en billett via RuterBillett appen før hun gikk inn på stasjonen, fordi hun har
+erfaring med at det kan være dårlig dekning inne på T-banestasjonen. Billetten ble betalt
+med Vipps, hvor det kom opp en grønn sirkel på skjermen med beskjeden "du har betalt
+35 kroner". Klager la deretter mobilen i vesken. 
+
+Ved ankomst på Nationaltheatret var det kontroll. Klager henter opp RuterBillett appen
+på telefonen men finner ikke billetten, og blir ilagt et gebyr som klager betaler på stedet.
+Klager synes det er merkelig at billetten er borte og sjekker nettbanken som viser at det
+er gjort et trekk på 35 kroner for billetten. 
+
+Klager mener dette trekket viser at hun faktisk kjøpte billett, og at den ble "godkjent".
+En systemfeil i Ruters mobilapplikasjon, eller i Vipps appen, skal ikke gå utover kunden.
+Klager ber om at Ruter refunderer gebyrkostnaden på 950 kroner.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på T-banen 3. november 2018 fordi hun ikke hadde gyldig billett.
+Gebyret ble betalt på stedet. 
+
+I RuterBillett appen finnes det flere muligheter for å betale, hvor Vipps er en mulighet,
+men det er også mulig å legge inn flere betalingskort. På den måten har man mulighet til
+å betale dersom ett av alternativene ikke skulle fungere. 
+
+I dette tilfellet var problemet at betaling ikke gikk gjennom i Vipps appen. Det ville vært
+mulig å betale med et betalingskort dersom dette hadde vært lagret i RuterBillett appen.
+Ruter kan ikke ta ansvar for feil som ligger hos tredjepart. 
+
+Selv om betaling viser "ok" i Vipps appen må man forsikre seg om at billetten blir lastet
+ned, og at nedtelling starter. Det skjedde ikke i dette tilfellet. Det som skjer da er at
+kjøpet blir avbrutt og pengene som er reservert blir tilbakeført til konto. Klager vil kunne
+se i sin nettbank at hun ikke er trukket for dette forsøket. 
+
+Ruter kan på bakgrunn av dette ikke se noen grunn til å endre standpunkt i denne saken.
+
+Nemnda bemerker
+
+Klager ble i en utkontroll ved Nationaltheatret T-banestasjon 3. november 2018 ilagt
+gebyr som følge av manglende gyldig billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å ha
+gyldig billett før ombordstigning eller før passering av kontrollsoner.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ved kontroll ikke vise gyldig billett og vilkårene for å ilegge gebyr var
+dermed til stede.
+
+Nemnda legger til grunn at klager startet en prosess med kjøp av billett i Ruter appen
+med betaling med Vipps. Klager har opplyst at billetten ble betalt med Vipps, og på
+skjermen kom det opp en grønn sirkel med beskjeden "du har betalt 35 kroner". Deretter
+la hun telefonen i vesken og trodde at hun hadde kjøpt billett.
+
+Nemnda bemerker at ut fra klagers forklaring har hun ikke fullført kjøpet av billett. Klager
+skulle fortsatt prosessen og laste ned billetten og få denne bekreftet. 
+
+Nemnda viser til at den reisende selv har ansvaret for å sette seg inn kjøpsprosessene via
+Ruter appen. Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold

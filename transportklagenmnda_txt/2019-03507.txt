@@ -1,0 +1,119 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering/forsinkelse.
+
+Dato
+16.06.2020
+
+Saksnummer
+2019-03507
+
+Tjenesteytere
+KLM
+
+Klager har i det vesentlige anført
+
+Klager med reisefølge (til sammen to personer) skulle fly fra Sandefjord, Torp til Saint
+Louis via Amsterdam og Minneapolis den 10. august 2019. Planlagt avgang fra Torp var
+kl. 06.15, med ankomst i St. Louis kl. 16.49 lokal tid. Klager fikk mail natt til 10. august
+om at KL1212 fra Sandefjord til Amsterdam var kansellert. Da de kom til Torp fikk de
+informasjon om at flyet de skulle hatt fra herfra til Amsterdam ikke sto på Torp, men
+Gardermoen. Klager ble ikke informert om årsaken til dette. 
+
+Klager ble sendt med buss til Gardermoen. Her strevde de svært lenge med å få flight-
+data fra Torp inn på Gardermoen sitt datasystem.  Dette gjorde at innsjekk tidvis stoppet
+helt opp og tok unormalt lang tid. I tillegg ble avgangen OSL-AMS tidsmessig forskjøvet
+minst fire ganger.  Sjansen til å nå mellomlandingen i Amsterdam ble til slutt helt
+utelukket. Klager ble omrutet da de kom til Amsterdam. Videreforbindelsen skulle
+egentlig ha gått kl. 10.35, men klager endte opp med en avgang med avgangstid fra
+Amsterdam kl. 17.00.  Faktisk ankomst i St. Louis var kl. 22.20 den 10. august 2019.
+
+Klager fester ikke lit til KLM sin forklaring om at uregelmessighetene skyldtes
+værforholdene i Amsterdam dagen i forveien. Hun viser til fremlagt værmelding, samt at
+hun har vært i kontakt med en passasjer som var på det aktuelle flyet som ble omdirigert
+til Gardermoen. Denne passasjeren hadde fått beskjed om at de ble omdirigert pga.
+tekniske problemer med drivstofftilførselen på flyet.
+
+Klager krever standarderstatning på 600 euro per person, til sammen 1200 euro, i
+henhold til EU-forordning 261/2004.
+
+Tjenesteyterne har i det vesentlige anført
+
+KL1212 fra Sandefjord til Amsterdam den 10. august 2019 måtte ha avgang fra Oslo
+Lufthavn grunnet omdirigering av innkommende flyvning KL1221 på kvelden den 9.
+august 2019, som skyldtes tordenvær i Amsterdam. 
+
+Grunnet forsinkelsen av KL1221 hadde ikke KLM muligheten til å ankomme Sandefjord
+Lufthavn, da flyplassen stengte ved midnatt. Flyet måtte derfor omdirigeres til å lande i
+Oslo kl. 00.25 den 10. august 2019. Passasjerene ble tilbudt busstransport fra Sandefjord
+til Oslo Lufthavn morgenen den 10. august. Som en konsekvens av dette ble KL1212
+forsinket med 4 timer og 54 minutter.
+
+Passasjerene mistet deres planlagte videreforbindelse fra Amsterdam med KL6065.
+Grunnet dette ble klager ombooket til de neste ledige flyvningene (Via Minneapolis til St.
+Louis med KL6061 og KL7236) den 10. august 2019, med ankomst kl. 22.17 lokal tid. KLM
+har derfor sørget for omruting i henhold til EU-forordning 261/2004 artikkel 8.1 (2) (b) (c).
+
+Det er tilfeller hvor passasjeren kan ha rett på standarderstatning i henhold til EU-
+forordning 261/2004 hvis en flyvning blir kansellert eller forsinket mer enn tre timer.
+Det er imidlertid klare unntak fra denne regelen. Flyselskapet er ikke pålagt å utbetale
+standarderstatning dersom forsinkelsen skyldtes ekstraordinære omstendigheter som
+ikke kunne vært unngått selv om alle rimelige tiltak var truffet, noe som var tilfellet i
+denne saken.
+
+Flyselskapet er ikke pålagt å utbetale standarderstatning i henhold til artikkel 7. Et
+flyselskap kan ikke motvirke værforhold som påvirker flyoperasjonen og stengningstider
+på flyplassen. Forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne
+vært unngått selv om alle rimelige tiltak var truffet.
+
+KLM må basert på dette avslå kravet om standarderstatning.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet kan godtgjøre at
+kanselleringen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått
+selv om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5.  Det samme
+gjelder forsinkelser som overstiger tre timer. Det vises til EU-forordning 261/2004 artikkel
+6 jf. artikkel 7 jf. artikkel 5 nummer 3 og EU-domstolens avgjørelser i Sturgeon m.fl. mot
+Condor (C-402/07) og Nelson m.fl. mot Lufthansa (C-581/10 og C-629/10).
+
+KLM har begrunnet forsinkelsen i tordenvær i Amsterdam dagen før, som medførte at
+flyet ikke rakk frem til Torp Lufthavn før stengetid midnatt. Flyet ble da omdirigert til
+Oslo Lufthavn, og passasjerene fraktet dit med buss. Også overføring av data fra Torp til
+Gardermoen tok tid.
+
+Værforhold som påvirker flytrafikken kan være en slik ekstraordinær omstendighet
+som medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret.
+Bevisbyrden påhviler selskapet.
+
+Den fremlagte METAR-rapport viser at det til tider var tordenvær i Amsterdam den 9.
+august 2019.  I tillegg har selskapet lagt frem flyinformasjon for KL1221 og KL1212, men
+uten å forklare kodene i dokumentene eksplisitt. Slik nemnda leser flyinformasjonen
+knyttes forsinkelsen/omdirigeringen av KL1221 til Delay-code 93, som ifølge IATA sin
+informasjon betyr rotasjonsforsinkelse.  Heller ikke Delay-koden for KL1212 henviser
+til værforhold. Nemnda finner at KLM med dette ikke har oppfylt sin bevisbyrde for å
+dokumentere årsaken til maskinen's forutgående rotasjonsforsinkelse.
+
+KLM har heller ikke kommentert klagers anførsler vedrørende dataproblemene ved Oslo
+Lufthavn, og at det muligens var andre årsaker til forsinkelsen og omdirigeringen av
+KL1221.
+
+Etter en samlet vurdering finner Nemndas flertall at KLM ikke tilstrekkelig har
+begrunnet og underbygget hva som faktisk forårsaket uregelmessighetene på klager
+sin flyvning. Selskapet har derved ikke godtgjort at forsinkelsen skyldtes ekstraordinære
+omstendigheter som ikke kunne vært unngått selv om alle rimelige tiltak var truffet. 
+
+Mindretallet - medlemmene Rise og Espolin Johnson - finner at KLM har godtgjort
+at forsinkelsen skyldtes forhold som konstituerer ekstraordinære omstendigheter i
+forordningens forstand. Videre finner mindretallet at KLM ikke kunne forhindret/minsket
+forsinkelsen uten å iverksette tiltak som ville vært urimelig byrdefulle for selskapet.
+Mindretallets oppfatning er derfor at klager ikke har rett på standarderstatning.
+
+Nemnda anbefaler at selskapet utbetaler standarderstatning med € 600 for begge
+passasjerer.
+
+Vedtak
+
+Transportklagenemnda-fly anbefaler at KLM utbetaler 600 euro per person.

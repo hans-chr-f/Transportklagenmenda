@@ -1,0 +1,157 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om å få dekket utgifter for ekstra kostnader grunnet nektet ombordstigning.
+
+Dato
+04.11.2022
+
+Saksnummer
+2022-01168
+
+Tjenesteytere
+British Airways
+American Airlines
+Tripmonster / Tripmate
+
+Klager har i det vesentlige anført
+
+Klager med familie (til sammen to voksne og et spedbarn) hadde flyreise fra Oslo via
+London og Phoenix til Mazatlan den 19. desember 2021.
+
+Ved innsjekking ble klagers partner som er meksikansk statsborger med fast opphold
+i Norge, nektet ombordstigning grunnet at dokumentasjonen hans ikke ble akseptert
+av US Border Control. Agentene på flyplassen endret stadig forklaring på hvorfor han
+ikke fikk reise og skyldte stadig på reisebyrået. Department of Homeland Security ga
+klager skylden for ikke å sjekke at dokumentasjonen var gyldig. Klager hadde sjekket
+at all dokumentasjon var i orden, også US Visa. Familien har reist mye og vet at å reise
+gjennom USA krever nøye planlegging.
+
+Dagen før reisen fikk klager en melding fra BAeServices der de ble bedt om å legge inn
+"avanserte passasjerinformasjon inkludert obligatorisk amerikansk kontaktinformasjon"
+i ba.com/verifly-appen. Dette ble gjort og bekreftelse mottatt på at all informasjon var
+godkjent. Dette inkluderte åpenbart klagers passnummer og visuminformasjon.
+
+Klager var på flyplassen i god tid, ca. fire timer før, det ble gjort en covid test for så å stå
+i innsjekkingskø. Innsjekking åpnet kl. 09:20, stengte kl. 10:35 og flyet skulle gå kl. 11:20.
+På billetten står det at de åpner to timer før og stenger 45 minutter før planlagt avgang. 
+
+Klagers kone ble spurt om hun ville reise uten sin mann. Det var hun villig til. Før hun fikk
+sjansen til å bekrefte det, sa BA-agenten at hun ikke kunne det.
+
+Klager tror at det som faktisk skjedde er at personen i skranken skannet feil pass og
+dermed blokkerte systemet og det reiste mistanke hos DHS. Supervisor som de snakket
+med var sint og kunne ikke gi klager et enkelt svar og skyldte på familien, covid-19
+pandemien, reisebyrået, DHS og at klager burde ha søkt om ESTA. Dette er ikke mulig
+for en meksikansk statsborger. Supervisor nektet å gi klager ytterligere informasjon og
+ba klager om å ta kontakt med reisebyrået uten å overholde artikkel 14 i EU forordning
+261/2004.
+
+Klager krever å få refundert kostnader for nye flybilletter samt hotell i Oslo og hotell i
+Phoenix som de ikke fikk benyttet.
+
+Tjenesteyterne har i det vesentlige anført
+Tripmonster har sjekket detaljene angående klagers reservasjon og reiseruten ble ikke
+brukt av passasjerene, men flyvningene fløy som normalt.
+
+I henhold til informasjonen som Tripmonster kan se av sitt system, tillater flyselskapet
+kun refusjon av ubetalte avgifter for billettene. Tripmonster er i kontakt med klagerne for
+å gi denne informasjonen. 
+
+British Airways (BA) har anført at klager med familie ikke var i stand til å reise fra Oslo til
+Mexico som planlagt. Da klager ble nektet ombordstigning til flyvningen BA0763 reiste
+ikke hans familie som planlagt. 
+
+Klager ble nektet ombordstigning på bakgrunn av de fremviste dokumentene ved
+innsjekking og det ble ansett som utilstrekkelig for han å gå om bord på flyet. Grunnlaget
+for dette var at hans amerikanske visum var i et utløpt pass og ikke i hans nåværende
+gyldige pass. 
+
+Det ble fremlagt begge pass ved innsjekkingsskranken, det nyeste passet ble brukt under
+booking øyeblikket og skannet i ADC-systemet. Innsjekkingsagenten fikk et negativt
+systemsvar da det nye passet ikke hadde gyldig visum knyttet til det.
+
+ADC-systemet vedlikeholdes av relevante amerikanske myndigheter og fungerer som
+en kobling mellom amerikanske myndigheter og flyselskaper for å gjøre det mulig for
+flyselskaper å fullføre live-sjekker for å avgjøre om passasjerer har tillatelse til å reise inn
+i USA, enten ved referanse til en ESTA knyttet til det passet, eller et gyldig visum knyttet til
+det passet. Ved skanning av en passasjers pass, vil ADC-systemet gi BA enten et "gyldige
+dokumenter på fil"-svar eller en systemfeilmelding. Denne feilmeldingen vil da få BA til å
+be passasjeren om mer informasjon om det skannede dokumentet for å vurdere om det
+kan oppnås manuell klarering for den aktuelle passasjeren.
+
+Da familien ankom innsjekkingsskranken 10 minutter før innsjekkingen stengte var det
+ikke nok tid til rådighet for BA til å gjøre en manuell klarering for at klager kunne gå om
+bord fra det amerikanske departementet for innenrikssikkerhet. BA har ikke myndighet
+til å frafalle krav pålagt av nasjonale myndigheter, og som sådan vil agenten være pålagt
+å nekte klager ombordstigning i samsvar med amerikanske sikkerhetsbestemmelser,
+som krever et positivt svar fra ADC-systemet, eller godkjenning fra US DHS før en
+passasjer kan få tillatelse til å gå ombord på et fly for USA.
+
+Det var kun klager som ble nektet ombordstigning, hans familie hadde korrekte
+dokumenter for reisen. Hans kone og sønn valgte å ikke reise, men forbli hos sin mann. 
+
+BA viser til at klager henviser til artikkel 14 i EU forordning 264/2004. De grunner som
+er angitt i artikkel 14 mener BA at klager ikke ble nektet ombordstigning i forordningens
+forstand ettersom han ikke ble nektet ombordstigning på feil måte eller på grunn av et
+oversalgs problem. 
+
+BA kan ikke akseptere at de er ansvarlig for å kompensere Tokerud og/eller hennes
+familie for klager ble nektet ombordstigning til BA0763 19. desember 2021.
+
+American Airlines har anført i deres merknader så har klager ikke kontaktet deres
+kontorer direkte. En gjennomgang av reservasjonen bekrefter at klager var planlagt
+å reise på flyvning AA6630 operert av British Airways som flyvning BA763 fra Oslo til
+London-Heathrow den 19. desember 2021. 
+
+Basert på disse funnene, konkluderer American Airlines med at kompensasjon i henhold
+til EU-forordning 261/2004 ikke er berettiget ettersom flyvningen ble operert av et annet
+flyselskap, i dette tilfellet British Airways.
+
+Nemnda bemerker
+
+Klager, som reiste med to andre passasjerer, krever refusjon av både nye og tapte
+utgifter som følge av at de ikke fikk reise med BA763 fra Oslo til London den 19.
+desember 2021. Klager har anført at de var ute i god tid til innsjekkingen og at de hadde
+all dokumentasjon i orden. Klager har videre anført at alle tre ble nektet ombordstigning.
+
+På bakgrunn av både klagers og British Airways' opplysninger legger nemnda til grunn
+at klager med familie møtte opp til innsjekking innen fristen. Det er videre ubestridt at
+konen og barnet hadde nødvendig dokumentasjon for å reise til USA. Spørsmålet er om
+de tre passasjerene ble nektet ombordstigning mot sin vilje i henhold til EU-forordning
+261/2004.
+
+Det følger av EU-forordning 261/2004 artikkel 2 bokstav j at «nektet ombordstigning»
+i forordningens forstand er ved «avvisning av passasjerer på en flyging, selv om de
+har møtt til innsjekking på de vilkår som er fastsatt i artikkel 3 nr. 2, unntatt når det er
+rimelig grunn til avvisningen, f.eks. av helse- eller sikkerhetsmessige årsaker eller fordi
+reisedokumentene er utilstrekkelige.»
+
+Hva gjelder avvisningen av ektemannen, forstår nemnda det slik at British Airways
+har anført at ADC-systemet som brukes for å skanne passet for å se om passasjeren
+har gyldig innreisetillatelse i USA, ga en feilmelding som følge av at visumet var i et
+utgått pass, og at det dermed ble nødvendig med en manuell klarering via amerikanske
+myndigheter. Dette er noe som tar tid, og flyselskapet har anført at det kun var ti
+minutter igjen til innsjekkingen stengte på det tidspunktet, slik at den nødvendige
+klareringen ikke kunne gjennomføres i tide. 
+
+Nemnda er av den oppfatning at selskapet ikke kunne sjekke inn mannen i henhold til
+ADC-systemet før den aktuelle klareringen som amerikanske myndigheter krever, var i
+orden. Nemnda mener på bakgrunn av dette at selskapet hadde rimelig grunn til å avvise
+mannen som følge av forhold utenfor selskapets kontroll. Nemnda kan for øvrig heller
+ikke se at klager er å bebreide for den oppståtte situasjonen. 
+
+Hva gjelder den anførte avvisningen av klager og barnet, bestrider British Airways at de
+ble avvist. Nemnda mener at det står ord mot ord, og at denne delen av saken reiser
+bevisspørsmål som vanskelig kan klarlegges under saksbehandlingen i nemnda. Denne
+delen av saken avvises derfor, jf. transportklagenemndforskriften § 6-2 bokstav d.
+
+Nemnda kan etter dette ikke se at klagers mann har rett på standarderstatning etter EU-
+forordning 261/2004. Nemnda kan heller ikke se at det er grunnlag for refusjon av de
+påløpte og tapte utgiftene på annet grunnlag.
+
+Vedtak
+
+Transportklagenemnda anbefaler ikke at klager gis medhold. 
+Kravene fremmet for klagers familie avvises.

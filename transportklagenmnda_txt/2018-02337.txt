@@ -1,0 +1,108 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr grunnet ustabil app
+
+Dato
+12.10.2018
+
+Saksnummer
+2018-02337
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr fordi han manglet gyldig billett.
+
+Før påstigning kjøpte klager en mobilbillett med vipps som betalingsmiddel. På skjermen
+kom det opp en "grønn hake" som signaliserte at kjøpet hadde gått gjennom, og klager
+antok at kjøpet var gjennomført. Rett før han skulle gå av transporten ble klager stoppet
+i kontroll. Da han skulle vise billetten i Ruter appen, var billetten borte. Klager forklarte
+situasjonen til kontrolløren, og viste til at kjøpet var gjennomført i Vipps appen før han
+steg ombord. Kontrolløren sa at det kunne skje at billetten ikke ble overført fra Vipps
+appen til Ruters billettapp.
+
+Klager ble bedt om å sende klage og samtidig informere om hva han skulle skrive i sin
+henvendelse til Ruter. Ruter har i sitt svar til klager avslått kravet. 
+
+Ruter har i sitt tilsvar til nemnda vist til at kjøpet blir avbrutt når Vipps appen blir
+lukket før man automatisk blir sendt videre til Ruter appen. Klager viser til at han ikke
+hadde kjennskap til at prosessen fungerte slik. Det er ingen informasjon underveis
+i betalingsprosessen som sier at Vipps appen ikke må lukkes før Ruterbillett appen
+kommer opp. Klagers oppfatning er at en grønn hake ikke kan oppfattes som noe annet
+enn at kjøpet har gått gjennom.
+
+Når det gjelder Ruters anførsel om at klager har mange kjøp i sin historikk som er startet,
+men ikke gjennomført, så har dette sin naturlige forklaring. Mobilen til klager kobler
+seg automatisk opp til Wifi-spots på de strekningene han jevnlig tar buss fra. Dette
+medfører at han ofte kobles til nettverkene når han er i ferd med å kjøpe billett. Siden
+klager beveger seg bort fra sonene med wifi-spots blir nettet svakt, og han må skru på
+4G for å starte billettkjøpet på nytt. Klager har vanskelig for å se i hvilken grad denne
+informasjonen er relevant for saken, og understreker at hans billetthistorikk ikke kan
+brukes mot han når selskapet har en utilregnelig billettapp. 
+
+Klager krever at Ruter frafaller gebyret og påløpt purregebyr på totalt 1220 kroner.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr 11. juni 2018 fordi han ikke kunne vise gyldig billett.
+
+Ved kjøp av mobilbillett hvor Vipps blir brukt som betaling, vil man først bli ført over til
+Vipps appen hvor betalingen gjennomføres. Deretter vil det komme opp en grønn hake
+som antyder at pengene er reservert på konto. Man blir så ført tilbake til RuterBillett
+appen, og først da lastes billetten ned. Dette tar ikke mange sekundene. Hvis man
+trykker på hjemknappen eller lukker telefonen før man er kommet tilbake til RuterBillett
+appen, vil kjøpet bli avbrutt. Pengene vil da bli tilbakeført til konto. Hvis klager sjekker
+sin bankkonto vil han se at pengene er tilbakeført. Klager har altså ikke betalt for noen
+billett. 
+
+Ruter ser i billetthistorikken til klager at han har svært mange kjøp som er igangsatt, men
+som er blitt avbrutt før billetten er lastet ned. Klager tror nok at han har betalt, men det
+har han altså ikke gjort. 
+
+Det er kundens ansvar å sørge for gyldig billett. Dette innebærer også å forsikre seg om
+at billetten er i orden før man reiser. 
+
+Klager har blitt stoppet en gang tidligere. Da slapp han å betale gebyr. Ruter forventer da
+at man passer på å ha gyldig billett. 
+
+Ruter kan på bakgrunn av dette ikke se noen grunn til å endre standpunkt i saken.
+
+Nemnda bemerker
+
+Klager ble ved kontroll på trikken linje 17 den 11. juni 2018 ilagt gebyr da han ikke kunne
+vise billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å ha
+gyldig billett før ombordstigning eller før passering av kontrollsoner.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke vise billett og vilkårene for å ilegge gebyr var dermed til stede.
+
+Klager har opplyst at han fikk opp en grønn hake i Vipps appen, og var derfor av
+den oppfatning av at det var kjøpt billett da han steg ombord. Ruter har lagt frem
+dokumentasjon på at det er registrert forsøk på kjøp kl. 11.54.17, men at betalingen med
+Vipps ikke er fullført.
+
+Nemnda bemerker at det er den reisendes ansvar å sørge for gyldig billett. Ved kjøp via
+Vipps må det kontrolleres at betaling er gjennomført og at billetten er bekreftet.
+
+Nemnda bemerker at klager har benyttet betaling via Vipps tidligere. Av billetthistorikken
+fremgår at kjøp via Vipps er fullført for eksempel 13. og 14. mai 2018. Klager kan dermed
+ikke være ukjent med at billetten også må være bekreftet kjøpt. 
+
+Ruter har i sin korrespondanse med klager vist til at dersom det er noe galt med Ruter
+appen, vil det komme opp en feilmelding.  
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

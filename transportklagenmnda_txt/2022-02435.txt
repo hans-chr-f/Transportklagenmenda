@@ -1,0 +1,127 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om refusjon av ilagt gebyr. Anført feil med Vipps/Ruter-appen.
+
+Dato
+08.03.2023
+
+Saksnummer
+2022-02435
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr på bussen den 2. september 2022.
+
+Klager anfører at det var en teknisk feil i Ruter-appen som gjorde at kjøpet hennes
+ikke gikk igjennom. Klager anfører at hun ikke rakk å gjennomføre nytt kjøp før det
+var kontroll inne på bussen. Klager anfører at vekteren nektet å høre på begrunnelsen
+hennes, selv om hun forklarte problemstillingen og fikk støtte av medpassasjerer som
+har opplevd det samme.
+
+Klager anfører at dersom Ruter-appen hadde fungert som den skulle, hadde hun hatt
+gyldig billett. Klager anfører at feilen ikke ligger hos henne, men hos Ruter. Klager
+anfører at vekteren i tillegg sa at hun måtte godta gebyret på stedet. Klager anfører
+at hun i ettertid har forstått at dette er feil, og at hun ikke burde ha betalt, da dette
+oppfattes som om hun godtok boten. Klager anfører at vekteren dessuten opptrådte
+svært uprofesjonelt, og at situasjonen var ubehagelig.
+
+Klager viser til fremlagt dokumentasjon på problemet som oppsto i appen.
+
+Til Ruters tilsvar anfører klager at siden Ruter ikke ville ta ansvar for feilen i appen,
+kontaktet hun Vipps. Klager anfører at de undersøkte saken, og det viser seg at feilen er
+tilknyttet operativsystemet hun hadde på telefonen. Klager viser til at Vipps blant annet
+skrev som følger: «Dette ser ut til å være relatert til et problem med iOS-appen som noen
+ganger oppstår. Det ser ut til at på tidspunktet feilen oppsto (02.09.22) hadde du versjon
+5.7.0. Det bør være rettelser som løser dette problemet i den siste utgitte versjonen i App
+Store, 5.9.0. (Du har nå 5.8.2). Vi anbefaler deg å laste ned siste versjonen i App Store
+for å unngå at dette skjer. Det er dessverre ingen grunnlag for refundering av gebyret
+grunnet dette.»
+
+Klager anfører at Vipps dermed skyver ansvaret over på nok en aktør: Apple. Klager
+anfører at hun som forbruker blir fullstendig maktesløs. Klager anfører at hun blir
+provosert over at Ruter i tilsvaret igjen påpeker at hun må ha gyldig billett. Klager anfører
+at hun prøvde å kjøpe billett. Klager anfører at det var Ruters app som sviktet henne som
+kunde. Klager anfører at dersom det ikke umiddelbart hadde vært kontroll, hadde hun
+hatt tid til å kjøpe ny billett.
+
+Klager stiller spørsmål ved hvem som skal ha ansvaret når teknologien svikter. Klager
+anfører at hun ikke har noen historikk som sniker, og hun ønsket heller ikke å snike.
+Klager anfører at det likevel er hun som må betale prisen, og at dette ikke er riktig.
+
+Det vises til klagers øvrige anførsler i fremlagt dokumentasjon.
+
+Klager krever refusjon av ilagt gebyr.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble stoppet i billettkontroll om bord på bussen den 2. september 2022. Hun
+kunne ikke fremvise billett og sa at det var problemer mellom app og Vipps. Det er ikke
+registrert nedetid hos Ruter med verken app eller Vipps denne dagen.
+
+Klager fikk til å kjøpe billett i appen foran kontrollørene etter at hun hadde gått om bord.
+Billetten som gikk igjennom, ble ikke bestilt før kl. 15.31.07. Klager skriver selv at hun
+reiste fra Fayes gate. Bussen var her fra kl. 15.28.27 til kl. 15.29.08.
+
+Det er flere muligheter for betaling i Ruters app. Om Vipps ikke fungerer, må man betale
+på annet vis. Klager skulle eventuelt ha gått på foran hos fører og kjøpt billett kontant
+der.
+
+Det vises til Ruters reisevilkår punkt 3:
+Passasjeren skal:
+b) ha gyldig billett ved påstigning på et transportmiddel eller ved inntreden i en
+kontrollsone. Dette innebærer at elektronisk billett skal være aktivert på dette tidspunkt.
+d) fremvise billetten til personalet på oppfordring. På transportmidler som kun tillater
+ombordstigning foran, skal gyldig billett fremvises uoppfordret til fører.
+
+Ruter ser ingen grunn til at det skal gis refusjon av dette gebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på bussen den 2. september 2022 som følge av manglende gyldig
+billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å
+ha gyldig billett før ombordstigning eller før passering av kontrollsoner. Ved bruk av
+mobilapp må billett være kjøpt og bekreftet før påstigning.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager har selv opplyst om at billettkjøpet ikke var gått igjennom før ombordstigning.
+Klager hadde dermed ikke gyldig billett ved ombordstigning, og vilkårene for å ilegge
+gebyr var således til stede.
+
+Klager har imidlertid blant annet anført at hun forsøkte å kjøpe billett, men at det var
+en feil med Ruter-appen som medførte at hun ikke fikk kjøpt billett. Klager har fremlagt
+skjermbilder som viser et problem i forbindelse med betalingen via Vipps. Klager har
+videre anført at Vipps skyver ansvaret over på Apple, og at hun føler seg maktesløs.
+
+Ruter har oppgitt at det ikke er registrert nedetid med verken Ruter-appen eller Vipps
+den aktuelle dagen.
+
+Nemnda viser til at den reisende har ansvar for å ha gyldig billett før ombordstigning.
+Nemnda bemerker videre at en elektronisk billett som er kjøpt etter ombordstigning ikke
+anses som gyldig billett.
+
+Nemnda viser til at klager har oppgitt at hun hadde problemer med billettkjøpet, men
+likevel gikk om bord uten billett. Nemnda bemerker at Ruter har vist til at dersom
+passasjeren har problemer med å kjøpe billett i appen, kan billett kjøpes hos sjåføren
+ved påstigning. Nemnda bemerker videre at dersom man har problemer med mobilkjøp,
+men likevel går på bussen uten å kjøpe billett hos sjåføren, tar man selv risikoen ved å
+bli ilagt gebyr ved en eventuell kontroll. Nemnda kan for øvrig heller ikke se at Ruter er
+ansvarlig for et problem med Vipps-betaling som skyldes manglende oppdatering av
+operativsystemet på passasjerens telefon.
+
+Nemnda er kjent med at kontrollørene utøver et visst skjønn ved ileggelse av gebyrer,
+men nemnda finner av prinsipielle grunner ikke å kunne vurdere skjønnsutøvelsen i det
+enkelte tilfelle.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager gis medhold.

@@ -1,0 +1,95 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+03.12.2019
+
+Saksnummer
+2018-04877
+
+Tjenesteytere
+SAS
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med SK4745 fra Oslo til Brüssel den 26. august 2018 kl. 16.25. Kl. 15.35
+fikk han beskjed om at flyet var forsinket. Kl. 16.22 fikk han beskjed om at flyvningen
+var kansellert. Klager omrutet til SK4743 kl. 08.10 neste dag. I sin klage til SAS fremsatte
+klager krav om standarderstatning i henhold til EU-forordning 261/2004, men fikk avslag
+begrunnet med at kanselleringen av SK4745 skyldtes at flyet var rammet av lynnedslag.
+Klager sjekket med Flighradar24.com og fant ut at flyet som var planlagt for klagers
+flyvning, LN-RRA, ble benyttet på en flyvning fra Oslo til Paris kl. 17.10 i stedet. SAS
+fastholdt fremdeles at kanselleringen av klagers fly skyldtes lynnedslag. 
+
+Klager mener kanselleringen ikke skyldtes lynnedslag og fastholder sitt krav om
+standarderstatning for kansellert flyvning og forsinket ankomst til Brüssel.
+
+Tjenesteyterne har i det vesentlige anført
+SK4745 ble innstilt denne dagen som en direkte følge av lynnedslag på flyindivid LNRKP/
+SK4760 på den foregående flyvningen fra Munchen til Oslo 26.august 2018. Flyet ble
+derfor satt på bakken for å gjennomgå en rutinemessig inspeksjon før flymaskinen
+kunne settes i drift igjen. SAS viser til omdisponeringer av fly som gjøres i et slikt tilfelle,
+og at man ikke kan se isolert på én omdisponering av en maskin siden målet er å
+minimere ulempene for flest mulig passasjerer. SAS viser til fremlagt dokumentasjon;
+Traffic & Flight Information og Daily Operations Report , samt informasjon fra Stockholm
+OCC og teknisk rapport.
+
+Den bakenforliggende årsaken til kanselleringen av SK4745 den 26.08.18 var lynnedslag
+i flymaskinen på den foregående flygningen fra Munchen til Oslo. Dette er å anse som
+ekstraordinært i henhold til forordningen, og er stadfestet ved dom C-315/15, Peskova.
+Det var ingen forholdsregler SAS kunne tatt for å unngå denne hendelsen og alle tiltak
+ble satt i verk for å frakte passasjeren på raskest mulig måte til sin endestasjon. Klager
+ble booket om til første mulige reiserute til Brussel som var morgenen etter kl 08:10. 
+
+SAS kan ikke imøtekomme klagers krav om EU kompensasjon i dette tilfellet.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet kan godtgjøre at
+kanselleringen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått
+selv om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5. 
+
+Værforhold som påvirker flytrafikken kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret. Det er
+flyselskapet som må godtgjøre at det foreligger et slikt spesielt tilfelle. 
+
+SAS har fremlagt dokumentasjon på LN-RPK ble utsatt for en "electrical discharge"
+på strekningen Munchen-Oslo tidligere på dagen (SK4760). Maskinen måtte deretter
+kontrolleres i henhold til prosedyrer for lynnedslag før det kunne settes i drift igjen. Det
+vises til fremlagt dokumentasjon. 
+
+Nemnda anser lynnedslag som en ekstraordinær omstendighet i forordningens forstand,
+jf eksempelvis FLYKN-2016-1323. 
+
+Det må imidlertid dokumenteres en årsakssammenheng mellom den ekstraordinære
+omstendigheten og kanselleringen av klagers flyvning. Klager har anført og fremlagt
+dokumentasjon på at maskinen som skulle betjene hans flyvning var LN-RRA. Denne
+maskinen opererte i stedet på SK839 fra Oslo til Paris kl 17:10, rundt en halv time
+etter klagers flyvning. SAS nekter ikke for at maskinen ble brukt på andre flyvninger,
+men mener det er helhetsbildet som er avgjørende, nemlig å ramme færrest mulig
+passasjerer. Det poengteres at rotårsaken til kanselleringen av SK4745 uansett var
+lynnedslaget på LN-RPK tidligere på dagen.
+
+Ettersom klagers maskin, LN-RRA, ble benyttet til en annen flyvning kort tid etter
+klagers kansellerte flyvning, mener nemnda dette tyder på et operasjonelt valg tatt av
+flyselskapet. Nemndas flertall - leder og forbrukerrepresentantene - mener at SAS ikke i
+tilstrekkelig grad har dokumentert/forklart hvorfor akkurat klagers flyvning ble kansellert
+som en følge av lynnedslaget på en annen flymaskin tidligere på dagen. Nemndas
+flertall anser dermed at SAS ikke har godtgjort at kanselleringen skyldtes ekstraordinære
+omstendigheter som ikke kunne vært unngått selv om alle rimelige tiltak var truffet. 
+
+Mindretallet - bransjerepresentantene - mener at flyselskapet dokumenterer at
+årsaken til omdisponeringen hadde rotårsak i lynnedslag og ble gjort for å minimere
+konsekvensene av en slik hendelse. Klager har således etter mindretallets syn ikke krav
+på standarderstatning. 
+
+Nemnda anbefaler at klager gis medhold.
+Vedtaket er fattet med den dissens som fremgår over.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler at SAS utbetaler standarderstatning til klager med
+250 euro.

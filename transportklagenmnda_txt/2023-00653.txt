@@ -1,0 +1,128 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Standarderstatning som følge av forsinkelse.
+Anført ekstraordinære omstendigheter/værforhold.
+
+Dato
+29.09.2023
+
+Saksnummer
+2023-00653
+
+Tjenesteytere
+Lufthansa German Airlines
+LATAM Airlines
+
+Klager har i det vesentlige anført
+
+Klager (to reisende) skulle fly fra Oslo til Sao Paulo via Frankfurt 14. desember 2022. 
+
+Klagers flyvning fra Oslo til Frankfurt ble 3.5 timer forsinket, og klager mistet derfor sin
+videreforbindelse fra Frankfurt til Sao Paulo. Klager ble omrutet fra Frankfurt til Sao
+Paulo via Milano, og ankom Sao Paulo 20:09 lokal tid. Ankomst i Sao Paulo ble forsinket
+med 16 timer. 
+
+Klager skriver at Lufthansa oppga lav bemanning og dårlig vær som årsak til forsinkelsen,
+men at Lufthansa i ettertid kun har henvist til værforhold og ikke lav bemanning, og
+avvist klagers krav på dette grunnlag. Klager viser til skjermbilder fra 14. desember fra
+Lufthansa sin twitterkonto som bekrefter lav bemanning som medvirkende årsak til
+forsinkelser. 
+
+Klager krever standarderstatning for forsinkelsen.
+
+Tjenesteyterne har i det vesentlige anført
+Passasjerene hadde følgende bookinger på utreisen:  
+
+LH 863 14DEC22 Oslo Frankfurt 1602 1820
+LH8071 14DEC22 Frankfurt Sao Paolo 2030 0450+1
+
+Flyvningen LH863 14. desember 2022 ankom Frankfurt med en forsinkelse på 3 timer og
+55 minutter. Passasjerene mistet dermed sin videreforbindelse til Sao Paolo. Årsaken til
+forsinkelsen var de ugunstige værforholdene i Frankfurt som medførte at flymaskinen
+som skulle utføre klagers flyvning ankom Oslo forsinket på grunn av flyplassrestriksjoner
+(ATC). 
+
+Flymaskinens tidligere flyvning, LH862, var i hovedsak forsinket grunnet
+flyplassrestriksjonene på grunn av værforholdene, se inntatte vedlegg og
+dokumentasjon. Ifølge METAR, var Frankfurt utsatt for snøfall allerede tidligere på dagen.
+Vi viser til vår TAF-rapport klokken 05:00 UTC som varsler at det snør. Ifølge vår daglige
+rapport, måtte rullebaner nedstenges klokken 08:30 UTC på grunn av ploging. 
+
+Mellom 09:30-12:30 UTC ble rotasjonen i flyvninger redusert til 36 flybevegelser i timen.
+Forespørselen på dette tidspunktet var 48 flybevegelser i timen. Klokka 08:55 UTC ble
+ATC i Langen nær Frankfurt redusert til 30 flybevegelser i timen mellom klokken 09:30
+UTC og 13:30 UTC. At dette ville påvirke planlagte flyvninger var uungåelig. LH862 ble
+påvirket av disse restriksjonene i flybevegelser, se vedlegg. 
+
+Klokka 10:00 UTC fikk flyvninger ut av Frankfurt en slot-forsinkelse på ca. 70 minutter.
+Klokka 10:45 UTC ble det annonsert at det ville bli fly- og personalforsinkelser. 12:55 UTC
+bestemte ATC i Langen å opprettholde reduksjon i flybevegelser på 30 flybevegelser i
+timen fra klokken 13:30 til 18:00. Klokka 15:00 ble denne restriksjonen opphevet fordi
+rullebanen ble ploget.
+
+Fra 15:40 til 17:00 UTC var det 45 flybevegelser i timen. Passasjerens flyvning faller inn i
+akkurat denne tidsperioden, se vedlagt tidstabell. 
+
+Den nye avgangstiden for klagers flyvning LH863 ble endret til 16:12, se vedlagte slot-
+meldinger. 
+
+Oppsummert ble passasjerens flymaskin påvirket av flyplassrestriksjonene i antall
+flybevegelser. Restriksjonene ble inntatt klokken 08:15 grunnet snøfall, og avviklet 15:45
+etter at værforholdene bedret seg. 
+
+Fordi passasjeren mistet sin videreforbindelse som følge av forsinkelsen, tilbød
+Lufthansa følgende omruting da de ankom Frankfurt: 
+LH246 15DEC Frankfurt Milan 0900 1010
+LA8073 15DEC Milan Sao Paolo 1215 2000
+
+Videre tilbød Lufthansa passasjerene forpleining og assistanse i tråd med artikkel 9 i EU-
+forordning 261/04. 
+
+Noen årsaker til avvik ved flyvninger er utenfor vår kontroll. Dette gjelder særlig dårlige
+værforhold, samt beslutninger fra tredjeparter som flykontrolltjenesten (ATC), som
+også var årsaken til at Lufthansa ikke kunne gjennomføre klagers flyvning i henhold til
+planlagt tidsskjema. Lufthansa kan ikke holdes ansvarlig for dette. Lufthansa ber derfor
+om forståelse for at de ikke kan tilkjenne standarderstatning i denne saken. Lufthansa
+påpeker videre at passasjerene mottok en utbetaling på 2489.9 NOK fra Lufthansa 23.
+mars for å dekke deres forpleiningsutgifter.
+
+Nemnda bemerker
+
+En passasjer som kommer mer enn 3 timer forsinket frem til sitt endelige
+bestemmelsessted, har rett til standarderstatning med mindre flyselskapet godtgjør
+at forsinkelsen var under tre timer, eller skyldtes ekstraordinære omstendigheter
+som ikke kunne vært unngått selv om alle rimelige tiltak var truffet, jf EU-forordning
+261/2004 artiklene 5, 6 og 7, samt EU-domstolens avgjørelser i sakene Sturgeon-Condor
+av 19.11.2009 (C-402/07) og Nelson med flere av 23.10.2012 (C-581/10). 
+
+Værforhold som påvirker flytrafikken ved at det ikke er mulig å lande eller ta av, ved at
+det oppstår store forsinkelser mv., kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret. Det er
+flyselskapet som må godtgjøre at det foreligger et slikt spesielt tilfelle. Flyselskapet må
+videre godtgjøre at de har truffet alle rimelige tiltak for å unngå forsinkelsen. 
+
+I tråd med EU-domstolens avgjørelse C-74/19 kan en hendelse på en forutgående
+flyvning kvalifisere som en ekstraordinær omstendighet der hendelsen forårsaker
+forsinkelser for de etterfølgende flyvningene. Forutsetningen er at det er en direkte
+årsakssammenheng mellom den ekstraordinære omstendigheten og forsinkelsen av
+påfølgende flyvning. 
+
+I dette tilfellet skyldtes forsinkelsen faktiske værforhold ved Frankfurt denne dagen som
+medførte at det ble innført restriksjoner i flytrafikken på flyplassen. Antallet flybevegelser
+ble redusert fra morgenen av, og restriksjonene varte over tid. Nemnda finner det
+godtgjort og dokumentert at restriksjonene påvirket flymaskinen som skulle betjene
+klagers flyvning. Det vises i denne forbindelse til omfattende dokumentasjon fremlagt av
+Lufthansa. 
+
+Nemnda mener at de ovennevnte værforhold og flyplassrestriksjonene som ble innført
+som konsekvens at dette må anses som en ekstraordinær omstendighet i forordningens
+forstand. Nemnda legger til grunn at forsinkelsen ikke kunne vært unngått selv om alle
+rimelige tiltak var truffet. Forsinkelser som skyldes ekstraordinære omstendigheter
+som ikke kunne vært unngått om alle rimelige tiltak hadde vært truffet gir ikke rett til
+standarderstatning.
+
+Vedtak
+
+Transportklagenemnda anbefaler at klager ikke gis medhold.

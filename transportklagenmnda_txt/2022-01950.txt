@@ -1,0 +1,84 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning for forsinket ankomst.
+
+Dato
+16.02.2023
+
+Saksnummer
+2022-01950
+
+Tjenesteytere
+Norwegian Air Shuttle
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med Norwegians avgang D83240 fra Oslo til København den
+28. juni 2022. Planlagt ankomst var kl. 19.50, men flyet ble forsinket og de ankom
+København med en forsinkelse på mer enn 3 timer. Klager har fremsatt et krav
+om standarderstatning i henhold til EU-forordning 261/2004 for forsinkelsen, men
+Norwegian har avvist hans krav og anført at forsinkelsen var på 2 timer og 58 minutter
+forårsaket av trafikkreguleringer i luftrommet og dermed utenfor flyselskapets kontroll.
+Klager anfører at Norwegian har gitt feil informasjon i sin app og opplyst en ankomst kl
+22.10, hvilket ikke stemte. Klager viser til Flightradar der ankomsttiden er 22.51 (UTC tid)
+ved gate. Deretter skulle flyet kobles til broen og dørene åpnes. Dette tok flere minutter. 
+
+Til Norwegians svar til nemnda anfører klager at flyselskapet ikke har dokumentert
+årsaken til forsinkelsen på foregående flyvning. En diskusjon mellom personalet ved gate
+og noen av passasjerene medførte også en ytterligere forsinkelse av klagers flyvning og
+dette har Norwegian ikke kommentert. 
+
+Det er etter klagers mening ingen tvil om at forsinkelsen oversteg 3 timer og at han
+dermed har krav på standarderstatning,
+
+Tjenesteyterne har i det vesentlige anført
+Klagers flyvning D83240 ankom København den 28. juni 2022 med en forsinkelse på 2
+timer og 58 minutter. Det vises til trafikkloggen der flyets ankomst tid (Actual Time of
+Arrival - ATA) er kl. 20.48 UTC som tilsvarer kl. 22.48 lokaltid. Videre viser trafikkloggen
+at klagers fly var forsinket på foregående flyvning inn til Oslo og at det ble informert om
+dette til passasjerene. 
+
+Norwegian avviser derfor klagers krav om standarderstatning, jf. EU-forordning 261/2004
+artikkel 7 og EU-domstolens dom i sak C-402/07 (Sturgeon).
+
+Nemnda bemerker
+
+Forsinkelse som medfører at passasjerene kommer frem til det endelige
+bestemmelsesstedet mer enn tre timer etter det planlagte ankomsttidspunktet gir rett
+til erstatning. Dette gjelder imidlertid ikke dersom flyselskapet godtgjør at forsinkelsen
+skyldes ekstraordinære omstendigheter som ikke kunne vært unngått selv om alle
+rimelige tiltak var truffet. Det vises til EU-forordning 261/2004 artikkel 6 jf. artikkel 7
+jf. artikkel 5 nummer 3 og EU-domstolens avgjørelser i Sturgeon m.fl. mot Condor
+(C-402/07) og Nelson m.fl. mot Lufthansa (C-581/10 og C-629/10).
+
+D83240 hadde ifølge dokumentasjonen i Norwegians tilsvar til nemnda planlagt
+ankomsttid i København kl. 19.50 lokal tid. Flyet hadde en faktisk ankomsttid kl 22.48,
+dvs 2 timer og 58 minutter forsinket. Nemnda kan ikke se at Norwegian har presisert om
+dette var tidspunktet flyet parkerte ved gaten eller da døren ble åpnet. Det er tidspunktet
+for når dørene åpnes og passasjerene kan forlate flyet som er relevant når tidspunktet
+for faktisk ankomsttid skal beregnes. Det vises til EU-dom C-452/13 (Germanwings) og
+kommisjonens tolkningsveiledning punkt 3.3.3. Nemnda mener at dersom flyselskapet
+ikke kan dokumentere på hvilket tidspunkt dørene ble åpnet, må det legges til fem
+minutter. Dette er fast praksis i nemnda og også den praksis som dansk nemnd følger.
+Ettersom Norwegian ikke har forklart eller dokumentert nærmere hvilket tidspunkt
+døren på flyet ble åpnet, legges det fem minutter til «actual time of arrival». Nemnda
+kommer med dette frem til at forsinkelsen var på 3 timer og 3 minutter. Nemnda finner
+ikke at Norwegian har godtgjort at forsinkelsen skyldtes ekstraordinære omstendigheter
+som ikke kunne vært unngått selv om alle rimelige tiltak var truffet. Klager har med dette
+rett på standarderstatning på 250 euro for forsinkelsen av D83240 den 28. juni 2022.
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Bransjerepresentant Gagnes fikk uventet forfall, og de øvrige medlemmene
+fant det forsvarlig å behandle saken med bare én bransjerepresentant, jf.
+transportklagenemndforskriften § 5-5 femte ledd.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Norwegian utbetaler standarderstatning på 250
+euro til klager.

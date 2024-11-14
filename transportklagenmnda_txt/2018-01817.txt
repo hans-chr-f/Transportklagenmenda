@@ -1,0 +1,92 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+09.04.2019
+
+Saksnummer
+2018-01817
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager med reisefølge (tilsammen to personer) skulle reise fra Leknes til Bodø den 3.
+juni 2018 kl 17.35 med ankomst kl 18.40 med WF814, pris flybillett kroner 1 168. Klager
+hadde separat billett videre til Oslo og Kristiansand påfølgende morgen. 
+
+WF814 ble etter flere timer på flyplassen kansellert. Klager skulle på jobb i Kristiansand
+den 4. juni. Widerøe anbefalte klager å ta hurtigruten til Bodø og lovet å refundere disse
+utgiftene i etterkant. Klager fulgte rådet for å rekke sin videreforbindelse. I etterkant
+avslår Widerøe å refundere hurtigrutebillettene. Han stiller seg kritisk til dette. 
+
+Klager krever standarderstatning 250 euro per person i henhold til EU-forordning
+261/2004, samt refusjon av utgifter til hurtigrutebilletter, kroner 2 852.   
+
+Det vises for øvrig til klagers brev.
+
+Tjenesteyterne har i det vesentlige anført
+WF814 ble kansellert som følge av fabrikasjonsfeil av flymaskin Bombardiers Dash 8.
+Den 3. juni 2018 opplevde Widerøe en feil ved flymaskinens FMS (Flight Management
+System) som leveres av Universal Avionics. Det var da en latent programvare feil i
+systemets interne GPS-modul som var problemet. Systemet brukes blant annet som
+hjelp ved innflyging. GPSene starter uke-tellingen på nytt hver 1024 uke, og det var da en
+programmeringsfeil i logaritmen som skulle ivareta denne overgangen. Dette førte til at
+en rekke flymaskiner måtte settes på bakken inntil man fikk konferert med flyprodusent,
+slik at man kunne fly på manuelle rutiner. 
+
+Widerøe viser til fremlagt dokumentasjon fra flyprodusenten. 
+
+I henhold til Guidelines til EU-forordning 261/2004 så kan skjulte feil som oppdages av
+produsent regnes som en ekstraordinær omstendighet. 
+
+Det var ingen tilgjengelige flyvninger samme dag, da to maskiner fra Leknes var
+kansellert grunnet samme problematikk og resterende maskiner var fullbooket. Tidligste
+avreise fra Leknes ville da være 4. juni. 
+
+For å hjelpe sine kunder ble det anbefalt at de som kunne tok hurtigruten til Bodø,
+ettersom det ville spare dem for mye tid. Klager har i dette tilfellet valgt alternativ
+transport med hurtigruten, og Widerøe har refundert flybilletten til klager. 
+
+Widerøe kan på grunnlag av ovennevnte ikke imøtekomme klagers krav.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var blitt truffet, jf EU-forordning 261/2004 artikkel 5 og 7. 
+
+Teknisk feil er som regel ikke en ekstraordinær omstendighet som fritar flyselskapet
+fra plikten til å betale standarderstatning, jf EU-domstolens avgjørelse av 17.09.2015
+Corina van der Lans - KLM (C-257/14) og Kommisjonens veileder av 15.06.2016 punkt 5.2.
+Unntakene er fabrikasjonsfeil, sabotasje, terrorhandlinger, birdstrike eller FOD (Foreign
+Object Damage).
+
+Slik nemnda ser det har flyselskapet Widerøe i dette tilfellet godtgjort at den tekniske
+svikten skyldtes en ekstraordinær omstendighet: 
+
+Flyselskapet har fremlagt dokumentasjon fra flyprodusenten for at den tekniske svikten
+skyldtes fabrikasjonsfeil. Kanselleringen gir etter dette ikke rett til standarderstatning.
+
+Kanselleringer gir passasjeren rett til refusjon eller omruting etter forordningen artikkel
+8, samt forpleining etter artikkel 9. 
+
+Klager anfører at Widerøe ikke kunne tilby omruting før påfølgende dag. Han anfører
+videre at Widerøe anbefalte passasjerer som ønsket det å ta hurtigruten, og at de ville få
+refundert disse kostnadene i ettertid. 
+
+Widerøe har anført at de anbefalte sine passasjerer å reise med hurtigruten. Flyselskapet
+har imidlertid ikke kommentert klagers påstand om at det ble lovet full refusjon av
+hurtigrutebillettene. Nemnda legger etter dette klagers anførsler til grunn, og anbefaler
+at Widerøe refunderer klagers utgifter til hurtigrutebilletter, med fradrag av refunderte
+flybilletter.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold i sitt krav om
+standarderstatning. Nemnda anbefaler at Widerøe refunderer klagers utgifter til
+hurtigrutebilletter, med fradrag av de refunderte flybillettene.

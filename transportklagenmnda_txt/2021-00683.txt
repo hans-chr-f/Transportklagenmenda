@@ -1,0 +1,86 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr som følge av for sent kjøp av billett.
+
+Dato
+17.09.2021
+
+Saksnummer
+2021-00683
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste 19. mars 2021 med bussen fra Solbergliveien i retning Postens godssenter.
+Klager kjøper billett ca kl. 07:36:21 som er idet bussen ankommer holdeplassen i
+Solbergliveien. Bussen ankommer neste holdeplass kl. 07:37:44, og klager blir stoppet
+i kontroll kl. 07:38:39. Til tross for at det på billetten står oppført at den er gyldig fra kl.
+07:38:23, blir klager ilagt gebyr for manglende gyldig billett. Situasjonen mellom klager og
+kontrolløren eskalerer, hvor det ender med at kontrolløren tilkaller politi og klager mister
+videre bussforbindelse til jobb. 
+
+Klager viser til at det er to minutter fra bussen ankommer Solbergliveien og til billetten
+ble gyldig. Hvilket samsvarer med den versjonen av RuterBillett-appen han hadde
+den dagen. Klager var ikke klar over at han benyttet en gammel versjon som hadde to
+minutters nedtelling før billetten var aktivert. Ruter har i ettertid kommentert at klager
+ikke hadde en slik versjon, uten at de har dokumentert denne påstanden. Klager har
+tidligere sendt skjermbilde av informasjon på Ruters hjemmeside som beviser at den
+gamle versjonen har eksistert, men den informasjonen er nå slettet fra nettsiden. Klager
+stiller seg undrende til hvorfor Ruter ikke klarer å dokumentere at den gamle app-
+versjonen er avviklet. 
+
+Klager krever at Ruter frafaller gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble kontrollert 19. februar 2021 om bord på busslinje 76. I kontrollen ble det
+fremvist en billett i RuterBillett-appen som var kjøpt for sent. 
+
+Klager skriver selv at han reiste fra Solbergliveien. Ruter har sjekket sanntiden for denne
+avgangen og kan se at bussen var der klokken 07:36:21. Kontrollørene gikk på og startet
+kontroll på stasjonen etter, Trasop skole. Bussen var ved Trasop skole klokken 07:37:44.
+Billetten i appen ble begynt bestilt klokken 07:38:10 og var gyldig fra klokken 07:38:23. 
+
+Den reisende har fått for seg at han har en gammel versjon av RuterBillett-appen med to
+minutters nedtelling, noe som ikke stemmer. 
+
+Ruter viser til selskapets reisevilkår punkt 3, hvor det fremgår at: 
+Passasjeren skal:
+b) ha gyldig billett ved påstigning på et transportmiddel eller ved inntreden i en
+kontrollsone. Dette innebærer at elektronisk billett skal være aktivert på dette tidspunkt.
+
+Ruter ser ingen grunn til å frafalle gebyret i dette tilfellet.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr da han reiste med bussen fra Solbergliveien fordi han hadde kjøpt
+billett for sent. 
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å
+ha gyldig billett før ombordstigning eller før passering av kontrollsoner. Ved bruk av
+mobilapp må billett være kjøpt og bekreftet før påstigning.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager har selv opplyst at han påsteg bussen på holdeplassen Solbergliveien, stoppet
+før Trasop skole. Ifølge Ruters sanntidssystem ankom bussen Solbergliveien kl. 07:36:21
+og kjørte derfra kl. 07:36:43. Gebyrrapport fremlagt av Ruter viser at kontrollen startet
+ombord i bussen kl. 07.37.36, like før bussen ankom Trasop skole kl. 07.37.44. Klagers
+billett er registrert bestilt kl.07.38.10 og ble aktivert fra kl. 07:38:23. Klager har selv
+fremlagt dokumentasjon på at billetten ble kjøpt 07:38:10, som var etter avgang. 
+
+Nemnda anser det ikke som relevant for sakens utfall å avklare hvilken versjon av
+RuterBillett-appen klager hadde på kontrolltidspunktet, da det fremgår av sanntidslogg
+og billetthistorikk at klager ikke kunne startet kjøp av billett før han gikk om bord i
+bussen ved Solbergliveien. Nemnda legger følgelig til grunn at klager startet kjøp av
+billett etter ombordstigning, og at vilkårene for å ilegge gebyr dermed var til stede.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

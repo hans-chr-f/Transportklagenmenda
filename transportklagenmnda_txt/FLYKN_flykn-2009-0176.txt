@@ -1,0 +1,183 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Uenighet om hva om avtalt pris.
+
+Dato
+20.01.2010
+
+Saksnummer
+176/09F
+
+Tjenesteyter
+Widerøe's Flyveselskap AS
+
+Uenighet om hva om avtalt pris.
+
+Klager har i det vesentlige anført:
+
+Klager skulle kjøpe billett til sin 11 år gamle datter. Billetten ble først bestilt via nettet. Klager
+måtte samme dag endre billetten. Dette ble gjort over telefon. Klager fikk da en rimeligere
+pris. Klager spurte om UM tillegget var med i prisen. Det ble bekreftet. Samlet pris var kr
+2.495. For å betale billetten ordnet klager med et overtrekk på kontoen med sin bank, som ga
+ham 2 600 i kreditt for dekning av billett.
+
+Klager fikk flere ganger sms og mail fra Widerøe om at det ikke var dekning på kontoen. Klager
+henvendte seg til kundesenteret og ble der fortalt at prisen var økt med kr 300. Klager klaget
+da på dette, og fikk der beskjed om at han måtte klage til klageavdelingen. Det ble gjort, men
+klager fikk bare beskjed om «betal eller la være å fly» dette er beklagelig, da flyselskapet er det
+eneste flyselskapet som flyr strekningen Trondheim-Evenes.
+
+Klager ønsker billett til avtalt pris.
+
+Widerøe har i det vesentlige anført:
+
+Widerøe mener denne saken bør avvises av nedenstående årsaker:
+
+På internett gir Widerøe som eneste flyselskap kundene mulighet til å bestille for Uledsagede
+barn (UM-billetter) online.
+
+På f.eks SAS.NO og Norwegian.no er kunden nødt til å ringe til de respektive flyselskaps
+callcentre for å få ordnet dette.
+
+Widerøe har pr juni 2009 45-50 UM-bookinger pr dag på internett, slik at dette er både et godt
+utprøvet og populært produkt.
+
+For å kunne tilby dette produktet online, ledes kunder som bestiller for 0 voksne, 1 barn inn
+på en mellomside hvor Widerøe gir spesifikk informasjon om dette med å bestille billetter for
+sine barn.
+
+Denne teksten gir spesifikk informasjon om saksgangen, OG at det vil tilkomme et pristillegg
+når bestillingen er behandlet i Widerøe's systemer og UM-status er bekreftet.
+
+Kunden kan ikke gå videre i prosessen før man klikker på knappen «Neste» som også er en
+bekreftelse på at kunden har lest og forstått vilkårene over.
+
+I dag går hele 96 % av alle bestillinger igjennom automatisk uten at det er behov for å tilby
+kundene alternative avganger.
+
+Den første bekreftelsen som sendes når kunden har booket sin reise, er således UTEN UM-
+gebyr, derfor meldingen over at vi sender ut en ny melding om ny totalpris inkl UM-gebyr før
+billetten belastes.
+
+Dette er også meddelt kunden flere ganger i den vedlagte maildialog, uten at dette ser ut til å
+ha nådd fram.
+
+I denne aktuelle saken er billetten bestilt online på internett
+
+31/5  kl 18:07.
+
+Kl 18:13 er det søkt om UM-status i vårt system
+
+Kl 18:20 er det sendt mail til kunden med bekreftelse på UM status og ny pris!
+
+Kl 20:27 har systemet sendt følgende info melding i tillegg med link til skjema som skal fylles
+ut:  um - mail sendt to pnr
+
+Um Skjema/Barn som reiser alene
+
+Benytt linken/koblingen under for utfylling av UM-skjema (Barn reiser Alene).
+
+Dette skal medbringes ferdig utfylt til flyplassen på avreisedagen.
+
+Vi gjør oppmerksom på at det tilkommer et gebyr på Widerøe og SAS avganger. Avgiften er
+mellom NOK50 til 150 per STREKNING. Gebyret vil bli belastet sammen med billetten når
+UM er bekreftet. Du har fått separat e-post med bekreftelse av ny pris sammen med UM
+bekreftelse.
+
+Kl 20:27 ble også følgende SMS sendt ut: (denne sendes ut for å fange opp de få tilfeller
+der det likevel ikke skal være UM-status, slik at vi kan ta bort en eventuell slik status der
+barn reiser sammen med voksne i separat bestilling. Dette for å hindre feil belastning av
+kredittkort)
+
+» Sendt SMS to 90988421
+
+Msg=Det er bekreftet barn som reiser alene på reise YVQGIU. UM-gebyr kommer i tillegg til
+prisen. Ta kontakt snarest dersom dette ikke er riktig.
+
+Du kan svare på denne SMS eller kontakte oss på mail. Husk å ta med referansenummeret
+(YVQGIU).
+
+Vennlig Hilsen
+
+Denne siste meldingen viser at melding er mottatt på oppgitt mobilnummer key=umsms
+
+Sms response=
+
+90988421,OK
+
+Deretter ble bookingen satt over til billettering og belastning av kredittkortet til  den 1/6.
+
+Den 1/6 kl 05:06 ble billetten forsøkt belastet første gang, uten resultat.
+
+Kl 06:25 ble det sendt mail og SMS første gang om at billetten ikke lot seg belaste grunnet
+manglende dekning.
+
+Deretter forsøkte systemet å belaste kortet et titalls ganger, før det igjen ble sendt mail og
+SMS ang manglende betaling kl 12:27
+
+Denne prosedyren gjentok Widerøes systemer hver time, fram til kortet til slutt lot seg belaste
+den 3/6 kl 09:49, og kvittering for elektronisk billett med KORREKT pris ble sendt ut 3/6 kl
+10:05.
+
+Slik Widerøe ser det er det svært liten mulighet for at kunden i dette tilfellet skal kunne
+påberope seg en lavere pris enn den som er belastet, basert på at kunden selv har gjort
+bestillingen og at han har selv gått gjennom de steg som er beskrevet over her for å kunne
+gjøre denne bestillingen for uledsagede barn.
+
+Widerøe har som sagt et stort volum på denne kategorien billetter, og opplever ikke at
+det er noe problematikk rundt dette med den prosessering som vi er nødt til å foreta for
+å få søkt om UM status før Widerøe kan komme tilbake med bekreftelse på at dette er OK
+(plassavhengighet som bekreftes i andre systemer),samt komme med endelig pris.
+
+Widerøe har per i dag klart å få til den mest optimale betjening av dette i et online produkt,
+og er i dag eneste flyselskap som kan levere denne tjenesten online, basert på ovenstående
+prosedyrer. Ettersom alternativene ligger i form av manuell betjening, med betydelig høyere
+gebyr, ser Widerøe også at stadig flere som ikke skal reise med flyselskapet også velger å
+benytte Widerøes tjeneste.
+
+Nemnda bemerker:
+
+Klager har opplyst at han opprinnelig bestilte billett på internett. Billetten ble senere endret
+per telefon, og klager fikk da oppgitt en pris på kr 2.495 inklusive UM gebyr. Det var viktig for
+klager å få oppgitt prisen, da han trengte samtykke fra banken til å overskride kontoen.
+
+Widerøe har ikke kommentert klagers anførsel. Widerøe referer kun rutinene for internett
+bestilling.
+
+Nemnda har ved vurderingen av saken delt seg i et flertall og et mindretall.
+
+Nemndas flertall, lederen og flyselskapenes representanter finner det mest sannsynlig
+at klager har misforstått totalprisen på reisen. Flertallet viser til at klager var kjent
+med at Widerøe tar et UM tillegg, og at dette blir lagt til i etterkant. Man må etter
+flertallets vurdering videre kunne gå ut fra at Widerøes representant var godt kjent
+med Widerøes regler på dette området. Det har således formodningen mot seg at
+representanten skulle ha gitt uriktige opplysninger om UM tillegget.
+
+Nemndas flertall er etter dette av den oppfatning at det ikke er grunnlag for tilbakebetaling at
+UM tillegget.
+
+Nemndas mindretall, forbrukernes representanter, er av en annen oppfatning.
+Mindretallet viser til at det for klager var svært viktig å vite hva billett ville koste, da
+han var avhengig av å kunne få bankens tillatelse til å overtekke kontoen. Det er derfor
+sannsynlig at klager spurt om, og fikk bekreftet, at UM tillegget var med i den oppgitte
+pris.
+
+På bakgrunn av flertallets vurdering traff nemnda slikt
+
+Vedtak:
+
+Flyklagenemnda kan ikke anbefale at klager gis medhold.
+
+Nemnda hadde slik sammensetning ved behandling av saken:
+
+Lagdommer Einar Kaspersen, leder
+
+Elise Korsvik, Forbrukerrådet
+
+Sverre Åril, Forbrukerombudet
+
+Vibeke Krogh Erikstad, Norwegian Air Shuttle ASA
+
+Anniken Wallin, Austrian Airlines

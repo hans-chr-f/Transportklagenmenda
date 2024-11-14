@@ -1,0 +1,205 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning samt refusjon av ekstra utgifter.
+
+Dato
+12.09.2023
+
+Saksnummer
+2022-03347
+
+Tjenesteytere
+Finnair
+
+Klager har i det vesentlige anført
+
+Klager (til sammen fem personer) hadde billetter med Finnair den 1. juli 2022 fra Bergen
+via Helsinki, Singapore til Jakarta og hjemreise den 27. juli 2022. Den 28. april 2022
+mottok klager beskjed om ruteendring fra Helsinki til Singapore. 
+
+Ved ankomst på flyplassen i Bergen hvor det var Widerøe som skulle sjekke inn, ble de litt
+forvirret over flybilletten de hadde. Det ble kontaktet Finnair, men de tok ikke telefonen. 
+
+Det opprinnelige tidspunktet for å reise fra Helsinki til Singapore var 1. juli 2022 kl.
+23:55 og den ble endret til 1. juli 2022 kl. 00:15. Mens tidspunkt for å reise fra Bergen
+til Helsinki var 1. juli 2022 kl. 11.55, ingen endring, det samme gjaldt for reisen fra
+Singapore til Jakarta hvor det heller ikke var noen endring.  
+
+Ved kontakt med Finnair så ble klager tilbudt ny reise den 10. juli eller 24. juli, så klager
+følte seg tvunget til å måtte akseptere refusjon. 
+
+Klager undrer hvorfor Finnair endret tid på strekningen Helsinki til Singapore uten å
+endre på foregående og neste strekning. Det var vanskelig å forstå og det ble antatt at
+ruteendringen for Helsinki til Singapore (fra 23.55 til 00.15) var 2. juli 2022, ikke 01. juli
+2022. Men det var 01. juli, så klager forstår ikke hvordan de kunne gå ombord i flyet hvis
+rutetabellen for Bergen til Helsinki var 11.55 1. juli.
+
+Billettene ble bestilt av klager på direkte Finnairs nettsted, ikke gjennom reisebyrå. Det
+ble kun sendt en sms til en annen i reisefølge og ikke til den som bestilte flybillettene. 
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004 da de ikke fikk
+benyttet reisen fra Bergen på grunn av tidsendringen som ble kun gjort fra Helsinki på
+billetten. Det kreves også for telefon utgifter, hotell utgifter, utgifter til fly innenlands
+i Indonesia og tapte feriedager. Klager har fått utbetalt for sine billetter, men ikke for
+andre utgifter.
+
+Tjenesteyterne har i det vesentlige anført
+Finnair avslår standarderstatningen på 3000 euro og kravet om tilleggsutgifter
+vedrørende hotell, transport og mistet ferie.
+
+Klager hadde flyvninger Bergen - Helsinki - Singapore - Jakarta 1. juli 2022.
+AY942 01JUL BGOHEL 11.55 - 15.10
+AY131 01JUL HELSIN 23.55 - 18.00+1
+AY6409 02. JUL SINCGK 20.00 - 21.05
+GA836 27. JUL CGKSIN 15.00 - 17.45
+AY132 27. JUL SINHEL 21.50 - 06.15+1
+AY941 28. JUL HELBGO 16.05 - 17.20
+
+Den 28. april 2022 ble klager informert om ruteendringen for flyvningen Helsinki til
+Singapore: 
+AY131 01JUL HELSIN 00.15 - 18.20
+
+Tidsplanendringen ble informert over 14 dager før den opprinnelige avreisedatoen og
+ingen standarderstatning i henhold til EU-forordning 261/2004 tilbys.
+
+Billettene til klager ble refundert 4. juli 2022 og hele refusjonsbeløpet er 9752 NOK per
+billett.
+
+Finnair har sendt en SMS-melding til klager om at de ikke har brukt sin Helsinki til
+Singapore 1. juli 2022 og at klagers andre flyvninger på deres reservasjon er automatisk
+kansellert. Dette innebærer at de ikke har bekreftet reservasjon for reisen til Jakarta og
+dette er ikke en nektet ombordstigningssituasjon i henhold til EU-forordning 261/2004.
+
+Klager krever også hotellkostnader i Jakarta, transport Jakarta - Bali 4. juli 2022 og
+tapt ferie. De videre reiseplanene til klager (hotell, separate flybilletter og kostnadene
+knyttet til disse) og tapt ferie er langt unna hverandre sammenlignet med den avtalte
+flytransporten mellom klager og Finnair angående flyvningen Bergen - Jakarta. Finnair
+har også begrenset sitt ansvar for denne typen ovenfor nevnte indirekte skader og
+følgeskader i sine generelle transportbetingelser som følger:
+
+15.1.2 (d) Except where other specific provision is made in these Conditions of Carriage,
+we shall be liable to you only for recoverable compensatory damages for proven direct
+losses and, to the extent permitted by applicable law, you agree that we shall not be
+liable for indirect, consequential, or any other form of non-compensatory damages.
+
+Finnair kan dekke rimelige telefonkostnader knyttet til tidsendringen.
+
+Nemnda bemerker
+
+Basert på informasjonen i saken legger nemnda til grunn at det ble gjort en ruteendring
+av flyselskapet som må anses som en kansellering i EU-forordningens forstand. Det vises
+til at reisen ikke var gjennomførbar når avgangstiden fra Helsinki ble fremskyndet, uten
+at avgangstiden fra Bergen ble tilsvarende justert.
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf EU-forordning 261/2004 artikkel 5 og 7. Retten til
+standarderstatning faller bort dersom passasjeren blir opplyst om kanselleringen minst
+to uker før planlagt avgangstid, jf. artikkel 5 punkt 1. bokstav c) i. 
+
+I dette tilfellet ble endringen varslet 28. april 2022. Av meldingen fremgikk følgende:
+"Your journey Bergen - Singapore on 01 Jul 2022 has changed. Please see below for
+further details." Nedenfor i meldingen var angitt den nye avgangstiden fra Helsinki.
+Avreisetidspunktet fra Bergen var uendret. Det sto ingen ting om at reisen - med de
+nye tidspunktene - ikke var gjennomførbar. Det sto heller ingen ting om at reisen var
+kansellert. Etter nemndas syn kan den meldingen klager mottok, ikke anses som en
+meddelelse om kansellering iht EU-forordning 261/2004 artikkel 5 punkt 1, bokstav
+c) i. Selv om meldingen ble gitt mer enn to uker før planlagt avgangstid, har retten til
+standarderstatning ikke falt bort som følge av dette.
+
+Flyselskapet har ikke godtgjort at innstillingen skyldtes ekstraordinære omstendigheter
+som ikke kunne vært unngått selv om alle rimelige tiltak var truffet. 
+
+Klager har derfor rett til standarderstatning pålydende 600 euro. 
+
+Ved kansellering har passasjeren rett til å få valget mellom refusjon av den fulle
+billettprisen eller omruting snarest mulig til bestemmelsesstedet på tilsvarende
+transportvilkår, jf. EU-forordning 261/2004 artikkel 8 nummer 1. 
+
+Klager hadde bestilt følgende reise med Finnair: 
+AY942 01JUL 2022 BGO - HEL 11.55 - 15.10
+AY131 01JUL 2022 HEL - SIN 23.55 - 18.00+
+AY6409 02JUL 2022 SIN - CGK 20.00 - 21.05
+
+Den 28. april 2022 mottok klager e-post med informasjon om at avgangstiden for
+etappen HEL - SIN var endret til kl. 00.15. Dette medførte at klagers reiserute ikke var
+gjennomførbar, da det nye avgangstidspunktet for videreforbindelsen fra Helsinki, lå
+forut i tid for avgangen fra Bergen. Klager oppdaget ikke at reiseendringen medførte at
+reiseruten ikke var gjennomførbar, og dukket opp i tide til flyvningen fra Bergen. Der fikk
+klager med reisefølge ikke sjekket inn fordi bookingen da var kansellert som følge av "No-
+show" på neste etappe; strekningen HEL-SIN. 
+
+I informasjon fremlagt av klager og Finnair fremgår det at klager først mottok tilbud om
+omruting den 1. juli, og at de alternative avreisetidspunktene som da ble tilbudt var 10
+eller 24 dager senere. Klager har anført at hun følte seg forpliktet til å velge full refusjon
+av billettene. Finnair har ikke kommentert dette i sitt tilsvar. Etter nemndas vurdering har
+Finnair ikke overholdt plikten til å tilby omruting "snarest mulig". 
+
+Finnair har refundert klagers billetter i sin helhet. 
+
+Klager krever også refusjon av utgifter til telefon, to planlagte hotellopphold samt fly
+innenlands i Indonesia. Det er fremlagt kvittering for hotell (67.52 USD) i Jakarta den 2.
+juli med opphold frem til 4. juli 2022, med informasjon om at booking må avbestilles
+senest 24. juni 2022. Det er også fremlagt telefonregning som viser påløpte kostnader
+til ulike spesialnumre i juli-måned. Klager har også fremmet krav om refusjon av
+forhåndsbetalt opphold og flyreise for videre reise til Bali, med avgang to dager etter
+ankomst i Jakarta.
+
+I henhold til luftfartsloven § 10-20 kan flyselskapene bli ansvarlige for tap som følge
+av forsinkelser, med mindre det godtgjøres at alle forholdsregler som med rimelighet
+kan kreves for å unngå tapet, er tatt, eller at dette ikke var vært mulig. I henhold til
+nemndspraksis brukes også denne regelen ved kanselleringer/ruteendringer, men tapet
+må være påregnelig.
+
+Nemndas flertall - bransjerepresentantene og nemndas leder - mener at utgiftene til
+forhåndsbetalt hotell ligger utenfor rammen av det påregnelige for flyselskapet. Det
+samme gjelder utgiftene for hotell og flybilletter for planlagt videre reise fra Jakarta til
+Bali. Klager har for øvrig fremlagt en kvittering fra hotellet som synes å bekrefte full
+refusjon av bookingen.
+
+Mindretallet, forbrukerrepresentantene, mener derimot at Finnair må erstatte den
+tapte hotellreservasjonen og forhåndsbestilt innenriksflyvning i Indonesia i tillegg
+til standarderstatningen. Klagers reiserute ble endret slik at reisen ikke lot seg
+gjennomføre. Dette innebar i realiteten en kansellering av klagers reise. Mindretallet
+viser til at Finnair som utførende luftfartsselskap plikter å gi alle berørte passasjerer
+skriftlig melding om sine rettigheter ved innstilt flyvning, jf. forordningen art. 14
+nr. 2, samt å tilby passasjerene valget mellom refusjon og omruting, jf. art. 8 nr. 1,
+jf. art. 5 nr. 1 a). Varslingen klager mottok om endring av reiseruten oppfylte ikke
+forordningens krav. Ettersom kanselleringen skjedde 28. april, over to måneder før
+avreisedato, mener mindretallet at Finnair hadde alle forutsetninger for å tilby mer
+passende omrutingsalternativer, som kunne minimere klagers tap og ulemper som
+følge av kanselleringen. Mindretallet mener etter dette at flyselskapet ikke har overholdt
+informasjons- og omrutingsplikten.
+
+Etter luftfartsloven § 10-20 er flyselskapet ansvarlig for tap som er en direkte følge
+av en forsinkelse eller kansellering, med mindre selskapet godtgjør at det har tatt
+alle forholdsregler som med rimelighet kan kreves for å unngå tapet. Klager tapte i
+dette tilfellet en forhåndsbestilt hotellreservasjon i Jakarta og en innenriksflyvning i
+Indonesia som følge av at han ikke ble omrutet i henhold til forordningen og ikke fikk
+reist. Mindretallet anser tapet som en påregnelig skadefølge og klager har dermed krav
+på å få dekket utgiftene.
+
+Mindretallet mener videre at tapet ikke skal samordnes med standarderstatningen,
+ettersom det skyldtes bruddet på omrutingsplikten, og dermed faller utenfor de tap
+standarderstatningen er ment å dekke.
+
+Telefonutgiftene har Finnair tilbudt seg å dekke, og nemnda mener Finnair må dekke
+disse ekstrautgiftene.
+
+Tapte feriedager.
+Når det gjelder klagers krav om erstatning for tapte feriedager, er dette ikke ytterligere
+dokumentert av klager og etter nemndas vurdering ikke noe klager har krav på
+erstatning for i dette tilfellet. 
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Finnair betaler standarderstatning 600 euro per
+passasjer, samt refunderer klagers påløpte kostnader til telefonsamtaler i perioden 1. - 4.
+juli 2022, mot at klager dokumenterer telefonutgiftene som kreves refundert.

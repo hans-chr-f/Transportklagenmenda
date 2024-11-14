@@ -1,0 +1,146 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr - problemer med mobil
+
+Dato
+15.11.2021
+
+Saksnummer
+2021-00994
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 25. juni 2021. Klager forklarer at han skulle hjem til Lade etter
+cellegiftbehandling på St. Olavs hospital. Videre forklarer klager at han dermed ikke var i
+fysisk forfatning til å gå strekningen på 60 minutter og måtte ta buss. 
+
+Klager anfører at han forsøkte å kjøpe billett 3-4 ganger, men fikk kun opp feilmelding.
+Videre anfører klager at han hadde dekning på konto og han hadde kjøpt billett tidligere
+med samme kort, så det skulle ikke vært noe som var feilinntastet. Klager legger til at han
+hadde god WiFi-dekning. Klager forklarer at han ikke hadde noe annet valg på grunn av
+sin helsetilstand å benytte seg av transport. 
+
+Klager forklarer at han gikk av en holdeplass for tidlig (han skulle av ved Haakon VII) for
+å si til kontrolløren at han ikke hadde fått kjøpt billett og om han kunne hjelpe klager.
+Klager ble ilagt gebyr, selv om han viste til kontrolløren at det ikke var mulig å kjøpe
+billett. Klager fikk allikevel lov til å ta bussen ett stoppested til etter denne samtalen. 
+
+Klager forklarer at da han kom hjem forsøkte han på nytt å kjøpe billett, også denne
+gangen med god dekning, men det gikk ikke. Klager sendte inn dokumentasjon på dette,
+samt dekning på konto, men fikk avslag fra AtB. AtB forklarte at de ser at klager forsøkte
+å kjøpe billett, men kan ikke se hvorfor det ikke har gått igjennom. Klager anfører at
+kontrolløren mente at det kunne være noe kluss i forbindelse med at AtB samme dag
+lanserte en ny app for AtB. Klager forklarer at det at AtB kommer med alternativer til
+betalingsmåte hjelper lite i etterkant av at gebyret er ilagt. 
+
+Etter at klager har mottatt AtB sitt tilsvar i saken legger han til at han har vært i kontakt
+med banken som sa at det var tastet inn feil kontrollnummer syv ganger. Klager mener
+dette er umulig, siden det ikke var noe felt å fylle inn dette nummeret. Klager viser til
+dokumentasjon innsendt i saken, da dette viser at det var feil med appen til AtB. 
+
+Klager viser til innsendt dokumentasjon i saken. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr 25. juni 2021 fordi han ikke kunne fremvise gyldig billett under
+billettkontrollen. Gyldighetstiden på billettene er basert på at de reisende må kjøpe
+billetten før de starter reisen, og både SMS-billetten og enkeltbilletten på Mobilletten
+er dermed gitt 30 minutter lengre aktiveringstid. Dersom man ikke kan fremvise gyldig
+billett ved kontroll ilegges tilleggsgebyr.
+
+AtBs regelverk gjelder for alle som befinner seg ombord på våre transportmidler. Når
+en kunde kjøper billett hos AtB, inngår kunden samtidig en transportavtale med AtB om
+reise på våre transportmidler basert på de til enhver tid gjeldende vilkår som følger av
+AtBs transportvedtekter med vedlegg.
+
+Det fremgår av bruksvilkårene for Mobillett og SMS-billett at denne skal kjøpes før man
+går om bord i bussen. Dette er også en av årsakene til at det er 30 minutter lengre
+overgangstid på Mobillett/SMS-billett enn på øvrige billettyper som tilbys. Dette betyr at
+den reisende må påse at det foreligger en gyldig billett under «mine billetter» før man
+går om bord. Noen ganger kan man erfare problemer med enkelte betalingsalternativ,
+enten på grunn av problemer med nettforbindelsen eller andre tekniske årsaker.
+
+Det er likevel den reisendes ansvar å påse at man til enhver tid har gyldig billett før man
+går om bord og kan fremvise denne ved en eventuell billettkontroll.
+
+AtB har også undersøkt klagers Mobillettbruker. I våre systemer fremkommer det at
+han utførte sju (7) bestillinger via Vipps, henholdsvis kl. 14:09, 14:10, 14:16, 14:39, 15:06,
+15:10 og 15:21, som alle feilet. Årsaken til at transaksjonene feiler kan skyldes så mangt,
+eksempelvis manglende dekning på konto, at man avbryter bestillingen, tidsavbrudd,
+tekniske problemer hos kortutesteder eller problemer med internettforbindelsen. Det
+kan høres ut som at sistnevnte kan være problemet i denne situasjonen. Dette på grunn
+av at kunden benyttet WiFi. Mange steder som har åpne WiFi-nettverk har strenge DNS-
+innstillinger for hvilke nettsteder som skal være tilgjengelige eller ikke. Ofte er det slik
+at slike tilbydere ikke godtar bruk av nettbutikker. Dette av hensyn til brukerne sine, da
+åpne WiFi-nettverk kan være mottakelig for angrep fra uvedkommende.
+
+AtB har som nevnt over undersøkt Mobillettsystemet for feil, men kan ikke se at det var
+problemer i systemet når klager reiste.
+
+AtB startet i slutten av juni en åpen pilot i forbindelse med ny reiseapp. Denne
+appen kjører på helt separate systemer, og skal derfor ikke ha noen påvirkning av
+Mobillettappen. 
+
+Etter at AtB har mottatt klager sin kommentar i saken legger de til at det fremgår av
+kjøpshistorikken for øvrige brukere i det aktuelle tidsrommet at betalinger gikk igjennom.
+Dette må bety at problemene klager beskriver må skyldes eksterne forhold. Videre viser
+AtB for øvrig til transportvedtektene hvor det fremgår at det er den reisendes ansvar å
+påse at man til enhver tid har gyldig billett. Bruksvilkårene for Mobillett er videre tydelig
+på at gyldig billett skal være ferdigkjøpt før påstigning. Om man opplever problemer ved
+å betale fra bankkort, kan man alternativt betale med Vipps, Mobillett konto eller via
+telefonregning. Det er også mulig å kontakte AtB via kundesupport. AtB er hver dag, også
+i helg og på hellig- og høytidsdager.
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr 25. juni 2021 fordi han ikke kunne fremvise gyldig billett under
+billettkontrollen. 
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av transportvedtektenes pkt. 6.2 følger det at det skal ilegges tilleggsavgift dersom den
+reisende ikke kan vise gyldig billett. Bestemmelsen er objektiv. Gebyr kan således ilegges
+selv om passasjeren ikke har opptrådt klanderverdig. 
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, så vilkårene for å ilegge
+gebyr var dermed til stede. 
+
+Klager har anført at han forsøkte å kjøpe billett 3-4 ganger, men fikk kun opp feilmelding.
+Videre har han anført at han hadde dekning på konto og han hadde kjøpt billett tidligere
+med samme kort, så det skulle ikke vært noe som var feilinntastet. Klager legger til at han
+hadde god WiFi-dekning. Klager har anført at det var feil i AtB sin app. 
+
+AtB har fremlagt dokumentasjon som viser kjøpshistorikken til øvrige brukere i det
+aktuelle tidsrommet og disse kjøpene gikk igjennom. Videre har AtB forklart at de
+har undersøkt Mobillettsystemet for feil, men kunne ikke finne noen problemer på
+det aktuelle tidspunktet. AtB har videre forklart at det kan være problemer med
+internettforbindelsen som er årsaken til problemet da klager benyttet WiFi og det kan
+være innstillinger på WiFi nettverket som begrenser hvilke nettsider som er tilgjengelig
+og ikke. Nemnda holder det derfor for sannsynlig at problemet klager opplevde på sin
+telefon ikke er noe som AtB kan holdes ansvarlig for.
+
+AtB har lagt til rette for at flere betalingsmidler enn bankkort, som Vipps, Mobillett
+konto eller via telefonregning, kan benyttes i appen, men har ikke ansvar for at
+betalingsmiddelet fungerer. Det kan være hensiktsmessig å legge flere betalingsmidler i
+appen for å sikre seg dersom et betalingsmiddel svikter. 
+
+Nemnda bemerker at det er den reisendes ansvar å ha gyldig og validert billett før
+påstigning på bussen. Dersom man har problemer med mobilkjøp, men likevel går på
+bussen tar man selv risikoen ved å bli ilagt gebyr ved en eventuell kontroll. 
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

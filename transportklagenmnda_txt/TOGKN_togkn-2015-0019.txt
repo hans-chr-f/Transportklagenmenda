@@ -1,0 +1,110 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Klage på Flytogets overbelastning av billettpris for honnørreisende.
+
+Dato
+12.01.2016
+
+Saksnummer
+19/15 J
+
+Tjenesteyter
+Flytoget
+
+Klage på Flytogets overbelastning av billettpris for honnørreisende.
+
+Klager har i det vesentlige anført:
+
+Klager, som er pensjonist og har registrert seg som dette i sin kundeprofil på Flytogets
+nettsider, oppdaget at han siden april 2014 var belastet full pris for 7 av de 10 reisene han
+hadde foretatt siden da. Etter å ha klaget til Flytoget, fikk han 4 enkeltbilletter gratis.
+
+Reisende som ønsker å reise billettløst, må registrere sitt/sine bankkort/kredittkort
+i kundeprofilen. Registreringsplikten kunden pålegges for sine kort, dekker også
+registreringsplikt for at også nytt bankkort, registreres. Når en pensjonist mottar et nytt
+bankkort, noe som skjer ca. hvert 2–4 år for vanlige bankkorts del, foretar vedkommende
+seg neppe mye. Kortene er like og knytter seg til samme korteier og den samme bankkonto.
+Dersom man ikke registrerer det nye kortet på «min side» på Flytogets nettsider, så blir ikke
+reiser med dette kortet rabattgivende.
+
+Det er ingen varsler og det vises ikke noe beløp eller kvittering i kortleserne på stasjonene.
+Det er ingen informasjon fra Flytogets side når det gjelder dette, verken pr. sms, e-post,
+kundebrev, skjermbilde over kortleserne på stasjonene, plakater osv. det er fra Flytogets
+side ingen forståelse for at pensjonister heller bør hjelpes aktivt enn å bli lurt, spesielt i en
+dataverden som de ikke alle ser sin plass i.
+
+Klager mener Flytoget har tilstrekkelig med informasjon rundt registrerte kunder og de kort
+som benyttes ved billettløse reiser til at den feilprising som skjer i disse tilfellene kan unngås.
+
+Klager hevder at Flytogets praksis rundt kundeprofiler og registrering av nye bankkort er svært
+urimelig og at Flytoget må pålegges å endre denne praksisen.
+
+Flytoget har i det vesentlige anført:
+
+Billettløse reiser er en meget populær reisemetode for reisende med Flytoget og utgjør i
+dag ca. 56 % av alle reiser. Ved billettløse reiser drar kunden kortet i en kortleser, og blir
+belastet per konto/faktura. De som trenger kvittering for reisen, kan registrere seg på
+minside.flytoget.no og motta dette automatisk pr. e-post.
+
+De som ønsker å reise billettløst, har mulighet til å registrere seg for dette på
+minside.flytoget.no. Profilen de lager her er personlig og inneholder den informasjonen de
+selv legger til, f.eks. personopplysninger, billettype og kortnummer (numre). Det bes ikke om
+utløpsdato på kortet, kun kortnummer. Grunnen til det er at Flytoget er sertifisert under PCI
+DSS, som er standarden for kortsikkerhet fra kortselskapene.
+
+Kunden har i profilen mulighet til å definere seg selv som honnør reisende. De kortnumre som
+legges inn i profilen, blir da ved billettløs reise belastet honnørpris. Dersom kunden får ny
+versjon av et kort (pga. utløpt, mistet, ødelagt kort) vil kortnummeret endres. Dersom profilen
+ikke er oppdatert med det nye kortnummeret vil ikke systemet kjenne igjen kunden som
+honnørreisende og belaste full pris. Flytoget har ingen mulighet til å vite at en kunde har fått
+nytt kort og det er derfor kundens ansvar å logge seg på og oppdatere profilen sin.
+
+Klager registrerte et nytt kort i sin profil den 23. mai 2015 og har fått honnørpris etter dette.
+Klager har fått tilsendt 4 billetter som kompensasjon for bryderiet han har hatt i saken.
+
+Nemnda bemerker:
+
+Billettløs reise med avtale om rabattert pris (student og honnør), krever registrering av profil
+og kort på Flytogets nettside, jf. Flytogets transportvilkår § 3 b. Kunden kan velge å legge inn
+som fast prosedyre at reisekvittering blir sendt automatisk til oppgitt e-postadresse, jf. § 3 e.
+
+Det er vanlig at opplysninger i en kundeprofil er basert på den informasjonen som en bruker
+selv har lagt inn. Endringer av slike opplysninger må en bruker selv legge inn. Det stilles
+strenge krav til behandling av personopplysninger. Det fremgår av Flytogets vilkår for bruk av
+«Min side» punkt 1 at alle personlige opplysninger blir forsvarlig lagret og fortrolig behandlet i
+henhold til:
+
+Flytoget har opplyst at de er sertifisert under PCI DSS - en pålagt standard for å behandle
+kunders bank- og kredittkortopplysninger. Nemnda har ikke kjennskap til denne standarden,
+men legger til grunn at krav til sikkerhet rundt person- og kortopplysninger ikke muliggjør en
+automatisk oppdatering av en kundeprofil når kunden har fått nytt/nye kort knyttet opp til sin
+bankkonto. Dette er av hensyn til kundens sikkerhet.
+
+Det må etter nemndas mening være kunden som legger inn kortnummer som ønskes knyttet
+opp til det å reise billettløst og kunden som til en hver tid må ha ansvaret for at de kortene
+som ønskes benyttet til billettkjøp, er lagt inn i kundens profil slik betingelsene for billettløse
+reiser til honnørpris tilsier.
+
+Klager påpeker at det ikke gis nok informasjon fra Flytoget side om at endringer i
+kortopplysninger må foretas av kundene selv. Nemnda viser til at det på Flytogets nettsider
+under «Reiseinformasjon/Billetter og priser» er opplyst følgende:
+
+«STUDENT ELLER HONNØR?
+
+Opprett en profil på Min side og velg billettype «Student» eller «Honnør». Alle reiser på kort
+som er registrert i profilen vil da automatisk belastes med rabattert pris. Når du mottar nytt
+kort, vil kortnummeret vanligvis endre seg. Det betyr at du må huske å legge til ditt nye kort på
+Min side for å få rabatten ved dine neste reiser. Husk at du må ha med gyldig legitimasjon på
+hver reise.»
+
+Nemnda anser informasjonen tilstrekkelig og finner ikke at det er grunnlag for å kritisere
+Flytogets praksis rundt kundeprofiler og registrering av bank- og kredittkort i dette tilfellet.
+
+Vedtak:
+
+Transportklagenemnda - jernbane finner ikke å kunne anbefale at klager gis medhold.
+
+Vedtaket er enstemmig.

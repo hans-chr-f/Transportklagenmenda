@@ -1,0 +1,148 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om refusjon av flybilletter som følge av kansellering. Covid-19.
+
+Dato
+15.06.2021
+
+Saksnummer
+2020-03029
+
+Tjenesteytere
+Mytrip
+SAS
+TAP Air Portugal
+
+Klager har i det vesentlige anført
+
+Klager (to personer) skulle reise fra Trondheim til Oslo den 28. mai 2020 med SK351.
+Fra Oslo skulle klager reise videre til Lisboa med TP761, booking ref. TM8SVN. Planlagt
+returreise var den 01. juni med TP764 fra Lisboa til Oslo, og fra Oslo til Trondheim med
+SK380, bookingref. TMHYDB. 
+Billettene var bestilt gjennom reisebyrået Mytrip.
+
+Klager avbestilte sin reise den 29. april da de ikke kunne reise som følge av covid-19
+pandemien. Klager kontaktet Mytrip og fikk beskjed om at reiseselskapet skulle ordne
+med refusjon mot et lite mellomlegg. Imidlertid har ikke Mytrip utbetalt refusjon og har
+vist til at de venter på et svar fra flyselskapene.
+
+Klager krever refusjon av flybilletter pålydende NOK 9 091.
+
+Tjenesteyterne har i det vesentlige anført
+Mytrips rolle som formidler er tydelig beskrevet på deres nettsider og i selskapets
+reisevilkår. Kunden har ved bestilling og før betaling bekreftet å ha lest og godtatt
+reisevilkårene.
+
+Mytrip gjør oppmerksom på at de:
+- kun opptrer som formidler av tilbud av reisetjenester
+- ikke er part i avtalen mellom kunden og flyselskapet
+- ikke har noen innflytelse på flyselskapets vilkår
+- ikke kan ta ansvar for utførelsen av reisetjenestene
+- kun kan formidle tilbakebetalinger som de har fått fra det aktuelle flyselskapet
+
+Klagers flyreise ble kansellert på grunn av den ekstraordinære situasjonen Covid-19
+medførte.
+
+Mytrip har på vegne av klager søkt om full refusjon fra flyselskapet for klagers
+billetter. Mytrip informerer om at de ikke kan garantere at flyselskapet vil godkjenne
+refusjonssøknaden eller at de vil utbetale full refusjon.
+
+Mytrip avslår klagers krav på full refusjon.
+
+Ved bookingen har klagers betaling omgående blitt videreformidlet til flyselskapet, og
+Mytrip har fremdeles ikke mottatt refusjon. Dersom Mytrip mottar en refusjon, vil de
+utbetale denne til klager.
+
+Mytrip viser til at flyselskapets avgjørelse er utenfor deres kontroll og at de vil bli påført
+store økonomiske tap dersom de må refundere kunden. Reisebyrået understreker at de
+ikke kan bli holdt ansvarlig for avtalen mellom kunden og flyselskapet.
+
+TAP Air Portugal har anført:
+Flyselskapet har vist til at klager må kontakte reisebyrået for å få refusjon for
+flybillettene. TAP Air Portugal har avtaler med flere reisebyråer som er autorisert til å
+utstede billetter på vegne av TAP. Når et reisebyrå utsteder en TAP billett, er billetten i
+sin helhet betalt av reisebyrået. Dette innebærer at det inngås en avtale mellom TAP Air
+Portugal og det aktuelle reisebyrået. Passasjeren er ikke en del av denne avtalen.
+
+Kommersielle relasjoner mellom TAP og reisebyråene håndteres gjennom BSP
+link og GDS. Dette er plattformer IATA tilbyr. Når et reisebyrå sender inn en
+refusjonsforespørsel, gjøres dette gjennom nevnte plattformer. TAP refunderer billettene
+til den som har betalt for billetten, altså reisebyrået.
+På bakgrunn av det ovennevnte, har ikke klager et refusjonskrav mot flyselskapet, da det
+ikke er klager som har betalt for billetten. TAP vil refundere billetten til reisebyrået, så fort
+de mottar en refusjonssøknad. 
+
+I denne saken må klager rette refusjonskravet sitt mot reisebyrået, og ikke mot TAP Air
+Portugal.
+
+SAS har anført:
+SAS er ikke eier av billettene og er derfor ikke ansvarlig for refusjon i denne saken.
+
+Klager har ikke krav på standarderstatning da SAS ikke har en innstilt avgang i bookingen,
+og fordi tidendringen skjedde mer enn to uker før avreise.
+
+Nemnda bemerker
+
+Klager hadde kjøpt billetter gjennom MyTrip med følgende reiserute: 
+
+Utreisen med booking nr. TM8SVN
+a) Trondheim- Oslo med SK351 (utført av SAS) 
+b) Oslo - Lisboa med TP761 (utført av TAP) 
+
+og 
+
+Returen med bookingnr. TMHYDB
+c) Lisboa - Oslo med TP764 (utført av TAP)  
+d) Oslo - Trondheim med SK380 (utført av SAS) 
+
+Reise a) og  b)  var gjennomgående billetter. Reise c) og d) var gjennomgående. Ellers var
+utreisen og returen separate billetter. 
+
+Flyvningene med SAS, flyvningene a) og d), opererte som normalt. Flyvningene med TAP,
+flyvningene b) og c), ble kansellert. 
+
+Kansellering gir passasjeren rett til standarderstatning med mindre flyselskapet godtgjør
+at innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått
+selv om alle rimelige tiltak var truffet, jf EU-forordning 261/2004 artiklene 5 og 7. Regelen
+gjelder ikke dersom passasjeren har fått informasjon om endringen minst to uker før
+planlagt avgangstid. I dette tilfellet ble reisen kansellert av flyselskapet den 7. mai, mer
+enn to uker før avgang. Klager har etter dette ikke krav på standarderstatning.  
+
+Klager krever refusjon av billettene, noe han har krav på i henhold til EU-forordning
+261/2004 artikkel 8 nummer 1 dersom  flyselskapet kansellerer reisen og klager velger
+refusjon fremfor omruting. Refusjonen skal utbetales innen syv dager, jf. artikkel 8
+nummer 1 bokstav a. 
+
+Klager hevder han ga beskjed til reisebyrået den 29. april om at han ikke kom til å
+gjennomføre reisen og at han krevde full refusjon. 
+
+I de tilfeller hvor passasjeren selv avbestiller reisen, før flyselskapet kansellerer
+flyvningen, har passasjeren ikke krav på refusjon: Etter det tidspunktet passasjeren selv
+avbestiller reisen foreligger det ikke lenger noen bekreftet reservasjon på de aktuelle
+flyvningene, slik at EU-forordning 261/2004 ikke kommer til anvendelse, jf. artikkel 3
+nummer 2 bokstav a. Passasjeren ville derfor ikke hatt noen krav etter EU-forordningen
+selv om flyselskapet senere kansellerte reisen.
+
+I denne saken ble imidlertid ikke reisen avbestilt av reisebyrået før den 27. mai, som
+er etter at TAP Air Portugal kansellerte flyvningen den 7. mai. Dette kommer frem av
+fremlagt PNR historie.  
+
+I realiteten kansellerte TAP Air Portugal reisen før klager kansellerte, og klager har
+derfor krav på refusjon av billettprisen. Klagers billetter var gjennomgående og da
+
+TAP kansellerte flyvning b) og c) hadde ikke flyvning a) og d) lenger noe formål for
+passasjeren jf. artikkel 8  nr. 1 a). TAP må derfor refundere den hele billettprisen. 
+
+Når det gjelder hvem som er ansvarlige for refusjonen bemerker nemnda at det er
+flyselskapet som er ansvarssubjektet etter EU-forordning 261/2004, og det er derfor det
+transporterende luftfartsselskapet som skal tilby omruting eller eventuelt refusjon av
+billetter. Nemnda mener derfor at TAP Air Portugal må refundere klagers billetter. 
+
+TAP Air Portugal må eventuelt kreve regress fra reisebyrået dersom de mener det er
+grunnlag for det.
+
+Vedtak
+
+Transportklagenemnda anbefaler at TAP Air Portugal refunderer klagers billettutgifter.

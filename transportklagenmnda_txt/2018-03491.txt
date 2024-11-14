@@ -1,0 +1,79 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Billett forsvant i Ruters billettapplikasjon
+
+Dato
+08.12.2018
+
+Saksnummer
+2018-03491
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr på trikken fordi han ikke hadde noen gyldig billett. 
+
+I kontrollen fant ikke klager billetten i RuterBillett appen, noe han syntes var rart
+ettersom han hadde gyldig billett. Da klager sjekket betalingshistorikken til Vipps fant
+han en kvittering for at han hadde kjøpt en 30-dagers billett den 23. september 2018.
+Dette mener klager viser at han hadde billett under kontrollen. 
+
+Kontrolløren fortalte at Ruter hadde problemer med at billetter ble slettet i RuterBillett
+appen når det ble betalt med Vipps, på grunn av et bug i applikasjonen. Da klager
+klaget til Ruter avslo de kravet på det grunnlag at billetten det vises til, var kjøpt av en
+annen mobil. Dette synes klager er merkelig, fordi han hadde ingen annen mobil i den
+perioden. 
+
+Klager ber om at Ruter utviser skjønn i denne saken og frafaller gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på trikken 17. oktober 2018 fordi han ikke hadde noen gyldig
+billett. 
+
+Klager oppgir en app-id til som også er oppgitt i tidligere henvendelser til Ruter
+vedrørende en annen sak. 
+
+Alle kvitteringer som klager har lagt frem til nemnda er billetter som ligger i den oppgitte
+appen, bortsett fra billetten som var gyldig under kontroll. Den billetten ligger på en
+annen app-id, og dermed i en annen telefon, og denne billetten ble den 2. november
+2018 overført til en tredje app-id. 
+
+Ruter forholder seg til det faktum at klager ikke hadde med seg noen gyldig billett i
+kontrollen. Det er klagers ansvar å sørge for medbrakt gyldig billett. Kvittering kan ikke
+benyttes som billett, og det er ikke adgang til å vise gyldig billett i ettertid for å slippe
+gebyr. 
+
+Ruter kan på bakgrunn av dette ikke se noen grunn til å endre standpunkt i denne saken.
+
+Nemnda bemerker
+
+Klager ble ved kontroll på trikken linje 11 den 17. oktober 2018 ilagt gebyr da han ikke
+kunne vise billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å ha
+gyldig billett før ombordstigning eller før passering av kontrollsoner.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke vise billett og vilkårene for å ilegge gebyr var dermed til stede.
+
+Klager hadde en periodebillett på sin app, men denne løp ut den 20. september. Den
+kvittering for en nye 30 dagers billett kjøpt 23. september som klager har fremlagt, er
+ifølge Ruter knyttet til en annen app-ID.  
+
+Nemnda bemerker at den reisende selv har ansvar for å ha med gyldig billett som kan
+vises fram ved kontroll. 
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

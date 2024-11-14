@@ -1,0 +1,78 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om at Flyr dekker mellomlegget på opprinnelig og
+nyinnkjøpt billett,  som følge av problem med betaling.
+
+Dato
+21.09.2022
+
+Saksnummer
+2022-01104
+
+Tjenesteytere
+Flyr
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med Flyr fra Oslo til Trondheim den 25. mai 2022. Klager bestilte
+billetten den 7. mai via Flyr sin app løsning, uten å logge seg inn via sin profil. Billetten
+kostet 1047 kroner, og ble betalt med Vipps. Klager fikk bekreftet bestillingen på appen. 
+
+På vei til flyplass oppdaget klager at det ikke lenger fantes en billett, og kontaktet
+Flyr som sa det var problem med overføring fra Vipps, og at billetten derfor var blitt
+kansellert.
+
+Klager måtte bestille ny tilsvarende billett på avreisedagen, og betalte 1461 kroner.
+Klager kontaktet Vipps som informerte om at det fantes flere lignende saker med Flyr. 
+
+Klager krever at Flyr dekker mellomlegget på opprinnelig og nyinnkjøpt billett, 414
+kroner.
+
+Tjenesteyterne har i det vesentlige anført
+Klager har forsøkt å bestille en billett hos Flyr i appen vår den 7 mai 2022. 
+
+Bestillingen er aldri opprettet hos Flyr, så betalingen er kansellert (dvs. at vi har
+autorisert beløpet og deretter «sluppet tilbake» det autoriserte beløpet, men bookingen
+er ikke kansellert (den har aldri vært opprettet), og vi har aldri kjørt «capture» på beløpet
+(altså hentet inn pengene) her. 
+Bestillingen ble som nevnt aldri bekreftet av Flyr, og det ble ikke opprettet noen
+bestillingsreferansereferanse. Det er aldri sendt ut noen bekreftelse på e-post,
+bookingen har heller aldri vært mulig å se under «mine reiser» på nettsiden eller app. 
+
+Flyr mener det er et vesentlig element at gjestene selv sjekker at bookingen faktisk går
+igjennom. Vi sjekker at bestiller har et gyldig kort med nok penger til å betale før vi lager
+bookingen, og vi sjekker at bookingen er mulig å opprette før vi faktisk henter pengene.
+Når vi ikke klarer å opprette bookingen korrekt, så reverserer vi autorisasjonen slik vi har
+gjort her. Bestillingsprosessen er slik at det er ingen garanti for at vi har seter ledige når
+vi til slutt prøver å opprette bookingen, og det er derfor vi kun autoriserer beløpet, for
+å ha en 2-veis integritet. Det er vanskelig å si nøyaktig hva som har gjort at bestillingen
+ikke har gått gjennom med Vipps, men det medfører altså ikke riktighet det klager har
+fått beskjed om fra Vipps; at Flyr har kansellert bestillingen. Det er ingen tvil om at klager
+har forsøkt å opprette en booking den 7. mai, og at den har feilet. Det er likevel aldri
+blitt bekreftet noen bestilling hos oss, og klager kan heller ikke oppgi noen referanse, e-
+post eller annet som vitner om at bestillingen har gått gjennom. Vi har heller ikke trukket
+penger for bestillingen. 
+
+Basert på ovennevnte står derfor Flyr ved sitt standpunkt om at vi ikke har opprettet
+noen bestilling i første omgang, og heller ikke står ansvarlige for å dekke det forespurte
+mellomlegg.
+
+Nemnda bemerker
+
+Klager har opplyst at reisen ble bestilt via appen til Flyr, betalt med Vipps og at
+bestillingen ble stadfesta på appen. Flyr har imidlertid opplyst at bestillingen ikke har gått
+gjennom med Vipps og at det ikke ble opprettet en vellykket bestilling av reisen.
+
+Nemnda bemerker at ved bestilling av flyreiser på internett er det den reisendes
+ansvar å sjekke at bestillingen blir gjennomført. Klager har ikke vedlagt dokumentasjon
+som kan sannsynliggjøre at bestillingen ble gjennomført. Klager har heller ikke, slik
+nemnda forstår det, mottatt en bekreftelse på bestillingen på epost, på "mine reiser"
+på nettsiden eller under profilen på appen. Nemnda legger dermed  til grunn at klager
+ikke har sannsynliggjort at det ble gjennomført en bestilling og klager kan derfor ikke gis
+medhold.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager  gis medhold.

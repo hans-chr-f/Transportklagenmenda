@@ -1,0 +1,92 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Billett kjøpt for sent
+
+Dato
+10.06.2020
+
+Saksnummer
+2020-00887
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste fra Blindern T-banestasjon den 14. februar 2020 da han ble ilagt gebyr.
+Klager anfører at han kjøpte sin billett kl. 16:24 hvilket han fikk betalingsbekreftelse
+på, men fikk gebyr kl. 16:30. Årsaken til at klager fikk gebyr var fordi Ruter sin app
+ikke begynte nedtellingen på billetten før klager åpnet appen for å visebilletten til
+kontrolløren. 
+
+Klager anfører at han hadde gyldig billett. Klager anser det som innlysende at det
+avgjørende må være at han hadde kjøpt billett og ikke det at han ikke hadde forsikret seg
+om at Ruters programvare var i stand til å bevise at han hadde kjøpt billett. Klager mener
+det er å betrakte som en feil i Ruters programvare at den ikke vet når betalingen fant
+sted. Ruter burde vite at Vipps gir en betalingsbekreftelse som av kunden naturlig tolkes
+som tilstrekkelig. 
+
+Etter å ha mottatt Ruter sitt tilsvar i saken legger klager til det ikke stemmer slik Ruter
+beskriver at billetten var 'begynt bestilt' kl. 16:24, 'men ikke bekreftet' før kl. 16:30.
+'Begynt bestilt' antyder at billetten ikke var betalt, hvilket klager anfører ikke stemmer.
+Som det fremgår av klager sin kvittering var billetten betalt kl. 16:24. Videre forklarer
+klager at det ikke er mulig å spare på mobilbilletter, slik at det er urimelig å skille mellom
+kjøpte og gyldige mobilbilletter. Klager anfører at en billett er et bevis på at man har
+betalt. Videre anfører klager at siden han hadde betalt og dermed ikke noe å vinne på
+feilen, at han åpenbart har handlet i god tro. Videre anfører klager at han ikke hadde
+noen grunn til å mistenke at billetten ikke var aktiv, siden han antok at en bekreftet
+betaling i seg selv skulle medføre en gyldig billett. Dersom billetten skulle vært aktiv,
+men ikke var aktiv beror dette på en mange i Ruters programvare som klager ikke kunne
+forventes å kjenne til. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr ombord på T-banelinje 5 den 14. februar 2020 fordi han hadde
+kjøpt sin billett for sent. Klager fremviste billett med ordrenummer 209202633 som ble
+bekreftet etter at kontrollen hadde startet. Det er den reisende sitt ansvar å sørge for å
+ha en gyldig billett før ombordstigning. 
+
+Klager skriver i sin henvendelse at han reiste fra Blindern T-banestasjon. Ifølge
+sanntidslogg var T-banen ved denne stasjonen fra kl. 16:28:35 til kl. 16:29:24. Billetten ble
+påbegynt bestilt kl. 16:24:41, men ikke bekreftet og gyldig før kl. 16:30:27. 
+
+Etter å ha mottatt klagers kommentar til Ruters tilsvar legger Ruter til at billetten skal
+være gyldig når man begynner reisen, det vil si at billetten er bekreftet og nedtellingen
+har begynt.
+
+Ruter ser ingen grunn til frafall av dette gebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på T-banen den 14. februar 2020 fordi han hadde kjøpt billett for
+sent.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å
+ha gyldig billett før ombordstigning eller før passering av kontrollsoner. Ved bruk av
+mobilapp må billett være kjøpt og bekreftet før påstigning. Klager sin billett var ikke
+bekreftet før kl. 16:30:27 hvilket var etter T-banen hadde kjørt fra Blindern T-banestasjon
+kl. 16:29:24. Klager hadde ikke gyldig billett før ombordstigning. Vilkårene for å ilegge
+gebyr var til stede. 
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Nemndas forbrukerrepresentant vil særlig bemerke at gebyr ikke bør ilegges dersom
+det det avdekkes i forkant av og under kontrollen at det er tekniske problemer i
+betalingsappen og at ilagt gebyr bør ettergis dersom dette oppdages i etterhånd. Det
+er derfor viktig at kommunikasjonen mellom Ruter og Vipps om eventuelle tekniske
+problemer til enhver tid er oppdatert, og at slike problemer enkelt lar seg bringe på det
+rene på forespørsel.
+
+Saken er behandlet med én forbrukerrepresentant i medhold av
+transportklagenemndforskriften §5-5 (5).
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

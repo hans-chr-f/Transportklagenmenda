@@ -1,0 +1,106 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Påstand om identitetstyveri.
+
+Dato
+11.11.2021
+
+Saksnummer
+2021-01237
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager krever at gebyret frafalles med den begrunnelse om at han aldri har blitt stoppet
+i noen kontroll. Klager viser til at han fikk varsel fra Visma om utestående betaling for et
+gebyr utstedt av AtB AS. Da klager kontaktet AtB AS med spørsmål om bevis for at det
+faktisk var han som ble stoppet i den angivelig kontrollen, fikk han til svar at grunnlaget
+for gebyrileggelsen var "reise uten gyldig billett". 
+
+Først hevdet AtB at klager ble identifisert ved hjelp av førerkort, noe klager mener er
+umulig når førerkortet ligger hjemme i Sandnes. I ettertid har selskapet gått tilbake på
+den informasjonen. Datoen for da gebyret ble utstedt var en helg klager hvor klager var
+på hyttetur i Melhus. Klager har forsøkt å få svar på om selskapet har gjort en sjekk opp
+mot personnummer, signatur eller ID, men selskapet har svart at klagen må registreres
+for behandling i Transportklagenemnda. 
+
+Klager krever at AtB frafaller gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager anfører i sin klage til Transportklagenemda at han ikke kjenner seg igjen i
+kravet fra Visma Financial Solutions. Klager anfører at han ikke har reist med buss,
+og at det må være noen andre som utgir seg for å være han. Klager mener i tillegg
+at AtB ikke har noen dokumentasjon i saken. AtB opprettholder gebyret, da det
+fremgår i kontrollørrapporten at identiteten er bekreftet via 02800, som er politiets
+operasjonssentral.
+
+Klager stiller seg undrende til at AtB kan kreve inn gebyr for noe som klager ikke
+kjenner seg igjen i. klager påpeker at gebyrblanketten ikke er signert. En signatur
+i forbindelse med gebyr, sier ingenting om man vedkjenner seg gebyret eller ikke.
+
+Hensikten med signaturfeltet er å gi den ilagte passasjeren en mulighet til å bekrefte at
+de personopplysningene som kontrolløren har nedskrevet stemmer. Dersom man ikke
+signerer vil personopplysningene bli kryssjekket opp mot folkeregisteret, eventuelt hos
+Politiet.
+
+Det fremgår av kontrollørrapporten at passasjerens identitet ble bekreftet ved at
+passasjeren ble legitimert via 02800. Dette er politiets operasjonssentral. Personalia
+oppgitt fra politiet ble deretter nedskrevet i gebyret. På gebyret er det nedskrevet
+mobilnummer, 93626258. Dette er det samme som klager har oppgitt i sin henvendelse
+til Transportklagenemda. Ved søk i offentlige telefonregistre som 180 og 1881 dukker
+dette telefonnummeret opp som hemmelig. Det må bety at det er et fåtall personer som
+har kjennskap til dette nummeret, i tillegg til klagers personopplysninger. 
+
+Ved søk i AtBs baksystem for Mobillett ser vi at det er gjort et billettkjøp kl 15.22 på
+telefonnummer 93626258, som er få timer etter kontrollen fant sted kl 12.50. Dersom
+det ikke var Klager som kjøpte Mobillett få timer etter at billettkontrollen som fant
+sted, så tyder dette på at det er noen andre som enten har tilgang til den samme
+mobiltelefonen, eller SIM-kortet. Når man logger seg inn i Mobillettappen, må man skrive
+inn et engangspassord mottatt per SMS. Dersom en person mister telefonen er det
+vanlig å melde dette til teleoperatør, som igjen sperrer SIM-kortet for bruk. Det er derfor
+kun mulig å motta engangskoden på den ene enheten innehar det aktuelle SIM-kortet
+knyttet opp mot et gitt GSM-nummer. Vi kan ikke se at det foreligger dokumentasjon
+som tyder på at SIM-kortet er sperret eller mistet.
+
+AtB har dokumentasjon på at det var klager som befant seg på transportmiddelet under
+kontrollen. Dette er bekreftet fra politiets operasjonssentral. Dette fremgår også via
+kontrollørrapporten som er skrevet etter hendelsen. AtB legger derfor til grunn av at det
+er overveiende sannsynlig at det var klager som var tilstede under kontrollen. Dersom
+klager mener at det er noen andre som har utgitt seg for å være klager, ber vi om at
+dette dokumenteres. Som gyldig dokumentasjon godtar AtB kopi av bekreftelse på
+anmeldelse til politiet, eller bekreftelse fra teleoperatør på at mobilen/SIM-kortet ble
+stjålet eller mistet.
+
+Før vi mottar dette, anser vi det som lite sannsynlig at det ikke var klager som var tilstede
+under kontrollen, og som er ansvarlig for betaling av gebyret for å ha reist uten billett, jf.
+AtBs vedtekter § 7. 
+
+Det å opptre med en annens identitet for å oppnå en uberettiget vinning for seg selv er
+straffbart etter Norsk lov, jf. straffeloven § 202. Dersom klager mener dette er tilfellet i
+denne saken sak anbefaler vi at klager anmelder forholdet til politiet. Vi minner om at
+det er straffbart å anmelde en straffbar handling som ikke er begått, jf. straffeloven §
+225.
+
+AtBs vedtekter er godkjent av Samferdselsdepartementet, jf. yrkestransportloven §
+33. Vedtektene anses som en transportavtale mellom AtB og alle som befinner seg på
+transportmidler som kjøres på kontrakt for AtB, jf. AtBs vedtekter § 1.
+
+Nemnda bemerker
+
+Klager hevder at han ikke har vært i noen kontroll og mener han er utsatt for
+identitetstyveri.
+
+Nemnda finner å måtte avvise saken i medhold av forskrift om klagenemnd for
+passasjertransport § 6-2 d da saken reiser bevisspørsmål som vanskelig kan klarlegges
+under saksbehandlingen og heller ikke egner for behandling i nemnda.
+
+Nemnda viser til at saken kan bringes inn for forliksrådet.
+
+Vedtak
+
+Saken avvises.

@@ -1,0 +1,91 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr som følge av manglende tilleggsbillett.
+
+Dato
+17.09.2021
+
+Saksnummer
+2021-00841
+
+Tjenesteytere
+Vy
+
+Klager har i det vesentlige anført
+
+Klager reiste med banen fra Grorud stasjon til Oslo S, og hadde videre overgang med tog
+i retning Moss. På grunn av dårlig tid og mange tanker knyttet til valg av megler skyndet
+klager seg om bord på toget uten å tenke over hvilken type vogn hun påsteg. Hun trodde
+uansett det ikke hadde noen betydning da hun har Ruter månedskort. 
+
+Ved Holmlia stasjon begynner klager å kjøpe en tileggsbillett, uten at hun registrerer
+at det er kontroll i vognen. Hun blir avbrutt av kontrolløren og ilagt gebyr som følge av
+for sent kjøp av tilleggsbillett. I et forsøk på å få frem at hun ikke hadde noen intensjon
+om å snike viste klager alle de 72 tilleggsbillettene hun hadde kjøpt, men kontrolløren
+opprettholdt gebyret og ba henne klage til kundesenteret. 
+
+Klager understreker at hun tross alt reiste med gyldig månedsbillett for den aktuelle
+sonen hun reiste fra, og at hun var i gang med å kjøpe tilleggsbillett. Klager krever at Vy
+frafaller gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Ved billettkontroll ble klager påtruffet i en vogn merket kun gyldig billett på tog 1123 den
+26. mai etter avgang fra Holmlia (Ruter sone 1) hvor neste stopp var Ski (Ruter sone 2S).
+Klager kunne ved kontroll ikke fremvise gyldig billett for hele reisen hun benyttet seg av,
+og ble ilagt kontrollgebyr.
+
+Før avgang fra Holmlia må man her ha billett for sone 2S i orden. Klager viser til en slik
+billett kjøpt i Ruters app klokken 15:33:07 jf. vedlegg merket 02 i klagen til Nemnda. I
+vedlegg 1 er tider for tog 1123 som avgikk fra Holmlia klokken 15:29:30. Vi vil presisere
+at dørene på toget stenger ca.15-20 sekunder før toget faktisk avgår. Ruter billetten det
+vises til er kjøpt etter avgang fra Holmlia når kontroll var i gang. Fra kontrollen er det
+elektronisk notert:
+
+Tid: [2021-05-26 15:36 CEST] Årsak: [BOUGHT_DURING_CONTROL] Tog: [1123] Stasjon:
+[Holmlia stasjon]
+
+I Vys reisevilkår punkt 3 er det beskrevet:” Digitale/elektroniske billetter skal være aktivert
+før du går på toget». De ubetjente vognene på toget tydelig merket ut og innvendig
+med kun gyldig billett. Vy viser til fremlagt bilde av selskapets merking av vogner. I
+Ruters betingelser for bruk av mobilbillett  fremgår det at billett skal være kjøpt før
+ombordstigning.
+
+Vy må stille krav til at man har kjøpt billett for hele reisen på forhånd når man har valgt
+en vogn merket kun gyldig billett. Ellers vil passasjerer i utgangspunktet kunne reise
+uten å betale for hele reisen, for så under kontroll eller i ettertid av kontroll kunne vise
+til særskilte individuelle årsaker til hvorfor man ikke hadde billett for hele reisen, og at
+gebyr således ikke bør ilegges eller at gebyret bør frafalles i ettertid. Vi vet strengt tatt
+ikke om de som kjøper billett når det utføres kontroll, ville ha kjøpt billett dersom det
+ikke ble utført kontroll.
+
+Gebyr ble her ilagt på det objektive kriterium og faktum at klager ikke kunne presentere
+gyldig billett for hele reisen hun benyttet seg av. Hjemmel for å ilegge gebyr fremgår av
+våre reisevilkår punkt 4 A: Hvis du ikke kan vise gyldig billett i en kontroll, må du betale et
+gebyr fastsatt av Samferdselsdepartementet.
+
+Vy opprettholder krav om betaling av kontrollgebyret.
+
+Nemnda bemerker
+
+Klager ble 26. mai 2021 påtruffet i en ubetjent vogn i toget fra Holmlia (Ruter sone 1)
+hvor neste stopp var Ski (Ruter sone 2S).
+
+Det fremgår av NSBs transportvilkår § 4 C at passasjerer som ved kontroll ikke kan
+fremvise gyldig billett, vil bli ilagt et gebyr. Bestemmelsen er objektiv. Gebyr kan således
+ilegges selv om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke vise gyldig billett for hele reisen og vilkårene for å ilegge gebyr var til
+stede.
+
+Nemnda finner ikke grunnlag for å anbefale at gebyret frafalles.
+
+Nemnda har forståelse for at gebyret kan oppleves som en streng reaksjon, men av
+hensyn til reiseforetakenes behov er det imidlertid behov for en konsekvent praksis da
+det er ulike årsaker til at reisende ikke har gyldig billett.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

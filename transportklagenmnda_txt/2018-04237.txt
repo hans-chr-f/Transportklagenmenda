@@ -1,0 +1,96 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Feil dato ved bestilling av billett via NSBs hjemmeside
+
+Dato
+18.01.2019
+
+Saksnummer
+2018-04237
+
+Tjenesteytere
+NSB AS
+
+Klager har i det vesentlige anført
+
+Klager bestilte 30. oktober 2018 en reise med NSB med avreise 2. november 2018. Den
+dagen var det utfordringer med bruk av bank ID over hele landet, og klager fikk derfor
+ikke gjennomført kjøpet. Dette gjorde at klager etter gjentatte forsøk valgte å benytte
+Vipps som betalingsmiddel, og kjøpet ble gjennomført. Dessverre oppdaget ikke klager at
+avreisedato hadde flyttet seg tilbake til dagens dato, altså den 30. oktober. Det oppdaget
+klager først da hun sjekket mailen 1. november. 
+
+Klager har i ettertid vært i kontakt med NSB kundeservice som har bekreftet at dato går
+tilbake til opprinnelig dato dersom betaling ikke går gjennom ved billettkjøp. Etter klagers
+oppfatning er det nok det som har hendt i dette tilfellet.  Klager kjøpte ny billett med
+avreise 2. november og ber om at NSB refunderer den ubrukte billetten til 833 kroner
+med avreisedato 30. oktober.
+
+Tjenesteyterne har i det vesentlige anført
+Den 30. oktober kl. 09.39 bestilte klager en billett fra Oslo til Røros med avgang samme
+dag kl. 16.34 og ankomst kl. 21.33. Bestillingen var foretatt via www,nsb.no, og ikke via
+app som klager anfører. Bestillingen ble imidlertid betalt med Vipps hvor man jo benytter
+telefonen til å utføre betaling, som muligens kan være årsaken til at klager er av den
+oppfatning at hun bestilte via app. NSB viser til vedlagt oversikt over klagers bestilling fra
+NSBs reservasjonssystem.
+
+Billetten som klager kjøpte kunne refunderes dersom den ble avbestilt før avreise, altså
+før kl. 16.34 den 30. oktober. Klager tok kontakt med NSB 1. november og informerte at
+hun ikke hadde benyttet billetten og ønsket refusjon. Samme dag kl. 23.38 bestilte klager
+en ny tilsvarende reise, da med avgang 2. november. 
+
+Det er ikke registrert noen feil i reservasjon eller betalingssystem den 30. oktober. Når
+man ved bestilling har valgt dato for avreise i kalender på www.nsb.no så endrer ikke
+reservasjonssystemet plutselig dato under bestillingsdialogen. Det er usannsynlig. Det er
+bestiller som velger dato. 
+
+Valgt dato og strekning fremgår i stegene under bestillingsprosessen. Når bestillingen
+er fullført blir reiseruten hvor dato også fremkommer sendt til angitt e-post. Kunden
+blir således gjort oppmerksom på valgt dato for reisen, både under og etter bestilling.
+Generelt må man også forvente at klager gjør kontroll etter bestilling, særlig til en så vidt
+lang reise som her. NSB viser til vedlagt oversikt over en simulert bestilling fra selskapets
+hjemmeside. 
+
+Før billetten betales må kunden ha krysset av for at man har akseptert vilkår og
+betingelser, hvor det fremkommer at billetten må avbestilles før avreise for å kunne
+refunderes. 
+
+Det kan være mange årsaker til at man ikke får reist. Allikevel, her var det inngått en
+avtale om transport til avtalt tid og pris, en avtale som NSB har oppfylt ved å stille avtalt
+transport til disposisjon. To dager etter at transporten var ytt ble NSB informert om at
+klager ikke har benyttet seg av transporten. Da billetten ikke var avbestilt før avreise
+kommer refusjon utenom hva NSB kan tilby i dette tilfelle.
+
+Nemnda bemerker
+
+Klager kjøpte den 30. oktober 2018 billett med tog fra Oslo S til Hamar og videre til Røros.
+Billetten gjaldt ved en feil for samme dag i stedet for 2. november. Klager oppdaget ikke
+feilen før 1. november og måtte da kjøpe ny billett. Hun ber om refusjon av kostnadene
+til den ubenyttede billetten. 
+
+NSB viser til at billetten var en miniprisbillett som bare kunne refunderes ved avbestilling
+før planlagt avreise, dvs. 30. oktober.
+
+Nemnda legger til grunn at billetten ble kjøpt på nettet via nsb.no. 
+
+Klager hevder at hun hadde problemer med betalingen og antar at datoen for reisen ble
+endret underveis i prosessen.  NSB hevder at det ikke er riktig at datoen tilbakestilles i
+slike tilfeller. 
+
+Nemnda legger uansett avgjørende vekt på at det ved bestilling på nettet er klagers
+ansvar å forsikre seg om at billetter er bestilt til riktig tidspunkt. I prosessen er det lagt
+inn skjermbilder som viser bestillingsdetaljene før bestillingen skal bekreftes. Detaljene
+fremgår også av tilsendt epost. 
+
+Klager erkjenner at hun ikke sjekket datoen før 1. november. 
+
+Nemnda kan etter dette ikke se at det er grunnlag for å anbefale at billettkostnaden blir
+refundert.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke grunnlag for å anbefale at klager
+gis medhold.

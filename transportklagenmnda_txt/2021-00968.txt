@@ -1,0 +1,114 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr - problemer med mobil - Vipps
+
+Dato
+10.11.2021
+
+Saksnummer
+2021-00968
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 10. juni 2021. Klager anfører at hun kjøpte billett før
+ombordstigning. Videre anfører hun at hun fikk opp en fungerende billett i appen, med
+validitetsmerke som rørte på seg. Klager forklarer at når hun gikk av bussen fikk hun kun
+opp feilmeldinger i appen. Appen krasjet og da klager gikk inn i appen igjen var billetten
+borte. 
+
+Klager prøvde å gå inn på mobilbank for å vise kvittering, men da viste det seg at kjøpet
+ikke hadde gått igjennom. 
+
+Klager fikk svar fra AtB om at de ikke kan stå ansvarlig for trøbbel med Vipps som klager
+betalte igjennom. Klager forstår dette, og dersom kjøpet hadde feilet hadde hun forsøkt
+å kjøpe ny billett. Klager anfører at hun fikk opp en billett i appen og reiste i god tro om
+at hun hadde billett. Klager mener dette er en feil i appen og synes det er urimelig å
+måtte betale for et gebyr når appen viste gyldig billett uten at klager visste at hun ikke
+hadde fått betalt for den. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr 10. juni 2021 fordi hun ikke kunne fremvise gyldig billett under
+billettkontrollen. Dersom man ikke kan fremvise gyldig billett ved kontroll ilegges
+tilleggsgebyr. 
+
+Det fremgår av bruksvilkårene for Mobillett og SMS-billett at denne skal kjøpes før
+man går om bord i bussen. Dette betyr at den reisende må påse at det foreligger
+en gyldig billett under «mine billetter» før man går om bord. Noen ganger kan man
+erfare problemer med enkelte betalingsalternativ, enten på grunn av problemer med
+nettforbindelsen eller andre tekniske årsaker. Det er likevel den reisendes ansvar å påse
+at man til enhver tid har gyldig billett før man går om bord og kan fremvise denne ved en
+eventuell billettkontroll.
+
+AtB vil ikke gi ut gebyr dersom det kan påvises at det er svikt i AtBs systemer. 
+
+Systemet til AtB er bygd opp slik at det ikke vil utstedes billett før betalingen har gått
+gjennom. AtB har ved behandling av klagen undersøkt Mobillettsystemet for problemer,
+men finner ingen interne avvik i det aktuelle tidspunktet. AtB kan ikke ta ansvar for
+eventuelle problemer som oppstår internt på klagers telefon eller hos eksempelvis Vipps.
+Dersom man får problemer med å benytte et av betalingsalternativene for Mobillett, må
+man benytte et annet. I tillegg til Vipps, er det mulig å kjøpe billett i vår app AtB Mobillett
+via Mobillettkonto, telefonregning og bankkort. Alternativt kan man også bestille via SMS
+ved å sende kodeord VOKSEN til 2027.
+
+Alle bestillinger på Mobillett blir logget i administratorgrensesnittet til AtB, også
+bestillinger som feiler/ikke går gjennom. AtB har også undersøkt klagers Mobillettbruker.
+I våre systemer fremkommer det at klager utførte én bestillinger via Vipps, henholdsvis
+kl. 13:01, som feilet. Årsaken til at transaksjonene feiler kan skyldes så mangt,
+eksempelvis manglende dekning på konto, at man avbryter bestillingen, mister
+nettdekningen, tidsavbrudd eller tekniske problemer hos Vipps. AtB kan ikke holdes
+ansvarlig for et system vi ikke har ansvar for, herunder Vipps.
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr 10. juni 2021 fordi hun ikke kunne fremvise gyldig billett under
+billettkontrollen. 
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av transportvedtektenes pkt. 6.2 følger det at det skal ilegges tilleggsavgift dersom den
+reisende ikke kan vise gyldig billett. Bestemmelsen er objektiv. Gebyr kan således ilegges
+selv om passasjeren ikke har opptrådt klanderverdig. 
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, så vilkårene for å ilegge
+gebyr var dermed til stede. 
+
+Klager har anført at hun kjøpte billett før ombordstigning. Videre har hun anført at hun
+fikk opp en fungerende billett i appen, med validitetsmerke som rørte på seg. Klager har
+forklart at appen krasjet og da klager gikk inn i appen igjen var billetten borte. Klager
+prøvde å gå inn på mobilbank for å vise kvittering, men da viste det seg at kjøpet ikke
+hadde gått igjennom. Klager har anført at hun reiste i god tro om at hun hadde billett.
+Klager mener det var en feil i appen. 
+
+Nemnda viser til AtBs opplysning om at det ikke er registrert noen feil i deres app det
+aktuelle tidspunktet. Videre fremgår det av gebyrrapporten at det er notert at betalingen
+i klagers mobil app ikke hadde gått igjennom. Nemnda holder det for sannsynlig at
+kjøpsprosessen via Vipps ikke ble fullført med nedlastning av billetten da AtB i sine
+systemer har registrert at klager forsøkte å kjøpe en billett, men at dette kjøpet feilet.
+Billetten vil ikke lastes ned dersom betalingen ikke går igjennom. 
+
+AtB har lagt til rette for at både Vipps, Mobillettkonto, telefonregning og bankkort kan
+benyttes som betalingsmiddel, men har ikke ansvar for at betalingsmiddelet fungerer.
+Det kan være hensiktsmessig å legge flere betalingsmidler i appen for å sikre seg dersom
+et betalingsmiddel svikter.
+
+Nemnda bemerker at det ved kjøp av billetter via app er den reisendes ansvar å sørge for
+at billetten blir lastet ned og deretter også aktivert. Det er den reisendes ansvar å sørge
+for gyldig billett ved reise med kollektiv transport.
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

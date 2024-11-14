@@ -1,0 +1,130 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+10.11.2020
+
+Saksnummer
+2020-01133
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Stokmarknes med WF855 kl. 16:30 til Oslo via Bodø med SK4117
+kl. 17:30 den 10. februar 2020. Flyvningen fra Stokmarknes ble kansellert på grunn av at
+lufttrykket var så lavt at Dash 8-100 flyene ikke kunne fly. 
+
+Klager viser til en AIC (Aeronautical Information Circular) publisert i juni 2018 av
+Luftfartstilsynet. I dokumentet heter det at "Lufttrafikktjenesteytere må ta en
+gjennomgang av egne systemer for å se om det skulle foreligge begrensinger knyttet til
+ekstreme verdier av QNH som de eventuelt må utarbeide kompenserende tiltak for." 
+Widerøe hadde altså blitt gjort oppmerksom på problematikken mer enn ett og et halvt
+år før hendelsen inntraff. 
+
+Klager mener at selv om kanselleringen var utløst av et uvanlig værfenomen er dette
+likevel noe Widerøe med enkle tiltak kunne ha håndtert.
+
+Klager krever standarderstatning på 250 euro i henhold til EU-forordning 261/2004.
+
+Det vises for øvrig til klagers brev.
+
+Tjenesteyterne har i det vesentlige anført
+Widerøe viser til Metar som viser trykket på Skagen/SKG 946QNH i tidsrommet hvor
+WF855 var planlagt (ETD 160It).
+
+Kanselleringen av WF855 er ikke kompensasjonsberettiget i henhold til regulativet,
+da uregelmessigheten oppstod på grunn av ekstraordinære omstendigheter. I dette
+tilfellet var det historisk lavt lufttrykk som gjorde at Widerøe ikke kunne operere mange
+av sine flyvninger. Flymaskinens barometriske høydemåler kan kun stilles ned til 948
+hektopascal (hps), mens på denne dagen var det svært mange steder et trykk på godt
+under dette.
+
+Widerøe viser til uttalelse fra assisterende flygesjef og operativ avdeling:
+«Dash-8 er den eneste flytypen som kan frakte passasjerer og frakt helårlig på det
+norske kortbanenettet. Flytypen er utviklet på 80-tallet, og datidens teknologi var
+elektromekanisk. Dette inkluderer flyets høydemålersystemer. Disse består bla av en
+mekanisk «belg» for justering av lokalt lufttrykk og har derfor mekaniske ytterpunkter i
+forhold til justeringsmuligheter. Derfor oppstår disse grensene i Dash-8-100/200/30 0’s
+høydemålersystemer.
+
+Ytterpunktene har vært ansett som adekvate. I de snart 27 årene som Dashen har
+trafikkert på kortbanenettet har denne mekaniske justeringen, etter hva nåværende
+operative ledelse har klart og bragt i erfaring, vært nok for alle de forhold som har vært
+med lavt lufttrykk i perioden. Andre/nyere varianter av Dash-8, som eks Q4 eller andre
+flytyper så som senere utgaver av Boeing 737 har digitale systemer og har dermed ikke
+de samme mekaniske begrensninger som de mindre/eldre variantene. (Q4 kan som kjent
+ikke operere på kortbane.)
+
+Selv om Widerøes Dash-8 begynner å dra på årene er det opp gjennom årene gjort
+flere modifikasjoner grunnet teknologiske fremskritt ifm både innflygingssystemer og
+såkalt PBN navigasjon. Nettopp dette gjør at etablering av prosedyrer/tabeller for å
+kunne operere utenfor høydemålerens mekaniske virkeområde, dermed blir en betydelig
+mer omfattende oppgave for å sikre at en eventuell prosedyre ikke innvirker på andre
+systemer som kan gi utilsiktede effekter, eller i verste fall true flysikkerheten. Derfor ble
+det raskt klart for selskapet at når først denne ekstraordinære situasjonen først oppstod,
+var det ingen quick fix som kunne løse problemet der og da.»
+
+En betraktning som er essensiell i forhold til beslutning om videre drift var mulig dersom
+Widerøe hadde hatt prosedyrer fra før og i så fall i hvilken utstrekning:
+
+Det er en helt grunnleggende forskjell i sikkerhetsvurderingene dersom en eller noen få
+flyplasser har trykk under 948 eller om en hel rekke av dem har (slik som var tilfellet her).
+
+Risiko er en funksjon av sannsynlighet og konsekvens.
+
+Altså: Sannsynlighet X mulig konsekvens=Risiko
+
+Alle alternative (altså backup prosedyrer som er det vi snakker om i disse tilfellene), vil
+medføre en noe forhøyet risiko ift. vanlige prosedyrer. Dette fordi:
+
+- Alternative prosedyrer brukes sjelden. Det hjelper ikke å trene hvert halvår, man må ha
+jevnlig eksponering for å sikre like god kompetanse på dem som de vanlige prosedyrene.
+
+Dette er naturligvis ikke mulig, og risikoen vil derfor være noe høyere selv om den vil
+være akseptabel.
+
+- Alternative prosedyrer medfører at enkelte innflyginger må gjøres på gammel,
+konvensjonell måte. Disse har noe høyere risiko enn de satellittbaserte.
+
+Det er ikke sannsynlig at Widerøe ville latt trafikken gå upåvirket selv om selskapet hadde
+hatt prosedyrene på plass. Dette på grunn av sannsynlighet for hendelse hadde vært
+forhøyet grunnet så mange bevegelser vi snakket om. I tillegg var værforholdene stedvis
+utfordrende med redusert sikt og lavt skydekke.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var blitt truffet, jf EU-forordning 261/2004 artikkel 5 og 7. 
+
+Værforhold som påvirker flytrafikken ved at det ikke er mulig å lande/ta av, ved at det
+oppstår store forsinkelser med videre, kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret.
+
+Widerøe hevder at årsaken til kanselleringen var at flyindividet som skulle operere
+klagers flyvning ble kansellert grunnet uvanlig lavt lufttrykk. Dette førte til at dette flyet
+og andre fly av samme flytype (de eldre Dash 8-maskinene) ble satt på bakken i påvente
+av bedre værforhold. Det vises til fremlagte rapporter, logger og avisartikler. 
+
+Etter nemndas syn er det værforholdene, ekstremt lavt lufttrykk, som var årsaken til
+kanselleringen. Etter nemndas syn er slikt lavt lufttrykk å anse som ekstraordinære
+omstendigheter. Videre mener nemnda at kanselleringen ikke kunne vært unngått
+selv om alle rimelige tiltak var blitt truffet. Widerøes eldste Dash 8-maskiner er ikke
+sertifiserte til å fly i så lavt lufttrykk, men flytypen er godkjent av Luftfartstilsynet til å
+operere. Selv om alternative prosedyrer for de eldste Dash-8 flyene hadde vært på plass
+på et tidligere tidspunkt, måtte det uansett foretas en vurdering av flysikkerheten slik det
+er gjort i dette konkrete tilfellet.  
+
+Nemnda anbefaler etter dette at klager ikke gis medhold. 
+
+Saken er behandlet med èn forbrukerrepresentant i medhold av
+transportklagenemndforskriften §5-5(5).
+
+Vedtak
+
+Transportklagenemnda-fly anbefaler at klager ikke gis medhold.

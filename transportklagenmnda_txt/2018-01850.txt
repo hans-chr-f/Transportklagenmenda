@@ -1,0 +1,69 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+09.04.2019
+
+Saksnummer
+2018-01850
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Bodø til Leknes den 3. juni 2018 kl 17.35 med ankomst kl 18.40
+med WF814, Etter mye om og men på flyplassen ble avgangen kansellert og klager ble
+booket om til påfølgende dag. Klager har fått refusjon av utgifter til drosje.
+
+Klager krever standarderstatning 250 euro i henhold til EU-forordning 261/2004.
+
+Det vises for øvrig til klagers brev.
+
+Tjenesteyterne har i det vesentlige anført
+WF814 ble kansellert som følge av fabrikasjonsfeil av flymaskin Bombardiers Dash 8.
+Den 3. juni 2018 opplevde Widerøe en feil ved flymaskinens FMS (Flight Management
+System) som leveres av Universal Avionics. Det var da en latent programvare feil i
+systemets interne GPS-modul som var problemet. Systemet brukes blant annet som
+hjelp ved innflyging. GPSene starter uke-tellingen på nytt hver 1024 uke, og det var da en
+programmeringsfeil i logaritmen som skulle ivareta denne overgangen. Dette førte til at
+en rekke flymaskiner måtte settes på bakken inntil man fikk konferert med flyprodusent,
+slik at man kunne fly på manuelle rutiner. 
+
+Widerøe viser til fremlagt dokumentasjon fra flyprodusenten. 
+
+I henhold til Guidelines til EU-forordning 261/2004 så kan skjulte feil som oppdages av
+produsent regnes som en ekstraordinær omstendighet. 
+
+Klager ble booket om til første tilgjengelige avgang fra Bodø til Leknes den 4. juni kl
+13:25. Widerøe har refundert klagers utgift til drosje på kroner 129. 
+
+Widerøe kan på grunnlag av ovennevnte ikke imøtekomme klagers krav om
+standarderstatning.  
+
+Det vises for øvrig til Widerøes brev.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var blitt truffet, jf EU-forordning 261/2004 artikkel 5 og 7. 
+
+Teknisk feil er som regel ikke en ekstraordinær omstendighet som fritar flyselskapet
+fra plikten til å betale standarderstatning, jf EU-domstolens avgjørelse av 17.09.2015
+Corina van der Lans - KLM (C-257/14) og Kommisjonens veileder av 15.06.2016 punkt 5.2.
+Unntakene er fabrikasjonsfeil, sabotasje, terrorhandlinger, birdstrike eller FOD (Foreign
+Object Damage).
+
+Slik nemnda ser det har flyselskapet Widerøe i dette tilfellet godtgjort at den tekniske
+svikten skyldtes en ekstraordinær omstendighet: 
+
+Flyselskapet har fremlagt dokumentasjon fra flyprodusenten for at den tekniske svikten
+skyldtes fabrikasjonsfeil. Kanselleringen gir etter dette ikke rett til standarderstatning.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold.

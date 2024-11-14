@@ -1,0 +1,70 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om 50 % av standarderstatning grunnet kansellering.
+
+Dato
+26.09.2022
+
+Saksnummer
+2022-00889
+
+Tjenesteytere
+Widerøe
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med Widerøe fra Tromsø via Bergen til Kristiansund den 21. mars
+2022. Avgang fra Tromsø var kl. 17:10 med WF627 og ankomst Kristiansund kl. 20:55.
+WF627 ble kansellert og klager ble booket samme dag til:
+SK4431 kl. 19:00 Tromsø – Oslo
+SK2309 kl. 21:55 Oslo – Kristiansund med ankomst kl. 22:50.
+
+Klager krever 50% av standarderstatning i henhold til EU-forordning 261/2004.
+
+Tjenesteyterne har i det vesentlige anført
+Widerøe viser til at klager var booket på WF627 fra TOS til BGO og videre på WF576
+fra BGO til KSU. Planlagt avgangstid var kl. 17:10 og ankomst 20:55. WF627 fra TOS ble
+kansellert på grunn av teknisk feil og klager ble booket om til SK4431 fra TOS til OSL
+og videre til KSU med SK2309. SK2309 landet i KSU kl. 22:46 under to timer senere enn
+opprinnelig planlagt ankomst kl.  20:55. 
+
+I henhold til regulativet er dette ikke kompensasjonsberettiget:
+"1.Dersom en flyging innstilles, skal de berørte passasjerene:
+
+c) ha rett til erstatning fra den transporterende luftfartsselskap i samsvar med artikkel 7,
+med mindre:
+
+iii) de opplyses om innstillingen mindre enn syv dager før planlagt avgangstid og tilbys
+omruting slik at de kan reise høyst en time før planlagt avgangstid og ankomme til det
+endelige bestemmelsessted senest to timer før planlagt ankomsttid."
+
+Original rute 21mar:
+WF 627 V 21MAR 1 TOSBGO LK1 1710 1915/NN *1A/E*
+
+WF 576 V 21MAR 1 BGOKSU LK1 1950 2055/NN *1A/E
+Ombooket til:
+SK4431 D 21MAR 1 TOSOSL TK1 1900 2055/TK E*
+SK2309 V 21MAR 1 OSLKSU TK1 2155 2250/TK E*
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5 og 7. 
+
+Ved informasjon om kanselleringen mindre enn syv dager i forveien, faller retten til
+erstatning bort hvis flyselskapet har tilbudt passasjeren omruting slik at han kunne reise
+høyst en time før planlagt avgangstid og ankomme det endelige bestemmelsesstedet
+senest to timer etter planlagt ankomsttid, jf. artikkel 5 nr. 1 bokstav c) iii). 
+
+I dette tilfellet ble klageren tilbudt omruting til en flygning 1 time og 50 minutter etter
+sin opprinnelige avgang, og han ankom sitt endelige bestemmelsessted 1 time og 55
+minutter forsinket. 
+
+Kanselleringen gir etter dette ikke rett til standarderstatning.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager gis medhold.

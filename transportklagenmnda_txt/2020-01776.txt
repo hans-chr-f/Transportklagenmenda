@@ -1,0 +1,100 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om refusjon av flybilletter som følge av kansellert reise -
+spørsmål om hvem av partene som har kansellert reisen. Covid-19.
+
+Dato
+01.12.2020
+
+Saksnummer
+2020-01776
+
+Tjenesteytere
+SAS
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med SK3014 fra Kristiansand til København den 11. mars 2020. Fra
+København skulle klager reise videre til Austin med SK6951. Klager skulle reise tilbake til
+Kristiansand via København med SK6952 og SK3012 den 17. mars 2020. Den 09. mars
+fikk klager mail fra SAS om at bookingen var blitt kansellert og at refusjon ville utbetales.
+Klager understreker at hun ikke hadde vært i kontakt med SAS i forkant av dette. Den
+08. juni mottok klager refusjon på skatter og avgifter. Klager kontaktet SAS angående
+beløpet på refusjonen og fikk til svar at flyreisen ble kansellert på en avgang som ikke var
+innstilt, og at klager dermed kun hadde krav på skatter og avgifter. Klager viser til at hun
+ikke kansellerte reisen, hun mottok kun en mail fra SAS om at reisen var blitt kansellert.
+Klager videre om å få utlevert kundelogg som bevis for at klager har kontaktet SAS for
+å kansellere reisen. Klager understreker at hun aldri har vært i kontakt med SAS for å
+kansellere reisen.
+
+Klager ber om refusjon av det resterende beløpet for flybilletten pålydende NOK 6 446.
+
+Tjenesteyterne har i det vesentlige anført
+SAS har vist til at klager har fremmet krav om tilbakebetaling av billett for reise som
+skulle ha funnet sted den 11. mars 2020 fra Kristiansand til Austin Texas.
+SAS viser til at ettersom klager hadde kjøpt en ikke-refunderbar billett, bestrider SAS
+kravet med henvisning til selskapets generelle befordringsvilkår og billettregler artikkel
+4.1.3 og 4.1.4 (a), som klager aksepterte ved billettkjøpet.
+
+Med henvisning til de nevnte artikler plikter SAS å tilbakebetale refunderbare
+tilleggsavgifter, slike som er myndighetspålagte, når passasjeren kansellerer en flybillett
+som ikke er refunderbar.
+
+SAS har refundert skatter og avgifter på totalt NOK 765 til klager.
+
+SAS henviser for øvrig til EU-kommisjonens veileder «Commission Notice Interpretative
+Guidelines on Eu passenger rights regulations in the contect of the developing situation
+with Covid-19» som bekrefter ovenstående synspunkt, se punkt 2.2:
+«The Eu’s passenger rights regulations do not address situations where pasengers
+cannot travel or want to cancel a trip on their own initative. Whether or not a passenger
+is reimbursed in such cases depends on the type of ticket (reimbursable, possibility to
+rebook) as specified in the carrier’s terms & conditions.».
+
+SAS understreker at de nevnte regler og vilkår gjelder uavhengig av om SAS kansellerer
+en flyvning i ettertid. SAS viser videre til at i tilfeller hvor passasjeren har kansellert
+sin billett, vil det ikke lenger foreligge en avtale eller gyldig billett som passasjeren kan
+påberope seg mot SAS, herunder heller ikke om SAS kansellerer en flyvning i ettertid av
+passasjerens kansellering.
+
+På eget initiativ valgte klager den 09. mars 2020 å avbestille sin reise med booking
+nummer WVLYZ6. På dette tidspunktet var flyet med rutenummer SK3014 og SK6951
+ennå ikke innstilt. Klager er dermed berettiget til refunderbare avgifter.
+
+SAS viser til dokumentasjonen klager har innsendt (bekreftelse på avbestilling og
+informasjon om refusjon), hvor det tydelig står at SAS har mottatt klagers forespørsel om
+kansellering: «We’ve received your request for a cancellation and refund».
+
+SAS viser videre til PNR-historikken som viser at flysegmentene ikke var i UN
+(=kansellert), men HK (aktiv) når klager kansellerte bookingen samt den automatiske
+beskjeden som kreeres i bookingen når passasjeren selv kansellerer. SAS viser til at
+koden Amadeus API CR-STOSK08RV viser at bookingen er avbestilt online.
+
+Basert på ovenstående kan ikke SAS imøtekomme klagers krav om full refusjon i dette
+tilfellet.
+
+Nemnda bemerker
+
+Klagen gjelder refusjon av flybilletter som følge av kansellert reise. Det omtvistede i
+saken er hvem av partene som har kansellert den aktuelle reisen.
+
+Det fremgår av e-post fra SAS til klager den 09. mars 2020 at e-posten er en bekreftelse
+på kansellering. Videre har SAS gjennom PNR-historikken dokumentert at reisen
+er kansellert online av klager. Transportklagenemnda er av den oppfatning at SAS i
+tilstrekkelig grad har sannsynliggjort at det er klager som har kansellert reisen.
+
+Fra det øyeblikk klager kansellerte reisen hadde klager ikke lenger en "bekreftet
+reservasjon" på flyvningene. En bekreftet reservasjon er en forutsetning for at
+forordningen kommer til anvendelse jf. artikkel  3 Nr. 2 bokstav a. 
+
+Ettersom forordningen ikke kommer til anvendelse har klager ikke krav på refusjon. 
+
+Nemnda anbefaler at klager ikke gis medhold. 
+
+Saken er behandlet med èn forbrukerrepresentant i medhold av
+transportklagenemndforskriften §5-5(5).
+
+Vedtak
+
+Transportklagenemnda - Fly kan ikke anbefale at klager gis medhold.

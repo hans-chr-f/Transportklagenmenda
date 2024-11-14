@@ -1,0 +1,110 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning og dekning av utgifter grunnet kansellering.
+
+Dato
+14.09.2020
+
+Saksnummer
+2020-00149
+
+Tjenesteytere
+Air Baltic
+
+Klager har i det vesentlige anført
+
+Klager med reisefølge (til sammen ti personer) skulle reise fra Oslo til Tallinn med Air
+Baltic sin flyvning BT200 den 31. oktober 2019. Planlagt avgangstid for flyvningen var kl.
+20.05.  Flyet kunne imidlertid ikke ta av på grunn av problemer med et system på flyet.
+Flyet ble kansellert grunnet teknisk feil. Alle ble omrutet til nye, dog forskjellige flyvninger
+neste dag den 1. november, med ankomst henholdsvis kl. 19.05 og 16.00. 
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004 for seg selv og
+reisefølget (250 EUR per person). Klager aksepterer ikke Air Baltic sin uttalelse om at
+defekten var uforutsigbar og ekstraordinær. Det var tale om en fabrikasjonsfeil, og ikke
+en skjult fabrikasjonsfeil, hvilket er påkrevd for å påberope at det var ekstraordinært. I
+september 2015 så EU-domstolen på lignende problematikk i saken KLM v van der Lans.
+Domstolen konkluderte med at tekniske problemer ikke var ekstraordinære, heller ikke
+tidlig svikt i en flykomponent. Domstolen uttalte to typer tekniske feil som kan gå inn
+under "ekstraordinært": Skjult fabrikasjonsfeil og skade på flyet grunnet sabotasje eller
+terror. Klager kan basert på innsendt dokumentasjon ikke se at det vart tale om en skjult
+fabrikasjonsfeil. Feilen var kjent på forhånd. I tillegg ble ikke hele flyflåten satt på bakken
+(Noe som kreves for å kvalifisere som skjult fabrikasjonsfeil).
+
+Det er i tillegg til standarderstatning fremsatt krav om at Ryanair dekker alle i reisefølget
+sine måltid på Mac Donalds (Ca. 170 NOK per person). Klager mangler kvittering for
+måltidene, da de ikke ble informert om sine rettigheter vedrørende dette.
+
+Tjenesteyterne har i det vesentlige anført
+Flyvningen ble kansellert av tekniske årsaker (left landing gear brake control system
+fault). Det vises til vedlegg for elektronisk teknisk logg.  Defekten ble oppdaget etter
+forrige flyvning fra Tallin til Oslo (BT199) og før avgang, og gjelder alle Airbus A220-300-
+serie flymaskiner. Defekten er en fabrikasjonsfeil. På grunn av dette kunne ikke defekten
+vært forutsett. Det kunne heller ikke foretas forebyggende tiltak.  Det er en åpenbar
+fabrikasjonsfeil utenfor flyselskapet sitt ansvar. Feilen/defekten ble avverget omgående
+og i henhold til produsentens prosedyrer og retningslinjer. Det er ikke tillatt å foreta
+flyvninger med en slik feil, da det er direkte relatert til flysikkerhet. På grunn av dette må
+defekten anses som en uventet flysikkerhetsbrist. 
+
+Air Baltic vurderte i tillegg om de skulle benytte reservefly for å erstatte den aktuelle
+flyvningen. Dessverre hadde de ikke reservefly tilgjengelig på utestasjonen som kunne
+operere flyvningen uten vesentlig forsinkelse. Å tildele andre fly fra flåten i dette tilfellet
+ville betydd at andre flyvninger ville blitt betydelig forsinket eller kansellert. 
+
+Fabrikasjonsfeilen kan klart anses som uforutsigbar og ekstraordinær. Dette medførte
+at en ikke kunne foreta forebyggende tiltak. I henhold til EU-domstolens avgjørelse
+i C-257/17, hvor domstolen uttaler at en defekt som er bekreftet av produsent,
+som påvirker annet fly i flyflåten, er det å anse som en uventet flysikkerhetsbrist og
+dermed en ekstraordinær omstendighet. Air Baltic anser kanselleringen som utløst av
+ekstraordinære omstendigheter. Det tekniske problemet er av  natur og opprinnelse
+utenfor flyselskapets sedvanlige aktivitetsutøvelse og faktiske kontroll.
+
+Nemnda bemerker
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var blitt truffet, jf EU-forordning 261/2004 artikkel 5 og 7.
+
+Nemnda legger til grunn at klagers flyvning fra Oslo til Tallin med BT200 ble kansellert
+som følge av teknisk feil, og at klager ankom endelig bestemmelsessted mer enn tre
+timer forsinket.
+
+Teknisk feil er som regel ikke en ekstraordinær omstendighet som fritar flyselskapet fra
+plikten til å betale standarderstatning, jf EU-domstolens avgjørelse av 17.09.2015 Corina
+van der Lans - KLM (C-257/14) og Kommisjonens veileder av 15.06.2016 punkt 5.2. Blant
+unntakene er fabrikasjonsfeil.
+
+Nemnda har delt seg i et flertall og et mindretall. 
+
+Flertallet, lederen og forbrukerrepresentantene, mener at flyselskapet ikke har
+dokumentert at det foreligger en fabrikasjonsfeil. 
+
+Av den fremlagte dokumentasjonen kommer det frem at det er noen særegenheter ved
+software for bremsesystemet på Airbus A220-300 serie. Dokumentasjonen fra Airbus har
+til formål å gi en oversikt over særegenhetene, samt anbefale handlinger for vedlikehold
+for å teste, forhindre og rette funksjoner i bremsesystemet. Airbus anbefaler videre
+flyselskapene om å orientere vedlikeholdspersonell og følge retningslinjene i brevet. 
+
+Mindretallet, bransjerepresentantene, mener det er dokumentert at det foreligger en
+fabrikasjonsfeil og at kanselleringen skyldes denne. 
+
+Nemnda anbefaler på bakgrunn av dette at Air Baltic utbetaler standardkompensasjon
+på 250 euro per person.
+
+I henhold til EU-forordning 261/2004 artikkel 5 punkt 1 bokstav b) jf. artikkel 9 nr.
+1 bokstav a) skal klager ved kansellering tilbys forpleining i form av mat og drikke i
+ventetiden. Klager har ikke kunnet fremlegge kvittering på disse utgiftene, da de ikke
+ble opplyst om rettighetene sine Air Baltic har ikke imøtegått klagers påstand på dette
+punkt, og nemnda finner det sannsynlig at klager med følge ble påført utgifter til mat i
+den størrelsesorden de krever erstattet. Det anbefales med dette at Air Baltic refunderer
+utgiftene til mat dersom dette ikke allerede er gjort.
+
+Vedtaket er fattet med den dissens som fremgår over. 
+
+Vedtak
+
+Transportklagenemnda-fly anbefaler at Air Baltic utbetaler 250 euro per person (totalt 10
+personer) i standardkompensasjon, og 170 NOK per person (totalt 10 personer) for mat i
+ventetiden.

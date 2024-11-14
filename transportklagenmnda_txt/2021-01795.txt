@@ -1,0 +1,166 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om tilbakebetaling av ilagt gebyr. Anført at SMS-tjenesten ikke fungerte som den
+skulle og at det var mangelfull informasjon om tjenesten på tjenesteyters nettsider.
+
+Dato
+21.02.2022
+
+Saksnummer
+2021-01795
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Den 24. oktober 2021 ble klager ilagt gebyr på bussen som følge av manglende gyldig
+billett.
+
+Klager anfører at han før reisen hadde gått inn på PC-en og sjekket nettsidene til AtB
+for å lese om billettkjøp via SMS, da dette var første gang han skulle bruke denne
+tjenesten. Han anfører at han har vært vant til å kjøpe billett via app på smarttelefon,
+men som følge av at smarttelefonen hans var blitt ødelagt, hadde han en enkel Nokia-
+telefon i reserve som han reiste med denne dagen. Han anfører videre at det ikke fantes
+alternative måter å kjøpe billett på i den bydelen han befant seg i ved avreise, slik at han
+var henvist til å kjøpe SMS-billett.
+
+Ut ifra informasjonen på nettsidene til AtB så at han måtte sende teksten «Voksen» til
+2027. Siden han reiste alene og kun skulle reise én sone, var dette det eneste som skulle
+sendes basert på det som sto på nettsidene.
+
+Klager sendte derfor en SMS i tråd med dette til 2027. Han mener at han da hadde kjøpt
+billett. Han hadde forventet å få en eller annen form for bekreftelse, men det sto ikke
+noe om at man skulle få en bekreftelse på nettsidene til AtB.
+
+Da kontrolløren kom, forklarte klager hva han hadde gjort, og han sendte også en ny SMS
+mens kontrolløren så på. Kontrolløren påpekte ingen feil. Gebyret ble likevel ilagt.
+
+Klager skulle bytte buss, og han fikk oppgitt at han da måtte kjøpe en ny billett på
+billettautomaten der han skulle bytte buss. Dette gjorde han.
+
+Klager stiller seg kritisk til at han ble ilagt gebyr, da han fulgte informasjonen som var
+oppgitt på AtBs nettsider. Han anfører at det ikke er opplyst om at kjøper skal motta
+en billett og kvittering på SMS. I stedet står det at billetten belastes automatisk via
+telefonregningen.
+
+Videre opplyser klager om at han i etterkant ikke har mottatt noen kvittering på SMS
+for billettene, og han kan heller ikke se at han er blitt belastet for disse billettene via
+telefonregningen. Klager stiller seg undrende til hva årsaken til at kjøpene ikke gikk
+gjennom kan være. Imidlertid kan han dokumentere at SMS er blitt sendt fra telefonen
+hans via telefonoperatøren, slik at feilen ikke kan skyldes forhold på hans telefon.
+Han anfører også at han kommuniserte på SMS på samme telefon både før og etter
+kontrollen på bussen, uten problemer.
+
+Han anfører at det er kritikkverdig at AtB har en teknisk løsning som ikke fungerer,
+uansett om problemet skyldtes forhold hos AtB eller oppsto i samhandlingen med
+telefonoperatøren. Videre stiller han seg kritisk til at han ikke fikk noen melding om at
+kjøpet ikke var gått gjennom. Klager anfører at det må være tilbyders ansvar å ha en
+teknisk løsning som fungerer eller som gir beskjed når den ikke fungerer. Han påpeker at
+han ikke har mottatt noen SMS med melding om at billettkjøpet ikke ble gjennomført, slik
+AtB oppgir at man skal få.
+
+Han påpeker videre at AtB i tilsvaret til nemnda ikke har kommentert klagers argument
+om manglende informasjon på nettsidene deres. Han anfører at de i tilsvaret oppgir
+informasjon som de ikke oppgir på nettsidene sine.
+
+Det vises til klagers øvrige anførsler og bilder/skjermbilder i fremlagt dokumentasjon.
+
+Klager krever at gebyret på 950 kroner tilbakebetales.
+
+Tjenesteyterne har i det vesentlige anført
+AtBs regelverk gjelder for alle som befinner seg om bord på AtBs transportmidler. Når
+en kunde kjøper billett hos AtB, inngår kunden samtidig en transportavtale med AtB om
+reise på AtBs transportmidler basert på de til enhver tid gjeldende vilkår som følger av
+AtBs transportvedtekter med vedlegg.
+
+Det følger videre av Transportvedtektene nr. 6.2 at:
+«Reisende som ved kontroll ikke kan vise gyldig billett for påbegynt reise, skal betale
+tilleggsavgift.»
+
+AtB vil ikke gi ut gebyr dersom det kan påvises at det er svikt i AtBs systemer. Klager
+hevder at AtBs billettsystem var nede. AtB har ved behandling av klagen undersøkt
+Mobillett- og SMS-systemet for problemer. AtB viser til fremlagt dokumentasjon, der
+det fremgår at andre kunder ikke hadde noen problemer med å benytte seg av SMS-
+løsningen i det aktuelle tidsrommet. Dette må bety at problemet kunden har erfart må
+ligge et sted mellom teleoperatøren og/eller telefonenheten som klager benyttet seg av.
+
+Det er flere årsaker til at AtB ikke kan tillatte en praksis der reisende kan gå om bord på
+bussen før man har fått gyldig billett. En årsak er at alle teleoperatører tilbyr kundene
+sine en øvre månedlig beløpsgrense for SMS-tjenester. Noen abonnementer har også
+sperret bruk av innholdstjenester (kjøp av varer og tjenester via telefonregning). AtB har
+ingen mulighet til å vite om den reisende har oversteget den månedlige beløpsgrensen
+eller har en slik sperre før vedkommende sender en melding til 2027 og AtB mottar
+beskjed tilbake fra teleoperatøren. I de tilfeller hvor abonnementet ikke kan belastes,
+vil AtB få informasjon om dette og videreformidle beskjeden til kunden i form av
+en SMS med meldingen «Billettkjøpet ble ikke gjennomført, da vi ikke kan belaste
+mobilabonnementet».
+
+For hvert tilleggsgebyr som blir utstedt, skriver billettkontrollørene en rapport for
+hendelsen. Det vises til fremlagt kontrollørrapport fra billettkontrollen.
+
+Dersom man opplever problemer med SMS-tjenesten, er det videre mulig å kjøpe
+billett via Mobillettappen, kommisjonærer, metrostasjoner eller i AtBs nettbutikk. Mer
+informasjon finnes på https://www.atb.no/billett/. Har man ikke gyldig billett, kan man
+heller ikke benytte seg av en tjeneste som koster penger. AtB kan ikke ta ansvar for at det
+kan oppstå problemer på teleoperatørenes systemer, eller på kundens mobiltelefon.
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr 24. oktober 2021, fordi han ikke kunne fremvise gyldig billett under
+billettkontrollen.
+
+Det følger av AtBs transportvedtekter punkt 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av transportvedtektenes punkt 6.2 følger det at det skal ilegges tilleggsavgift dersom den
+reisende ikke kan vise gyldig billett. Bestemmelsen er objektiv. Gebyr kan således ilegges
+selv om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke fremvise gyldig billett under billettkontrollen, så vilkårene for å ilegge
+gebyr var dermed til stede.
+
+Klager har anført at han sendte SMS til 2027 for å kjøpe billett før ombordstigning. Han
+har anført at han fulgte instruksjonen på nettsidene til AtB og at det ikke sto noe om at
+han skulle få en bekreftelse på kjøpet. Videre har han anført at han ikke mottok noen
+feilmelding om at kjøpet ikke var gått gjennom. Klager trodde derfor at han hadde billett.
+
+Klager viser til at han ikke har hatt problemer med å kommunisere på SMS på telefonen
+han brukte, og han bestrider at feilen kan skyldes forhold tilknyttet hans telefon. Han
+mener at ansvaret for at SMS-tjenesten ikke fungerte som den skulle og at han ikke fikk
+tilstrekkelig informasjon på nettsidene og heller ingen feilmelding, må ligge hos AtB.
+
+Nemndas flertall, nemndsleder og bransjerepresentantene, bemerker at passasjeren selv
+har ansvar for å sørge for at billettkjøpet er gått gjennom før man går om bord. Ved kjøp
+av SMS-billett er det et krav at billetten er betalt og mottatt på telefonen ved påstigning.
+AtB har fremlagt dokumentasjon på at andre kunder ikke hadde problemer med SMS-
+tjenesten på det aktuelle tidspunktet da klager forsøkte å kjøpe SMS-billett.
+
+Flertallet bemerker at dersom det oppleves problemer med SMS-tjenesten, må
+passasjeren sørge for å kjøpe billett på annen måte før ombordstigning. Klager mottok
+ingen billett på telefonen, og etter flertallets syn må det anses åpenbart at det ved kjøp
+av mobillett skal mottas en billett som angir billettype, pris og gyldighet m.m. Dette
+fremgår også av nettsiden til AtB under fanen Billettkontroll. Det at klager ikke mottok
+billett, han heller ikke ble belastet for dette og at andre har lyktes i å kjøpe billett til
+samme tidspunkt, gjør det sannsynlig at problemet lå hos klagers telefon og ikke i AtBs
+system.
+
+Flertallet kan ikke se at det er grunnlag for å anbefale at gebyret frafalles, da klager gikk
+om bord uten å ha mottatt billett.
+
+Mindretallet, forbrukerrepresentantene, har et annet syn på saken. På AtBs hjemmesider
+finner man informasjon om hvordan man kjøper billett gjennom SMS. Her står det ikke
+noe om at man skal få et svar før billetten anses kjøpt. Når klager heller ikke har fått
+noen feilmelding, og SMS-en er registrert som sendt i systemene til telefonoperatøren,
+fremstår det etter mindretallets oppfatning som mest sannsynlig at det er skjedd en svikt
+i AtBs systemer. Mindretallet anbefaler at klager gis medhold.
+
+Vedtak
+
+Transportklagenemnda anbefaler, under dissen, ikke at klager gis medhold.

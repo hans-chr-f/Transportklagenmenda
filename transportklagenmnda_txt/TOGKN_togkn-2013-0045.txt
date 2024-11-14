@@ -1,0 +1,86 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om refusjon av gebyr for ugyldig billett.
+
+Dato
+..
+
+Saksnummer
+45/13 J
+
+Tjenesteyter
+NSB
+
+Krav om refusjon av gebyr for ugyldig billett.
+
+Klager har i det vesentlige anført:
+
+Klager reiste med tog fra Alna til Lillestrøm og fikk ved billettkontroll på Lørenskog gebyr for
+ugyldig billett. Klager reiser sjelden med toget, men hadde sjekket ruter.no før reisen og han
+hadde godt med reisepenger på kortet og to ventende enkeltbilletter for 2 soner. Slik klager
+har tolket informasjonen på ruter.no skal ventende billetter aktiveres først når man validerer
+kortet på stasjonen. Klager leste av kortet to ganger på stasjonen og fikk en grønn lampe som
+lyste OK. Det var ingen informasjon i displayet.
+
+Kontrolløren påstod at det ikke fantes billetter på klagers kort på tross av at billettene ligger
+der når klager logger seg inn via ruter.no. Kontrolløren sa at klager hadde løst en billett for
+Oslo og derfor måtte betale gebyr.
+
+Klager mener han har gjort alt som kan forventes av ham som passasjer. Han hadde sjekket
+reisekortet på ruter.no før han tok toget og dessuten finnes det ingen informasjon på Alna
+stasjon om at billettautomaten kun trekker billett for Oslo.
+
+Klager krever at gebyret slettes.
+
+NSB har i det vesentlige anført:
+
+Klager ble påtruffet i ubetjent vogn uten gyldig billett og fikk gebyr, jf. NSBs Transportvilkår § 4
+C. På klagers kort vises det at klager kjøpte en billett på Alna stasjon for sone 01 (smartbillett).
+For å kunne reise til Lillestrøm trengte klager imidlertid å kjøpe en tilleggsbillett - altså en sone
+ekstra (sone 2 Ø). En slik tilleggsbillett må kjøpes før avreise, eller den må kjøpes av konduktør
+i betjent vogn.
+
+Når man leser av reisekortet innenfor sone 01, i dette tilfellet Alna stasjon, og har en gyldig
+løpende billett for sone 01, vil en kortleser gi signal om at man har en gyldig billett når man
+leser av kortet. Kortleser forstår ikke at man har tenkt å reise ut av den sonen man befinner
+seg i, og har gyldig billett for. Kortleseren vil ikke automatisk sette i gang andre billetter for
+andre soner. Når man benytter et kort med reisepenger, vil det innenfor Oslo (sone 01) altså
+automatisk trekkes en enkeltbillett/en smartbillett, for sone 01, når man leser av kortet på en
+kortleser innenfor Oslo (sone 01).
+
+Klager har i korrespondansen under klagebehandlingen fått beskjed om at billettene hans,
+som ble kjøpt i februar 2012, var deaktivert. Dette skjedde da billettene ble liggende på
+reisekortet over takstendring. Dersom klager skal ha disse billettene må han kontakte Ruter
+AS.
+
+NSB finner ikke grunnlag for å ettergi gebyret som klager ble ilagt.
+
+Nemnda bemerker:
+
+Det fremgår av NSBs transportvilkår § 4 C at passasjerer som ved kontroll ikke kan fremvise
+gyldig billett vil bli ilagt et gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om
+passasjeren ikke har opptrådt klanderverdig.
+
+Selv om grunnen til at klager ikke hadde gyldig billett skyldtes at han trodde han hadde
+validert en riktig billett ved å lese av reisekortet på stasjonen, endrer dette ikke det faktum at
+klager ikke kunne fremvise gyldig billett under billettkontrollen. NSBs kontrollør kunne derfor
+ilegge ham et gebyr i henhold til transportvilkårene.
+
+Det er passasjerens ansvar å ha gyldig billett. Klager så en grønn lampe som lyste OK da
+han leste av reisekortet på en kortleser på stasjonen. Klager opplyser at Alna ikke har noen
+billettautomat slik at han fikk ikke sjekket nærmere. Nemnda mener det er den reisende selv
+som må påse at den billetten man har kjøpt er gyldig opp mot den reisestrekningen man
+velger. Klager burde derfor gått på en betjent vogn og sjekket billetten hos en konduktør i et
+slikt tilfelle. Hva som er betjente og ubetjente vogner på toget er godt merket, både utvendig
+og innvendig.
+
+Nemnda finner etter dette ikke grunnlag for å anbefale at klager gis medhold.
+
+Vedtak:
+
+Transportklagenemnda - jernbane finner ikke å kunne anbefale at klager gis medhold.
+
+Vedtaket er enstemmig.

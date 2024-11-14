@@ -1,0 +1,113 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet forsinkelse.
+
+Dato
+04.12.2018
+
+Saksnummer
+2018-00265
+
+Tjenesteytere
+Pegasus Airlines
+Supersaver
+
+Klager har i det vesentlige anført
+
+Klager skulle reise hjem fra Antalya til Molde via Istanbul og Oslo den 28. desember 2017.
+Antalya - Oslo var med Pegasus Airlines og ble bestilt hos Supersaver. 
+Oslo - Molde var med Norwegian og ble bestilt direkte hos flyselskapet.
+
+Flight PC2031 fra Antalya til Istanbul med avgang kl 07.05 lokal tid ble forsinket slik
+at klager mistet sin videreforbindelse. Han ble booket om til dagen etter, men måtte
+selv betale for hotell og mat. I tillegg måtte klager kjøpe ny innenlandsbillett fra Oslo til
+Kristiansund.
+
+Klager krever standarderstatning 400 euro, refusjon av utgifter til mat (70 TRY), hotell ( 69
+EUR) og flybillett (1 301 NOK). 
+
+Det vises for øvrig til klagers brev.
+
+Tjenesteyterne har i det vesentlige anført
+Pegasus Airlines har i det vesentlige anført:
+
+Klager hadde sjekket inn til flight PC1273 fra Istanbul til Oslo, men da han ikke møtte ved
+gate ble hans reservasjon kansellert. Klager hadde 2 timer og 5 minutter connection time
+i Istanbul som er tilstrekkelig tid. 
+
+Pegasus Airlines har ikke kommentert klagers påstand om at PC2031 fra Antalya til
+Istanbul ble forsinket, men har fremlagt en logg som viser en forsinkelse på PC2031 på 4
+timer og 40 minutter.
+
+Supersaver har i det vesentlige anført:
+
+Supersaver er en formidler av flybilletter og står ikke ansvarlig for selve utførelsen av
+reisen. Reisebyrået viser til sine vilkår: "Ansvar for reiseimplementering".
+
+Klager hevder hans flyvning fra Antalya til Istanbul ble forsinket. Supersaver som en
+formidler av flybilletter kan ikke stå ansvarlig for kostnadene dette påførte klager. Klager
+bes henvende seg til flyselskapet Pegasus Airlines.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at klager kom om lag et døgn forsinket frem til sitt endelige
+bestemmelsessted Molde. Han krever nå standarderstatning og refusjon av utgifter
+til mat og hotell i ventetiden, samt refusjon av ny flybillett fra Oslo til Kristiansund
+(nærliggende by til Molde).  
+
+Forsinkelse som medfører at passasjerene kommer mer enn 3 timer senere frem enn
+planlagt til det endelige bestemmelsesstedet,  utløser en plikt for flyselskapet til å
+utbetale standarderstatning med mindre selskapet godtgjør at forsinkelsen skyldtes
+ekstraordinære omstendigheter som ikke kunne vært unngått selv om alle rimelige tiltak
+var truffet, jf EU-forordning 261 / 2004 artiklene 5, 6 og 7 og EU-domstolens avgjørelser
+i sak Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson med flere av 23.10.2012
+(C-581/10).
+
+Flyselskapet Pegasus Airlines har avgitt uttalelse til nemnda, men selskapet har ikke
+kommentert klagers påstand om forsinkelse på flight PC2031, eller dokumentert årsaken
+til denne. Pegasus Airlines har derimot fremlagt en logg som klart viser at PC2031 ble
+forsinket 4 timer og 40 minutter (UTC = Universal Time Coordinated):
+
+STD (scheduled time of departure) 0405 UTC (+ 0300 hours)
+ATD (actual time of departure) 0845 UTC (+ 0300 hours)
+
+Forsinkelsen medførte at klager mistet sin videreforbindelse til Oslo og derfra til Molde. 
+
+Forordningen får bare anvendelse for flygninger innen EU-/ EØS-området, flygninger
+fra EU-/ EØS-området til en tredjestat og flygninger fra en tredjestat hvis det
+"transporterende luftfartsselskap for flygningen er et EF-luftfartsselskap", jf artikkel
+3 punkt 1 bokstav b. Det "transporterende luftfartsselskap" er i artikkel 2 bokstav b)
+definert til "et lufttransportforetak som utfører eller har til hensikt å utføre en flygning i
+henhold til en avtale med en passasjer eller på vegne av en annen person, juridisk eller
+fysisk, som har en avtale med denne passasjeren".
+
+Krav etter EU-forordningen faller etter dette bort, fordi forsinkelsen oppsto på en
+flygning fra en tredjestat med det ikke-europeiske flyselskapet Pegasus Airlines.
+
+I henhold til Montrealkonvensjonen Artikkel 19/ luftfartsloven § 10- 20 er imidlertid
+fraktføreren ansvarlig for tap som følge av forsinkelse ved lufttransport av passasjerer,
+med mindre han godtgjør at han selv og hans folk har tatt alle forholdsregler som med
+rimelighet kan kreves for å unngå tapet, eller at dette ikke har vært mulig. Pegasus
+Airlines har ikke kommentert eller dokumentert årsaken til forsinkelsen. Nemnda legger
+etter dette til grunn at selskapet ikke har godtgjort at alle forholdsregler som med
+rimelighet kunne kreves for å unngå tapet ble tatt. Selskapet er dermed ansvarlig for det
+tap klager led som følge av forsinkelsen.
+
+Nemnda legger til grunn at klager ble påført et tap som omfatter utgifter til hotell og mat
+i ventetiden, samt til ny innenlandsbillett i Norge, som følge av forsinkelsen. Klager har
+dokumentert sine utgifter. 
+
+Nemnda anbefaler etter dette at Pegasus Airlines refunderer klagers utgifter til hotell og
+mat i ventetiden. 
+Klager hadde kjøpt separat billett fra Oslo til Molde. Han hadde beregnet 3 timer og 35
+minutter til flybytte på Gardermoen som nemnda anser som tilstrekkelig tid når man
+reiser på separate billetter. Nemnda anbefaler at selskapet også dekker utgiftene til ny
+billett.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold i sitt krav om
+standarderstatning. Nemnda anbefaler at Pegasus Airlines refunderer klager for utgifter
+til hotell og mat samt ny flybillett Oslo - Kristiansund.

@@ -1,0 +1,87 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Manglende gyldig billett / klagerett til selskapet
+
+Dato
+10.02.2020
+
+Saksnummer
+2019-04256
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste med T-banen den 29.september 2019 da hun ble ilagt et gebyr. Klager
+anfører at hun kjøpte en ny 30-dagers billett en uke før hennes aktive billett gikk ut. Hun
+forklarer at hun valgte at den nye billetten skulle bli aktiv idet den gjeldende billetten
+hennes utløp. 
+
+Klager forklarer at hun ikke fikk noen notifikasjon om at transaksjonen feilet og da
+hun kjøpte den nye billetten oppførte alt i appen seg som normalt. Klager mener
+derfor at hun ikke skal bli stilt ansvarlig for denne feilen i RuterBillett appen. I tillegg til
+dette forklarer hun at hun ikke mottok noen notifikasjon når hennes gjeldende billett
+utløp. Hun mener hun burde fått dette, særlig siden den nye billetten ikke hadde gått
+igjennom. 
+
+Etter å ha mottatt tilsvaret fra Ruter presiserer klager at da hun ringte til Ruter
+vedrørende gebyret hun hadde mottatt ble hun informert om at feilen som hadde
+skjedd var på grunn av systemsvikt mellom RuterBillett appen og Vipps. Klager mener at
+dersom Ruter er klar over at slike problemer kan oppstå burde det påligge et ansvar om
+å informere eller advare kundene om dette. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på T-banen den 29.september 2019 fordi hun manglet gyldig
+billett. Det er registrert forsøk på kjøp av 30-dagers billett den 17.september 2019 og
+29.september 2019 i appen hennes. Betalingen gikk ikke igjennom på noen av disse
+forsøkene. 
+
+Den eneste måten man kan være sikker på at man har gyldig billett er å se billetten i
+RuterBillett appen at billetten er der og at nedtellingen har startet. 
+
+For å motta notifikasjon om at billetten utløper er det nødvendig å skru på dette i appen.
+Man vil da motta en 'pop up' som kommer opp på skjermen med informasjon om at
+billetten utløper. 
+
+Ruter finner på bakgrunn av dette ikke grunnlag for frafall av gebyr.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på T-banen 29.september 2019 fordi hun manglet gyldig billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å
+ha gyldig billett før ombordstigning eller før passering av kontrollsoner. Ved bruk av
+mobilapp må billett være kjøpt og bekreftet før påstigning.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke vise billett og vilkårene for å ilegge gebyr var dermed til stede. 
+
+Klager har opplyst at hun trodde at hun hadde kjøpt månedsbillett. Ruter har opplyst at
+det er registrert forsøk på kjøp av månedsbillett både 17. september og 29. september
+2019, men betalingen har feilet. Det siste forsøket ble gjort etter at gebyr ble ilagt. Det er
+uklart hva som var årsak til at kjøpene ikke ble fullført. 
+
+Nemnda bemerker at den reisende selv har ansvar for å sjekke at billettkjøpet er fullført
+og dette er først når billetten er lastet ned i Ruter appen.
+
+Når det gjelder mulighet for varsel når en periodebillett utløper, vises til Ruters
+redegjørelse for at dette må legges inn i appen.  
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles. Nemnda har
+forståelse for at gebyret kan oppleves strengt. Av hensyn til reiseforetakenes behov er
+det imidlertid nødvendig å ha en konsekvent praksis da det er ulike årsaker til at reisende
+ikke kan vise billett.
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

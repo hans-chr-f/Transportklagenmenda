@@ -1,0 +1,111 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering.
+
+Dato
+03.02.2023
+
+Saksnummer
+2022-01499
+
+Tjenesteytere
+Kiwi.com
+Flyr
+
+Klager har i det vesentlige anført
+
+Klager (to personer) skulle reise fra Tromsø til München via Oslo den 3. januar 2022 på
+følgende reiserute:
+
+03 JAN TOS-OSL 07.20 - 09.20 Flyr rutenummer FS401, 
+03 JAN OSL-MUC 11.50 - 14.14 Lufthansa rutenummer LH2453
+
+Da klager skulle sjekke inn dagen i forveien ble hun gjort oppmerksom på at avreisen
+fra Tromsø til Oslo var fremskyndet til 2. januar kl 21.05 med rutenummer FS415. Klager
+hadde forhåndsbestilt rom på hotell i Tromsø som hun ikke fikk kansellert (kroner 985,5),
+og hun måtte bestille ny overnatting på Gardermoen fra 2. - 3. januar (kroner 1 535). 
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004, samt refusjon av
+utgifter til hotell.
+
+Tjenesteyterne har i det vesentlige anført
+Kiwi.com har ikke avgitt uttalelse til nemnda.
+
+Flyr har i det vesentlige anført:
+
+Klager hadde kjøpt en reise på separate billetter satt sammen av Kiwi.com. Flyr skulle fly
+klager fra Tromsø til Oslo den 03.01.22. På grunn av utbruddet av Corona omikronvirus
+ble samfunnet på nytt stengt ned, og dette resulterte i en kraftig nedskalering av
+reisevirksomhet. Flyr så seg derfor nødt til å kansellere noen flyvninger, deriblant FS 401
+fra Tromsø til Oslo den 03.01.22.
+
+Varsling om den innstilte flyvningen ble sendt Kiwi.com den 16.12.21, altså mer enn 14
+dager før avreise. Kunden ble her tilbudt en ny flyvning, samt mulighet til full refusjon
+eller annen ombooking. Kunden tok aldri kontakt før avreisetidspunktet.
+
+Videre reiser saken spørsmålet om hvem som er Flyrs kunde og som mottar varsel
+om endringer. Flyr solgte på dette tidspunkt kun reiser gjennom egen nettside. Flyr
+har ikke vært tilgjengelige i noen GDS systemer (Global distribution system) slik andre
+flyselskaper er. Alle salg gjøres gjennom Flyrs nettside. Kiwi.com er ikke en godkjent
+agent som kan selge produkt og tjenester fra Flyr. Flyr har ingen avtale med Kiwi.com,
+og de kjøper reiser på Flyrs nettside slik vanlige forbrukere gjør. De bruker sine egne
+kredittkort og oppgir sin egen e-post adresse i bestillingene. Dette er en praksis Flyr ikke
+kan stoppe, da nettsiden ligger ute til åpent salg for allmenheten. At Flyr da skal gjøres
+til ansvarssubjekt for en tredjepart henger derfor ikke sammen med flyselskapets salg-
+og distribusjonskanal som utelukkende er Flyr.com, og Kiwi.com må således regnes som
+Flyrs kunde. Hovedforskjellen er at Flyr ikke er tilgjengelig for salg i andre kanaler enn på
+Flyrs hjemmeside og ved kontakt med Flyrs kundesenter. Dette skiller Flyr klart fra andre
+flyselskaper og problematikk med nettbaserte reisebyrå som Kiwi.com.
+
+Kiwi.com regnes som kunde av Flyr, og kunden er blitt varslet mer enn 14 dager før, og
+således har de ikke krav på standardkompensasjon i henhold til artikkel 7 EU261/2004.
+
+Nemnda bemerker
+
+En ruteendring innebærer kansellering av en avtalt flygning. Kansellering gir grunnlag
+for standarderstatning etter artiklene 5 og 7 med mindre flyselskapet kan bevise at
+passasjeren har fått informasjon om endringen minst to uker før planlagt avgangstid.
+Dette gjelder enten flyreisen er kjøpt direkte fra flyselskapet eller fra en formidler, jf EU-
+domstolens dom av 11.05.2017 (Krijgsman - SLM).
+
+Det er ikke bestridt at Flyr gav beskjed til Kiwi.com om ruteendringen i tide, uten at
+Kiwi.com videreformidlet informasjonen til klager.
+Det er imidlertid flyselskapene som er ansvarssubjekter etter forordningen også om
+billetten er kjøpt av et online reisebyrå, og dette har unnlatt å videreformidle beskjed
+om kanselleringen til passasjeren. Flyselskapet er i henhold til dommen i disse tilfellene
+eventuelt henvist til å søke regress hos den ansvarlige for at passasjeren ikke ble
+informert, dersom nasjonal rett åpner for dette. 
+
+Etter dette er det nemndas syn at Flyr er erstatningsansvarlig i dette tilfellet. Nemnda
+anbefaler at klager gis medhold i sitt krav på 250 euro per person.
+
+Klager har videre krevet refusjon av forhåndsbetalt hotell i Tromsø, og utgift til hotell i
+Oslo som følge av kanselleringen.
+
+Standarderstatningen er ment å dekke både økonomisk og ikke-økonomisk tap.
+Standarderstatningen overstiger utgiftene til forhåndsbetalt hotell (985,50 NOK). Denne
+utgiften må anses dekket av standarderstatningen.
+
+I tilfeller hvor et fly kanselleres og passasjeren blir booket om til en flyavgang neste dag,
+har passasjeren rett på hotellovernatting, transport mellom flyplassen og hotellet, og rett
+på å få dekket rimelige utgifter til mat og alkoholfri drikke i ventetiden, jf. EU-forordning
+261/2004 artikkel 9, jf. artikkel 5. 
+
+Klagers rett på refusjon av forpleiningsutgifter er avgrenset til hva som var «nødvendige,
+passende og rimelige» ut fra ventetidens lengde. Dette følger av dom fra EU-domstolen i
+sak C-12/11 McDonagh avsnitt 51.
+
+Nemnda mener at utgiften klager pådro seg til hotell i Oslo er et slikt tap, og nemnda
+anbefaler derfor at Flyr betaler 1 535 NOK til klager.
+
+Forbrukerrepresentantene mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Flyr utbetaler 250 euro per person til klager, samt
+refunderer hennes utgift til hotell i Oslo med kroner 1 535.

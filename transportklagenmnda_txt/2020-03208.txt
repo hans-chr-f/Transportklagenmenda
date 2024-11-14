@@ -1,0 +1,152 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om dekning av kostnader/tap grunnet feil med utstedelse av
+reisedokumenter og nektet ombordstigning. Covid-19 og innreiserestriksjoner.
+
+Dato
+24.08.2021
+
+Saksnummer
+2020-03208
+
+Tjenesteytere
+Lufthansa German Airlines
+LATAM Airlines
+
+Klager har i det vesentlige anført
+
+Klager bestilte en flybillett av Lufthansa for at hans kjæreste bosatt i Brasil, skulle
+kunne få komme og besøke han her i Norge under de nye koronareglene for
+kjærestebesøk (fra 15.07.2020). Billetten ble kjøpt direkte fra Lufthansa sine hjemmesider
+www.lufthansa.com (ikke gjennom et reisebyrå). 
+
+Passasjeren (klagers kjæreste) fikk en oppdatert billett med en reiserute som var umulig
+å gjennomføre, ved at han ved check in i Ilhéus (03.09.2020) ble bedt om å hente ut
+bagasje og sjekke inn på nytt ved første flybytte (i Belo Horizonte). Check-in for neste
+fly (i reiseruten) stengte 20 min før han landet på flyplassen (uten forsinkelser). Han ble
+strandet på flyplassen i Belo Horizonte. Lufthansas Customer Service på telefon ville ikke
+gi en ny billett uten ekstra avgifter fordi de ikke kunne verifisere at han ikke ble sjekket
+inn hele veien fra Ilhéus til Oslo i sitt datasystem. De opplyste om at klager måtte sende
+dokumentasjon i etterkant for å få refundert de ekstra utgiftene. Dokumentasjonen
+måtte sendes til Lufthansa Customer relations etter reisens slutt.
+
+Klager betalte avgiftene for å få en ny avreise neste dag, og en ny billett ble send
+til passasjeren. Ved check-in neste dag (04.09.2020) ble det oppdaget at den nye
+billetten ikke var gyldig. Lufthansa opplyste deretter over telefon at det ble gjort en
+feil ved betalingen dagen før, og prosessen måtte gjentas. Kalkuleringen av avgifter og
+betalingsprosessen tok lang tid, så når betalingen til slutt ble effektivert, ble en ny billett
+sendt til passasjeren for avgang dagen etter (05.09.2020).
+
+Ved check-in (05.09.2020) ville ikke check-in mannskapet godkjenne passasjerens
+dokumenter (de samme dokumentene ble godkjent ved check-in dagen i forveien).
+Passasjeren ble nektet ombordstigning. Klager mener personalet misforstod reglene for
+innreise til Norge. Klager ble nødt til å bestille en enveisbillett for han tilbake til hjembyen
+Ilhéus (06.09.2020). Passasjeren fikk altså ikke reist til Oslo. 
+
+Klager mener at flyselskapet(ene) har gjort en rekke feil, og at check-in mannskapet til
+slutt nektet ombordstigning på feil grunnlag, noe som resulterte i at passasjeren ikke
+fikk reist, og skapte en rekke ekstra utgifter for klager og kjæresten. Klager mener at
+Lufthansa må holdes ansvarlig for dette siden kundeforholdet hans er med Lufthansa.
+
+Klager har i tillegg påpekt at Lufthansa kommer med feil opplysninger i tilsvaret sitt. Da
+passasjeren landet på CHF, med flyet fra IOS (som var i rute), så var allerede check in for
+G3 1445 stengt (Check in for denne flighten stengte 1 time før avgang). Passasjeren ble
+verken nektet check in eller ombordstigning, med billetten fra Lufthansa var det fysisk
+umulig å checke in på nytt i CNF, fordi check in for G3 1445 stengte før flyet AD4609
+fra Ilheus landet på CNF. I den opprinnelige klagen har klager forklart dette og lagt ved
+dokumentasjon. Billetten fra Lufthansa opplyser ikke om at passasjeren trenger å sjekke
+inn på nytt i CHF. Det var derfor ikke mulig for klager og kjæresten å forstå at billetten
+som Lufthansa foreslo innebar et umulig flybytte i CNF.
+Hvis passasjeren hadde blitt sjekket  inn hele veien fra Ilheus -Oslo når han startet reisen
+i Ilheus som normalt, ville flybyttet i CHF ikke vært noe problem.
+Klager synes det er veldig merkelig at Lufthansa sier at Gol nektet passasjeren check in/
+ombordstigning pga. manglende dokumenter når Check in var stengt, og passasjeren
+dermed ikke engang ble spurt om å vise dokumenter.
+
+Tjenesteyterne har i det vesentlige anført
+Lufthansa har levert inn to tilsvar. I sitt første tilsvar har Lufthansa anført følgende:
+
+Passasjeren var opprinnelig booket med et reisebyrå. Reisebyrået bekreftet ikke
+reiseplanen og betaling ble ikke gjennomført. Billetten derfor utstedt under Lufthansa sin
+IATA-kode den 4. september 2020. 
+
+Passasjeren ble nektet ombordstigning av LATAM Airlines på LA3334 den 5. september
+2020. Lufthansa refererer her til LATAM Airlines som opererende flyselskap, jf. EU-
+forordning 261/2004 artikkel 2 (b) vedrørende kostnadene som oppstod.
+
+I henhold til informasjon i Lufthansa systemer, var passasjeren NO-SHOW på
+returflyvningen LH861 den 28. november 2020. Ingen indirekte kostnader kan dekkes av
+Lufthansa i dette tilfellet.
+
+I sitt andre tilsvar har Lufthansa anført følgende:
+
+Billettnummer (begynner med 220- resten sensurert av nemnda) ble utstedt av
+Lufthansa den 6. august 2020 for følgende reiserute:
+IOS-GRU (G34811) den 02.09.2020
+GRU-FRA (LH507) den 02.09.2020
+
+FRA-OSL (LH6280) den 03.09.2020
+OSL-MUC (LH2455) den 28.11.2020
+MUC-GRU (LH504) den 28.11.2020
+
+Grunnet en ruteendring på LH507 ble denne fjernet fra planen den 6. august 2020.
+Passasjeren ble tilbudt kostnadsfri ombooking, som han aksepterte. Ny billett ble utstedt
+den 21. august 2020:
+
+AD4609 IOS-CNF 13:00-14:25 den 03.09.2020
+G31445 CNF-GRU 15:05-16:10 den 03.09.2020
+LH507 GRU-FRA 18:15-10:50 den 03.09.2020
+LH862 FRA-OSL 13:05-15:00 den 04.09.2020
+LH2455 OSL-MUC den 28.11.2020
+
+Selv om passasjeren hadde samme billett for hele reiseruten, ble han ved innsjekk kun
+sjekket inn frem til CNF (Belo Horizonte Tancredo Airport). Innsjekkingspersonalet ga
+klager beskjed om å sjekke inn i CNF for videreforbindelsen.
+
+GOL Airlines aksepterte ikke klager grunnet manglende dokumentasjon. Klager
+står som NO-SHOW på LH507 den 3. september 2020. Han ble derfor ombooket i
+henhold til billettreglene. Lufthansa er ikke ansvarlig for overnattingskostnader eller
+ombookingskostnader. Det er passasjerens ansvar å ha all gyldig dokumentasjon med
+seg. Det vises til Lufthansa sine befordringsvilkår artikkel 6 og 7. 
+
+Klager ble ombooket av Lufthansa den 4. september 2020 mot en avgift. Reiseruten ble
+som følgende:
+CNF-GRU LA3334 den 05.09.2020
+GRU-FRA LH507 den 05.09.2020
+FRA-OSL LH862 den 06.09.2020.
+
+Klager ble nektet ombordstigning på LA3334 den 5. september 2020, av LATAM Airlines,
+igjen grunnet manglende dokumentasjon (manglende visum for å oppholde seg i Norge).
+
+I henhold til informasjon fremlagt av passasjeren ser det ut som at klager kjøpte en ny
+billett på en direkteflyvning. Lufthansa vil sjekke med refusjonsavdelingen om refusjon er
+berettiget på disse billettene. 
+
+LATAM Airlines har ikke innlevert tilsvar, med den begrunnelse at de ikke kan gi slike
+opplysninger til en tredjepart. Sekretariatet til Transportklagenemnda har sendt en
+forklaring om Transporklagenemndas rolle, samt hvordan en benytter portalen, men har
+til tross for dette ikke mottatt tilsvar.
+
+Nemnda bemerker
+
+Fra den 15. juli 2020 ble det åpnet for innreise for tredjelandsborgere (utlendinger fra
+land utenfor EU/EØS) som har familie eller kjæresteforhold i Norge. Klager hadde kjøpt
+flybillett for å få besøk av sin kjæreste fra Brasil.
+
+Klager skulle opprinnelig fly IOS-GRU og GRU-FRA 02.09.20 og FRA-OSL 03.09.20.
+Lufthansas flyvning GRU-FRA 02.09.20 ble kansellert, og klager fikk ny rute IOS-CNF,
+CNF-GRU, GRU-FRA 03.09.20 og FRA-OSL 04.09.20. Denne endringen fra Lufthansas side
+medførte at klager ikke kom seg videre fra CNF til GRU i tide. Lufthansa skulle derfor
+sørget for annen omruting og forpleining slik at klager hadde kunnet gjennomføre
+reisen. Lufthansa var ansvarlig som transporterende luftselskap etter EU-forordning
+261/2004. 
+
+Nemnda anbefaler på denne bakgrunn at Lufthansa refunderer klagers billettpris, samt
+dekker ekstrautgifter som følge av manglende gjennomført reise med kr 18 050,32
+
+Vedtak
+
+Nemnda anbefaler at Lufthansa refunderer klagers billett, samt dekker ekstrautgifter,
+med til sammen kr 18 050,32.

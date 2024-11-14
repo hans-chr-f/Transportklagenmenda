@@ -1,0 +1,132 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet forsinkelse.
+
+Dato
+10.11.2020
+
+Saksnummer
+2020-00625
+
+Tjenesteytere
+KLM
+Ticket
+
+Klager har i det vesentlige anført
+
+Klager og hans reisefølge (til sammen tre personer) skulle reise fra Miami 11. januar 2020
+kl. 18:50 med ankomst Bergen 12. januar 2020 kl. 16:45 via Atlanta og Paris. Strekningen
+fra Miami til Atlanta med KL6519, operert av Delta Airlines, ble forsinket. Neste strekning
+var fra Atlanta til Paris er også operert av Delta Airlines og reisefølge rakk ikke denne
+videreforbindelsen. 
+
+Reisefølge ble booket om fra Miami den 12. januar kl. 16:05 med ankomst Bergen 13.
+januar kl. 09:30 via Amsterdam.  
+
+Klager og hans reisefølge krever standarderstatning på 600 euro i henhold til EU-
+forordning 261/2004.
+
+Klager mener at reisen som helhet faller under EU 261/2004 og viser til at EU-domstolen
+har ved flere anledninger konkludert med at flyselskaper i EU ikke kan gjemme seg bak
+codesharing og at en reise bestilt hos et europeisk flyselskap (i dette tilfellet KLM) skal
+anses som en reise, selv om den inkluderer flere flyforbindelser. Klager viser til tekst i
+dommen fra 2019: «A flight with one or more connections which is the subject of a single
+reservation constitutes a whole for the purpose of the passengers to compensation
+provided for in the regulation.»
+
+Dette mener klager at reisen i denne saken faller under EU 261/2004 av to grunner:
+
+- Reisen som helhet er bestilt hos KLM (som er et europeisk flyselskap).
+- Reisen som helhet avsluttes i Bergen (som er innenfor EØS-området).
+
+Ankomst ved destinasjon i Bergen ble forsinket med 16 timer og 45 minutter.
+
+Forordningen kommer til anvendelse. At flystrekningen som førte til forsinkelsen (Miami
+til Atlanta) er utenfor EØS-området, og at flyet ble operert av et amerikansk flyselskap
+(Delta Airlines) er uten betydning så lenge billetten er utstedt av KLM og reisen som
+helhet avsluttes innenfor EØS-området.
+
+Tjenesteyterne har i det vesentlige anført
+KLM har anført:
+
+KLM forklarer at klagerne skulle reise med Delta Air Lines og Air France fra Miami
+via Atlanta og Paris til Bergen 11. januar 2020. Klagerne ble booket om på grunn av
+forsinkelse på DL473 fra Miami til Atlanta 11. januar 2020, noe som ville ført til at
+passasjerene ikke ville rukket DL84 fra Atlanta til Paris samme dag. Ny rute ble KL628 og
+KL1187 fra Miami via Amsterdam til Bergen 12. og 13. januar 2020.
+
+Den forstyrrede flyreisen DL 473 og DL 84 ble begge operert av Delta Air Lines, som er et
+ikke-EU-basert flyselskap. Siden de aktuelle flyvningene også har avgang fra en flyplass
+som ikke er lokalisert i EU, gjelder ikke EU-forskriften 261/2004 i dette tilfellet, og de har
+derfor ingen rett til erstatning. 
+
+På bakgrunn av det ovennevnte så kan ikke KLM imøtekomme klagers krav om
+erstatning. 
+
+Ticket.no har anført:
+
+Ticket er kun en formidler av flyreiser og ikke en part i avtalen. Avtalen er gjort mellom
+kunden og flyselskapet KLM Airlines, og Ticket er ikke ansvarlig for flyselskapets
+tidsendringer eller innstilte fly. 
+En tidsendring gir ikke rett til erstatning fra Ticket. 
+
+Ticket viser til sine reisevilkår: 
+11. Formidling av flybilletter
+12. Flytider/endringer av flytider
+
+Nemnda bemerker
+
+Forsinkelse som medfører at passasjerene kommer mer enn 3 timer senere enn
+planlagt frem til det endelige bestemmelsesstedet, utløser plikt for flyselskapet til å
+betale standarderstatning med mindre selskapet godtgjør at forsinkelsen skyldtes
+ekstraordinære omstendigheter som ikke kunne vært unngått selv om alle rimelige
+tiltak var blitt truffet, jf EU-forordning 261/2004 artiklene 5, 6 og 7, og EU-domstolens
+avgjørelser i sak Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson med flere av
+23.10.2012 (C-581/10). 
+
+Nemnda legger til grunn at klagers flyvning DL473 fra Miami til Atlanta ble forsinket og at
+han ankom endelig bestemmelsessted Bergen mer enn fem timer forsinket. 
+
+Klager har vist til avgjørelse i EU-domstolen i sak C-502/18 CS m.fl. mot Ceské aerolinie.
+Saken gjaldt en reise der passasjerene hadde gjennomgående billetter fra Praha via Abu
+Dhabi til Bangkok. Første flyvning var med det tsjekkiske flyselskapet Ceské aerolinie fra
+Praha til Abu Dhabi, og denne flyvningen gikk som planlagt. Neste flyvning fra Abu Dhabi
+til Bangkok med Etihad Airways ankom Bangkok med en forsinkelse på 8 timer og 8
+minutter. Domstolen slo fast at en reise med flere korresponderende flyvninger i et code
+share samarbeid utgjør én enkelt reservasjon - en helhet - når det gjelder passasjerens
+rettigheter i henhold til forordningen. Som en følge av dette vil det flyselskapet som har
+utstedt billetten og som har utført den første flyvningen ut av Europa, være ansvarlig
+selv om den forsinkede ankomsten til endelig destinasjon i henhold til billetten skyldtes
+en mangelfull gjennomføring av en flyvning som skulle utføres av et annet flyselskap
+som er hjemmehørende i et tredjeland. Passasjerene kunne etter dette rette sitt krav om
+standarderstatning til Ceské aerolinie for forsinket ankomst til Bangkok. 
+
+Etter nemndas syn omfatter dommen i sak C-502/18 et annet tilfellet enn i denne saken. I
+sak C-502/18 var den første flyvningen i reservasjonen i en medlemsstat. 
+
+I denne konkrete saken var den første flyvningen fra en tredjestat. Dommen i sak
+C-502/18 kan ikke tolkes dithen at forordningen får anvendelse på flyvninger som har sin
+opprinnelse i en tredjestat, for deretter å fly inn til EU-området. 
+
+Forordningen får bare anvendelse for flygninger innen EU-/ EØS-området, flygninger
+fra EU-/ EØS-området til en tredjestat og flygninger fra en tredjestat hvis det
+"transporterende luftfartsselskap for flygningen er et EF-luftfartsselskap", jf artikkel
+3 punkt 1 bokstav b. Det "transporterende luftfartsselskap" er i artikkel 2 bokstav b)
+definert til "et lufttransportforetak som utfører eller har til hensikt å utføre en flygning i
+henhold til en avtale med en passasjer eller på vegne av en annen person, juridisk eller
+fysisk, som har en avtale med denne passasjeren".
+
+Krav etter EU-forordningen faller etter dette bort, fordi forsinkelsen oppsto på en
+flygning fra en tredjestat med det ikke-europeiske flyselskapet Delta Airlines. Nemnda
+viser til tidligere avgjørelse i sak FLYKN-2019-3467.
+
+Klager har etter dette ikke krav på erstatning. 
+
+Saken er behandlet med èn forbrukerrepresentant i medhold av
+transportklagenemndforskriften §5-5(5).
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold.

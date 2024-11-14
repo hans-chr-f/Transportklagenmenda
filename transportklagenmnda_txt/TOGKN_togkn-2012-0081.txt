@@ -1,0 +1,98 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om sletting av gebyr for manglende billett på NSB app.
+
+Dato
+04.17.2013
+
+Saksnummer
+81/12 J
+
+Tjenesteyter
+NSB
+
+Krav om sletting av gebyr for manglende billett på NSB app.
+
+Klager har i det vesentlige anført:
+
+Den 22.10.12 var det kontroll på toget fra Billingstad som klager satt på. Klager fikk gebyr
+for manglende billett. Klager stiller seg uforstående til dette fordi han den 07.10.12 hadde
+fornyet sin månedsbillett via NSB appen. Den 20.10.12 stilte klager sin telefon tilbake til
+fabrikkinnstillinger, slik han (og mange andre) gjør flere ganger i året for å få optimal fart og
+flyt på mobilen. Da det var gjort hentet klager NSB appen opp igjen fra Google Play og logget
+seg inn der. Klager regnet da med at alt var i orden igjen på lik linje med alt annet han har av
+apper på telefonen.
+
+Kontrolløren sa at månedskortet ikke var gyldig. I appen sto det dato og tidspunkt for
+når klager hadde kjøpt billetten, men i følge kontrolløren var den ikke lenger aktivert.
+Klager forklarte at han hadde stilt mobilen tilbake til fabrikkinnstillinger og spurte om
+det virkelig var slik at man da mistet månedsbilletten. Det virket som kontrolløren ikke
+forsto problemstillingen. Klager viste også frem kvitteringen han hadde på e-post, men til
+ingen nytte. Klager fikk så beskjed om at det ville koste ham kr 100 å åpne billetten igjen.
+Kontrolløren hevdet videre at klager kunne ha overført billetten til en annen mobil og på den
+måten forsøke å lure kontrollørene. Klager viser til NSBs egen informasjon i appen om at det
+ikke er mulig å overføre en billett til en annen.
+
+Klager fikk, etter å ha snakket med flere av NSBs ansatte ved Oslo S, til slutt kontakt med
+en som forsto problemstillingen og fikk åpnet appen kostnadsfritt. Klager finner det svært
+urimelig at han skal betale gebyr når han har betalt for månedskort og også vist kvittering for
+dette til kontrolløren.
+
+NSB har i det vesentlige anført:
+
+Det fremgår av NSBs Transportvilkår § 4 A at med billett menes av NSB godkjente billettyper
+og reisebevis herunder billetter i elektronisk form. Regler for kjøp, kansellering og refusjon
+avhenger av type billett. Videre fremgår det av NSBs Transportvilkår § 4 C at passasjerer som
+ved kontroll ikke har stemplet eller på annen måte gyldig kontrollert billett vil bli ilagt et gebyr
+fastsatt av Samferdselsdepartementet.
+
+Klager sier i sin klage at han stilte sin telefon tilbake til fabrikkinnstillinger og ikke var klar
+over at han dermed avinstallerte appen. For å kunne kjøpe en billett via NSB's app må man
+godkjenne NSB sine betingelser. Betingelser kommer opp før man kan gå videre til betaling.
+Det kommer tydelig fram at ved avinstallering av appen vil også billettene fjernes. Videre
+finnes det informasjon og veiledning om billetter på app'en på nsb.no.
+
+Klager ble påtruffet på toget i ubetjent vogn uten gyldig billett på mobilen sin. Klager fikk
+altså gebyr basert på det objektive kriteriet at han ikke hadde gyldig billett. NSB finner ikke
+grunnlag for å ettergi gebyret klager ble ilagt.
+
+Nemnda bemerker:
+
+Det fremgår av NSBs transportvilkår § 4 C at passasjerer som ved kontroll ikke kan fremvise
+gyldig billett vil bli ilagt et gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om
+passasjeren ikke har opptrådt klanderverdig.
+
+Det er passasjerens ansvar å ha gyldig billett. Klager hadde kjøpt en 30 dagers periodebillett.
+Da klager ble kontrollert var billettkjøpet synlig i appen ved at dato og tidspunkt for kjøpet
+fremkom, men billetten var ikke lenger aktivert fordi klager hadde tilbakestilt mobilen sin til
+fabrikkinnstillinger. Ved en slik tilbakestilling blir appen avinstallert.
+
+Nemnda er av den oppfatning at klager ikke kan ha fått tilstrekkelig informasjon om at ved
+en tilbakestilling til mobilens fabrikkinnstillinger vil billetten bli deaktivert og ikke lenger
+være gyldig. Informasjonen om at man ikke bør avinstallere appen finnes under linken
+«reisebetingelser» som man må bekrefte å ha lest før man kan gjennomføre kjøpet. Det
+må forventes at passasjerene orienterer seg nøye når de benytter nye billettordninger. På
+den annen side er ordningen med billetter via en app ny og det bør derfor vises forståelse
+for at systemet ikke nødvendigvis fungerer optimalt de første månedene. Det at billetten
+blir deaktivert ved en avinstallering og at man må betale for å få den aktivert igjen, er etter
+nemndas mening ikke logisk sammenlignet med andre type apper der tjenester man har
+betalt for kan hentes opp igjen via en pålogging. Etter nemndas vurdering bør slik informasjon
+gis på en tydeligere måte både når man laster opp billettappen på en mobil og som et varsel
+før man eventuelt gjennomfører en avinstallasjon av appen.
+
+Ved innføring av nye billettyper/-ordninger burde NSBs kontrollører kunne vise mer skjønn og
+heller veilede enn å «straffe» kunder som har tatt i bruk en ny billettordning.
+
+NSBs billettapp ble innført i juni 2012. Klager fikk gebyr den 22.10.12. Tatt i betraktning at
+ordningen på kontrolltidspunktet var såpass ny og at informasjonen om at billetten ville bli
+deaktivert ved en avinstallering av appen ikke fremkommer tydelig, vil nemnda anbefale at
+klager gis medhold.
+
+Vedtak:
+
+Transportklagenemnda - jernbane anbefaler at klager gis medhold.
+
+Vedtaket er enstemmig.

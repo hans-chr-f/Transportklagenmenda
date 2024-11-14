@@ -1,0 +1,88 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr
+
+Dato
+13.10.2020
+
+Saksnummer
+2020-02587
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 21. august 2020. Klager anfører at hun trodde hun fikk kjøpt
+en billett ved påstigning ved Hagen (Sjetnemarka) og tok linje 2 til Strindheim fra
+Tonstadkrysset. Videre anfører hun at appen klikket idet hun så den kjøpte billetten
+dukke opp og deretter ble hun kastet ut av appen. Klager presiserer at hun så billetten.
+Hun forklarer at hun ikke tenkte noe mer over dette siden bussen kom. Klager merket
+ikke at kjøpet mest sannsynlig ikke hadde gått igjennom før hun møtte billettkontrollen
+på Strindheim. Klager forklarer at hun ikke fant noen billett å vise til billettkontrollen og
+sjekket arkivet for utløpte billetter, men fant heller ingenting der. Klager anfører at hun
+derfor kjøpte ny billett fordi hun ble så stresset. Videre anfører klager at hun forsøkte å
+forklare situasjonen og forklarte samtidig at det har skjedd noe lignende med appen og
+betalingen tidligere. 
+
+Klager synes det er kjedelig at klagen ikke gikk igjennom hos AtB når hun ikke kan
+klandres for at appen klikket og betalingen ikke gikk igjennom, til tross for at hun så
+billetten. Klager forklarer at hun sjekket kontoen sin etter kontrollen og fant ingenting
+på billettkjøp. Klager tenker at det blir hennes ord mot AtB sitt ord siden hun antar at
+det ikke går an å finne igjen hennes billettkjøp i deres systemer når betalingen ikke gikk
+igjennom. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr den 21. august 2020 fordi hun ikke kunne fremvise gyldig billett
+under billettkontrollen. Billettkontrollen ble gjennomfør på linje 2 den 21. august 2020 kl.
+12:10. I AtBs Mobillettsystem bemerkes det at den eneste bestillingen av Mobillettkjøp
+som klager hadde i samme tidsrom ble gjennomført samme dato kl. 12:11. Dette svarer
+til billettkjøp etter start av billettkontroll. 
+
+AtB har undersøkt baksystemet for Mobillettappen, men finner ikke spor etter de
+tekniske problemene som klager beskriver i sin klage. Både billettkjøp og forsøk på
+billettkjøp vil bli lagret i dette baksystemet. Forskjellen på billettkjøp og billettforsøk
+skiller seg ved statusen på bestillingen. Enkelte ganger vil ikke billettbestillingen la
+seg gjennomføre på grunn av eksempelvis teleoperatørstatus, manglende dekning på
+betalingskortet eller feil nummer i betalingskort. Såfremt den reisende har trykket "kjøp"
+i Mobillettappen skal AtB få tilsendt informasjon om status som lagres i baksystemet. AtB
+kan ikke se å ha mottatt tilbakemeldinger fra andre reisende om at de opplever samme
+problematikk med at man blir kastet ut av appen. AtB har sjekket med deres IKT-avdeling
+hva årsaken til dette kan være og har blitt forklart at man kan oppleve at apper plutselig
+slutter å fungere dersom man har veldig mange apper pågående samtidig. Dette kan
+føre til minneproblemer som gjør at telefonen må kvitte seg med prosesser for å sikre at
+operativsystemet holder seg oppe. Dette kan være symptomer som gir brukeren inntrykk
+av at apper "klikker" og plutselig slutter å fungere. 
+
+Det fremgår av bruksvilkårene for Mobillett og SMS-billett at denne skal kjøpes før man
+går om bord i bussen. Det er derfor viktig at den reisende selv passer på at man mottar
+billett før påstigning. Enkelte ganger kan man erfare problemer med tjenesten, enten på
+grunn av problemer med nettforbindelsen eller andre tekniske årsaker. Det er likevel den
+reisendes ansvar å påse at man til enhver tid har gyldig billett før man går om bord og
+kan fremvise denne ved en eventuell kontroll. 
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager krever frafall av gebyr pga. tekniske problemer med mobilapp.
+
+AtB har anført at klager ble ilagt gebyr den 21. august 2020 fordi hun ikke kunne fremvise
+gyldig billett under billettkontrollen. Billettkontrollen ble gjennomført på linje 2 den 21.
+august 2020 kl. 12:10. I AtBs Mobillettsystem fremgår det at den eneste bestillingen av
+Mobillettkjøp som klager hadde i samme tidsrom ble gjennomført samme dato kl. 12:11.
+Dette svarer til billettkjøp etter start av billettkontroll. 
+
+Det er ikke funnet tekniske problemer ved appløsningen, og det var således grunnlag for
+ileggelse av gebyr, da billetten ble kjøpt etter kontrollstart.
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

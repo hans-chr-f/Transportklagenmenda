@@ -1,0 +1,119 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om refusjon av betalt gebyr som følge av teknisk feil ved billettkjøp i Ruter-app
+
+Dato
+20.12.2017
+
+Saksnummer
+2017-02270
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr som følge av manglende billett ved kontroll. 
+
+Før klager gikk ombord på t-banenstasjonen på Ullevål Stadion kjøpte han en
+enkeltbillett for voksen i sone 1 via "hurtigkjøp" på Ruters billettapp. Klager bekreftet
+kjøpet og tastet inn koden til Vipps. Billetten viste sekundvis nedtelling med teksten
+"ombordstigning tillatt". 
+
+Ved Oslo S ble klager stoppet i kontroll. Klager skulle vise frem billetten, men klarte ikke å
+finne billetten i Ruters app. Klager fikk kun frem to billetter fra tidligere reise. Klager gikk
+derfor inn på Vipps og fikk opp følgende melding: " Vipps har blitt deaktivert. Trykk her
+for å aktivere." Klager ble da ilagt gebyr som han betalte på stedet. 
+
+Like etter at klager ble ilagt gebyr sjekket han kontoutskriften. Den viste to reserverte
+beløp; et på kr. 33 for en enkeltbillett, samt et beløp for kontrollgebyret på kr. 950. Klager
+viste frem kontooversikten til kontrolløren som hadde skrevet gebyret. Kontrolløren
+noterte dette og syntes det var merkelig. Klager ble oppfordret å klage til Ruter. Klager
+har gjort dette.
+
+Ruter har i sin respons til klager vist til at klager selv er ansvarlig for å påse at han
+oppfyller vilkårene for bruk av Ruter billett på app. Blant annet ved å sørge for at det
+foreligger tilstrekkelig nettdekning under kjøpsprosessen, samt sørge for å ha gyldig
+billett for reisen før påstigning eller ved inntreden i en kontrollsone. Påstigning er tillatt
+fra det tidspunktet kjøpet er bekreftet og nedtellingen starter. Ruter har derfor valgt å
+ikke ettergi kravet om frafall av ilagt gebyr.
+
+Klager er forundret over Ruters svar. Spesielt med at han fremla for kontrolløren
+kontooversikten med det reserverte beløpet for billetten. Videre var nedtelling startet på
+appen da han gikk ombord, og klager har derfor fulgt Ruters reisevilkår. Klager viser også
+til kommunikasjon fra Ruter internt, som han har fått oversendt i ettertid, hvor Ruter
+skriver: 
+
+" Spørsmål: Er det registrert noe feil med RuterBillett 25.08.2017 før klokken 19.00?
+Svar: Det er ikke registrert noen feil i RuterBillett, men (operator) ICE opplevde problemer
+som kan ha påvirket kunder som bruker dem." 
+
+På grunnlag av overnevnte krever klager at Ruter refunderer kostnaden til gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Ruter viser til henvendelse fra klager angående gebyr han ble ilagt på T-banen 25.august
+2017. Gebyret ble betalt på stedet og er derfor ikke registrert på navn.
+
+Klager ble ilagt gebyr fordi han ikke kunne vise en gyldig billett i kontrollen. Når du kjøper
+billett i appen, og velger Vips som betaling så vil du bli sendt fra billett-appen til vips-
+appen, der må du gjennomføre betalingen. Først når betalingen har gått gjennom og blitt
+bekreftet av banken så blir du sendt tilbake til billett-appen hvor billetten blir lastet inn
+og nedtelling starter.
+
+I klagers tilfellet så ble betalingen aldri bekreftet, billetten har derfor aldri blitt lastet inn
+i billett-appen. Klagers påstand om at han så at billetten startet nedtelling er derfor ikke
+riktig, det er ikke teknisk mulig at han kan ha sett dette, for det ble aldri lastet inn noen
+billett.
+
+Pengene ble reservert på klagers konto, men ble aldri trukket fra kontoen, de ble
+refundert, så han har ikke betalt for noen billett.
+Svaret fra Ruters tekniske avdeling om at det var problemer hos ICE, betyr at de som har
+et mobilabonnement hos ICE kunne oppleve problemer. Ruter vet ikke om klager har ICE
+mobilabonnement.
+
+Ruter kan ikke ta ansvar for problemer som ligger hos andre leverandører. I appen kan
+du i tillegg til Vipps legge inn Mobilpay, Strex eller flere kredittkort. På den måten så kan
+du velge en annen betalingsform dersom en skulle svikte. 
+
+Hva som var årsaken til at betalingen ikke gikk igjennom vet vi ikke, det kan ha vært
+problemer med Vipps, eller så stoppet det i banken. Det er kundens ansvar å forsikre seg
+om at betalingen blir gjennomført og at billetten blir lastet ned. Ruter kan ikke frafalle et
+gebyr fordi man kan vise et påbegynt kjøp. 
+
+Ruters avgjørelse står derfor fast i denne saken.
+
+Nemnda bemerker
+
+Klager ble ved såkalt utkontroll på Jernbanetorget T-bane stasjon ilagt gebyr da han ikke
+kunne vise gyldig billett. 
+
+Det fremgår av Ruters transportvilkår punkt 5 at den reisende plikter å ha gyldig billett
+før ombordstigning eller før passering av kontrollsoner. 
+
+Av samme bestemmelse går det fram at passasjerer som ved kontroll ikke kan vise gyldig
+billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om
+passasjeren ikke har opptrådt klanderverdig.
+
+Nemnda legger til grunn at klager hadde påbegynt kjøp av billett. Det fremgår av
+gebyrrapporten at at billettbeløpet var reservert på Vipps, men betalingen var ikke
+fullført.
+
+Nemnda legger videre til grunn at klager i denne situasjonen ikke kan ha sett noen
+melding om "ombordstigning tillatt" og viser til Ruters redegjørelse for at dette ikke er
+mulig av tekniske grunner. Det er heller ikke registrert noen billett med startet nedtelling
+i Ruters systemer. 
+
+Ruter har opplyst at det ikke er registrert problemer med billettapp'en denne dagen. 
+
+Nemnda kan ikke se at det er grunnlag for å bebreide Ruter for den oppståtte situasjon.
+Problemet må antas å ligge på betalingssiden som den reisende må ha risikoen for. 
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyret frafalles.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

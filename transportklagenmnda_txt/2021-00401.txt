@@ -1,0 +1,153 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Problematikk mellom
+betalingsfunksjonen Vipps og RuterBillett-appen
+
+Dato
+21.06.2021
+
+Saksnummer
+2021-00401
+
+Tjenesteytere
+Vy
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste med toget fra Kløfta til Oslo Sentralstasjon den 19. februar 2021 da han ble
+ilagt gebyr for manglende gyldig billett. 
+
+Før klager reiste med toget kjøpte han en billett i RuterBillett-appen. Han benytter seg av
+Vipps som betaling og blir via appen sendt videre til vipps for betaling, der han betaler
+86 kroner kl.10.09 og får opp "kjøp gjennomført" i Vipps appen. Deretter blir han sendt
+tilbake til Ruters billettapp. Klager lukker mobilen og legger den i lommen. Klager merker
+seg senere at 86 kroner har blitt trukket/reservert fra hans bankkonto. Da klager går om
+bord i  toget kl.10.14 har han fått bekreftelser på at han har kjøpt billett, og går om bord i
+god tro om at han har gyldig billett. 
+
+Klager har merket seg Vy og Ruters tilsvar til nemnda, og har følgende kommentarer til
+dette:
+
+Begge selskapene behandler saken med den vinkling om at klager har gjort et bevisst
+valg i dette tilfellet. Vy presiserer fortsatt at klager har valgt å gå om bord uten gyldig
+billett, og ruter legger vekt på at han ikke har ventet lenge nok før appen ble lukket, noe
+som førte til at kjøpsprosessen ble kansellert.
+
+Klager understreker at han ikke har noe problem med tjenesteyternes reiseregler,
+ettersom han har reist med begge selskapene i mange år og er godt kjent med disse
+reglene.
+
+Ruter legger også ved betalingshistorikk og etter nyttår ser man tydelig at det har skjedd
+noe, da flere kjøp kommer opp som kansellert. Her skriver ruter at jeg ofte "lukker appen
+før betaling er gjennomført". Dette er jo sakens kjerne her. Etter nyttår gikk klager over
+til å bruke vipps, og da har det åpenbart ført med seg det aktuelle problem. Klager har
+ikke fått noe som helst varsel om evt (lang) ventetid i app for godkjennelse. Hvis det har
+skjedd kanselleringer før, har klager vært uvitende om dette.
+
+Sakens kjerne, som klager har prøvd å få frem, er at det er på tide at Ruter ser på dette
+problemet og sørger for å opplyse tydeligere om hvordan samspillet mellom billettappen
+og vipps fungerer. Klager har nå, etter å ha blitt oppmerksom på dette, testet hvor lenge
+man må stå og vente på at billetten blir "gyldiggjort" etter kjøpet er fullført i vipps. Dette
+tar 12 sekunder. Altså, lukkes appen før dette, kanselleres billetten. Nå som klager er
+kjent med dette, er dette noe han tenker på hver gang han kjøper billett, men han ble
+altså et offer for denne transaksjonstiden ettersom han i god tro trodde dette var i orden
+idet man får en bekreftelse i vipps sin betalingsapplikasjon.
+
+Klager har merket seg at i Transportklagenemndas oversikt over klagesaker er denne
+aktuelle problemstillingen en gjenganger i klagesakene. Klagers oppfatning er at det
+da er rimelig å si at Ruter burde opplyse om problemet, da det åpenbart går ut over
+kundene. 
+
+Avslutningsvis vil klager si at han har forståelse for en viss mekanisk og upersonlig
+behandling fra selskapene, men som kunde føler man seg overkjørt og dårlig behandlet
+når man ikke på noen måte får forståelse eller godtro. Klager etterlyser litt ydmykhet
+fra Ruter og Vy. Ruter har åpenbart en teknisk svakhet i samspillet mellom billettapp
+og Vipps når det gjelder transaksjonstid og bekreftelse, noe som underbygges av antall
+klager de får på gebyrer utstedt pga. denne problematikken. 
+
+Klager krever at gebyret frafalles.
+
+Tjenesteyterne har i det vesentlige anført
+I denne saken har både Ruter og Vy inngitt tilsvar til nemnda: 
+
+Vy har i sitt tilsvar svart følgende: 
+Ved billettkontroll ble klager påtruffet i en vogn merket kun gyldig billett på tog 1622 den
+19. februar etter avgang fra Lillestrøm. Klager kunne ved kontrollen ikke fremvise gyldig
+billett for reisen han benyttet seg av, og ble korrekt ilagt kontrollgebyr jf. vedlegg merket
+002 i klagers henvendelse til Nemnda. Vy viser til vedlagt dokumentasjon for togets tider.
+
+I Vys reisevilkår punkt 4. fremgår: Kjøp og validering av digitale/elektroniske billetter
+skal foretas før om bordstigning. Ruter har tilsvarende vilkår jf. vedlegg 2. De ubetjente
+vognene på toget er tydelig merket ut og innvendig med kun gyldig billett – jf. vedlegg 3 -
+som da påminner og gjør den reisende oppmerksom på å ha billett i orden.
+
+Klager viser til pengereservasjon fra Ruter. Ved bestilling via app og betaling med Vipps
+blir først beløp reservert. Når man har «sendt penger» - altså betalt - vil billett bli utstedt.
+Om man ikke gjennomfører betaling vil beløpet ha status som reservert i noe tid hos
+bank før reservasjon oppheves.
+
+Klager må selv forsikre seg om at betaling er gjennomført og billett er utstedt når man
+velger å kjøpe billett via app. Klager har her ikke gjennomført betaling - jf. vedlegg 4 –
+bilde som klager har oversendt Vy viser kansellert som status.
+
+Når klager til tross for reisevilkår og tydelig merking av vogner med kun gyldig billett
+- likevel velger å ta plass uten gyldig billett - så løper man en risiko for å bli ilagt
+kontrollgebyr om det utføres kontroll. Dersom man av forskjellige årsaker ikke har billett i
+orden på forhånd kan man velge vogn på toget som er merket - billettsalg.
+
+Det ble ilagt kontrollgebyr på det objektive kriterium og faktum at klager ikke kunne
+presentere gyldig billett for reisen han benyttet seg av. Hjemmel for å ilegge gebyr
+fremgår av Vys reisevilkår § 4 A ; Hvis du ikke kan vise gyldig billett i en kontroll, må du
+betale et gebyr fastsatt av Samferdselsdepartementet.
+
+Vy opprettholder krav om betaling av gebyret.
+
+Ruter har i sitt tilsvar svart følgende: 
+
+Ved bruk av Vipps som betaling i RuterBillett-appen må man alltid vente på at billetten
+blir bekreftet, legger seg inn og nedtelling starter, Dersom man lukker appen for tidlig så
+avbryter man kjøpet, Vipps har bare foretatt en reservasjon og etter fem minutter blir da
+kjøpet avbrutt. Kvittering fra Vipps er ikke en kvittering for kjøp av billett. 
+Om betaling feiler må mna kjøpe billett på annet vis. Der er mulig å kjøpe billett i
+RuterBillett-appen både via registrert bankkort, Afterpay, Paypal og Applepay. I dette
+tilfellet er det ikke appen som har feilet, men det har vært en brukerfeil  i form av klager
+har lukket appen for tidlig. 
+
+Dersom det er en feil fra selskapets side, i RuterBillett-appen, blir det sendt ut en
+melding inne i selve appen om at de kan reise 30 minutter uten billett. 
+
+Ut fra hva Ruter kan se i oppgitt app-ID, har brukeren ofte benyttet seg av Vipps som
+betalingsløsning. Det er mange kjøp som er registrert avbrutt fordi appen er lukket før
+billetten er bekreftet og overfør fra Vipps sin betalings-applikasjon.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr i ubetjent vogn på toget fra Nationaltheatret til Lysaker den 19.
+februar 2021 da han ikke kunne vise gyldig billett.
+
+Det fremgår av Vys transportvilkår § 4 at passasjerer som ved kontroll ikke kan vise gyldig
+billett, vil bli ilagt et gebyr.
+
+Klager kunne ikke vise billett, og vilkårene for å ilegge gebyr var til stede.
+
+Klager anfører problematikk med betalingsfunksjonen Vipps som årsak til hvorfor
+han ikke kunne vise gyldig billett. På bakgrunn av klagers egne opplysninger, legger
+nemnda til grunn at han lukket billettappen før billetten var lastet ned. Dette medførte at
+billettkjøpet ble kansellert. 
+
+Ved bestilling via app og betaling med Vipps blir først beløp reservert. Når man har
+«sendt penger» - altså betalt - vil billett bli utstedt. Om man ikke gjennomfører betaling
+vil beløpet ha status som reservert i noe tid hos bank før reservasjon oppheves.
+
+Klager må selv forsikre seg om at betaling er gjennomført og billett er utstedt når man
+velger å kjøpe billett via app.
+
+Klager hadde således ikke billett, og gebyret er korrekt ilagt. 
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

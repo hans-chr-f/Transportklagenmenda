@@ -1,0 +1,66 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av ilagt gebyr. Billett loadet i applikasjonen ved kontroll.
+
+Dato
+11.11.2021
+
+Saksnummer
+2021-01275
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste med bussen da han ble ilagt gebyr. Ifølge klager åpnet han RuterBillett-
+appen og gjennomførte kjøp av billett ved hjelp av Vipps, før han påsteg bussen. Dette
+mener han er registrert hos Ruter. Kontrollen ble startet 3 minutter etter at hans
+billettkjøp ble fullført. 
+
+Da klager ble stoppet i kontrollen var beskjeden i RuterBillett-appen "henter billett" noe
+kontrollen også kunne se stemte, men ignorerte og ila klager gebyr. Klager mener det
+er helt absurd at han skal ilegges gebyr fordi applikasjonen til Ruter er treg, og krever at
+gebyret frafalles.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble stoppet i billettkontroll om bord på busslinje 34 den 22. juni 2021. Han
+fremviste en billett som ble kjøpt etter at han hadde påsteget bussen. Klager ble
+kontrollert fra Møllerveien, hvor det fremgår av sanntidsloggen at bussen ankom kl.
+08:28:56 og kjørte derfra kl. 08:29:18. Klager startet kjøp av billett kl. 08:26:16, men
+godkjente ikke betaling før kl.08:30:09, som er tidspunktet billetten var gyldig fra. Dette
+var etter at han var ombord på bussen med kontrollørene.
+
+Ruter viser videre til reisevilkår punkt 3 bokstav b hvor det fremgår at elektronisk billett
+skal være gyldig og aktivert før ved påstigning på et transportmiddel. Dette innebærer at
+nedtelling på billett har startet, noe den ikke hadde gjort i dette tilfellet. 
+
+Ruter ser ingen grunn til å endre standpunkt i denne saken.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr 22. juni 2021 fordi han ikke kunne fremvise gyldig billett under
+kontroll.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å
+ha gyldig billett før ombordstigning eller før passering av kontrollsoner. Ved bruk av
+mobilapp må billett være kjøpt og bekreftet før påstigning.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig. 
+
+Klager har opplyst at han kjøpte billett før påstigning og at den var i ferd med og
+lastes ned i billettapplikasjonen, da han ble stoppet i kontroll. Ruter har fremlagt
+dokumentasjon som viser at bussen kjørte fra holdeplassen kl.08:29:18, og at klagers
+billettkjøp ble fullført i appen kl.08.30.09.  Nemnda bemerker at elektronisk billett skal
+være gyldig før påstigning, herunder aktivert og nedlastet i RuterBillett-appen. 
+
+Klager kunne ikke vise gyldig billett og vilkårene for å ilegge gebyr var til dermed til stede.
+
+Vedtak
+
+Transportklagenemnda finner ikke å kunne anbefale at klager gis medhold.

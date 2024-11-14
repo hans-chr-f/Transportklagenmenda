@@ -1,0 +1,96 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Refusjon av utgifter til drosje.
+
+Dato
+17.11.2016
+
+Saksnummer
+033/16 K
+
+Tjenesteyter
+Ruter
+
+Klager har i det vesentlige anført: 17. mai 2016 kl. 10.52 skulle klager ta buss 75A fra
+Nordseter Gård i retning Lambertseter. Klager møtte opp ved bussholdeplassen kl.
+10.48.
+
+Bussen uteble og kl. 10.59 ringte klager til Ruters kundeservice. Etter å ha snakket med Ruters
+representant i 5 minutter uten avklaring, tok klager drosje kl. 11.05, siden rute 75A kun går én
+gang i timen.
+
+Klager er en trofast og alltid-betalende kunde og har aldri søkt om drosjerefusjon. Klager
+opplever at bevisbyrden ligger på ham og at han må bevise at han snakker sant. Klager har
+forsøkt å få ut logg på sin smart-telefons geo-tagging uten å lyktes med det.
+
+Klager krever at Ruter refunderer utgifter han hadde til drosje kr 217,-
+
+Ruter har i det vesentlige anført:
+
+Ruters reisegaranti gir kunden mulighet til å ta drosje for inntil kr 500,- dersom svikt i vårt
+tilbud skulle føre til at du blir mer enn 20 minutter forsinket til ditt bestemmelsessted.
+
+Klager skulle reise med busslinje 75A fra Nordseter Gård i retning Lambertseter kl. 10:52 den
+17. mai 2016. Hans påstand er at bussen uteble denne dagen og at han derfor er berettiget til
+å få sine utgifter til drosje dekket.
+
+Ruters busser er tilknyttet et sanntidssystem, som gjør at Ruter, så sant bussen er pålogget,
+kan se hvor bussen har vært i forhold til ruten sin. Dette systemet er GPS-basert og svært
+nøyaktig.
+
+Ruter har sjekket avgangen som klager skulle ta denne dagen, og bussen passerte
+holdeplassen kl. 10:52:01, altså i henhold til rutetiden 10.52.
+
+Ruter har ingen grunn til å tro at systemet hadde noen feil denne dagen, da alle data ser
+korrekte ut.
+
+Ruters påstand er at bussen har kjørt i henhold til oppsatt rute, og at det derfor ikke finnes
+grunn for å gi refusjon av drosje i dette tilfellet.
+
+Nemnda bemerker:
+
+I følge Ruters reisegaranti dekkes drosjeregninger med inntil kr 500 ved svikt i trafikktilbudet
+som fører til forsinkelser på mer enn 20 minutter.
+
+Ruter har opplyst at deres «sanntidssystem» viser at bussen passerte holdeplassen ved
+Nordseter gård i henhold til rutetiden, dvs. kl. 10.52.01.
+
+Etter anmodning fra nemnda har Ruter gitt følgende informasjon om sanntidssystemet:
+
+Ruter har et Sanntids- og informasjonssystem (SIS) som brukes på buss, trikk og T-bane. Når
+kjøretøyet settes i drift så logges det på systemet, som er GPS-basert og har en feilmargin
+på +/- fem meter. Trafikklederne kan følge kjøretøyene og «se» hvor de kjører i henhold til
+linjekartet.
+
+Lystavlene på holdeplassene viser hvor mange minutter det er til kjøretøyet kommer til den
+holdeplassen du står på. Her blir det gjort beregninger ut fra hvor lang tid det normalt vil ta
+å kjøre strekningen fra der kjøretøyet er og frem til holdeplassen. Ved for eksempel kø eller
+andre hindringer, så kan det ta lengre tid denne det som står opplyst. Dersom kjøretøyet ikke
+er logget på vil det stå betegnelsen «ca.» foran minutt-tallet.
+
+Vi har også tilgang til historikken i sis, det vil si at vi i ettertid kan finne ut om bussen var i
+rute eller ikke. Vi kan lete opp på dato og linjenummer, da får vi opp alle avganger som er
+satt opp på den linjen den aktuelle datoen. Dersom en avgang ikke er logget på systemet vil
+den være merket med rødt, og det eneste vi får opp vil være oppsatt rutetid, men vi vil ikke
+kunne se når bussen faktisk var på holdeplassen. De bussene som er logget på kan vi følge
+i linjekartet, vi får opp oppsatt rutetid ved hvert enkelt stoppested, vi får vi sett når bussen
+ankom stoppestedet, om den stoppet eller bare passerte, og når den forlot stoppestedet på
+sekundnivå ..
+
+Nemnda viser til at Ruter har opplyst at det ikke er noen grunn til å tro at systemet hadde
+noen feil denne dagen da alle data ser korrekte ut.
+
+Nemnda finner etter en samlet vurdering ikke sannsynliggjort at bussen uteble. Det er følgelig
+ikke grunnlag for refusjon.
+
+Transportklagenemnda finner ikke grunnlag for å anbefale å ta klagen til følge.
+
+Vedtak:
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis medhold i
+refusjon av utgifter til drosje.
+
+Vedtaket er enstemmig.

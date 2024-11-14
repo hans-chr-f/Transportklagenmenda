@@ -1,0 +1,133 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om sletting av gebyr for manglende billett.
+
+Dato
+16.06.2015
+
+Saksnummer
+7/15 J
+
+Tjenesteyter
+NSB
+
+Krav om sletting av gebyr for manglende billett.
+
+Klager har i det vesentlige anført:
+
+Klagers ektefelle og datter tok toget fra Oslo til Heggedal den 5. januar 2015. Ved
+billettkontroll ble klagers datter ilagt bot av NSBs kontrollør for manglende billett.
+
+Klagers ektefelle benytter reisekort med reisepenger. Dette kortet ble også benyttet for å
+betale for deres datter, en student på 21 år. I følge Ruters hjemmesider skal en holder av
+reisekort samtidig kunne kjøpe opp til 15 enkeltbilletter, som legges samlet inn i reisekortet.
+For den aktuelle reisen ble dette forsøkt gjort (for 2 personer) uten hell. Klagers ektefelle
+kjøpte en enkeltbillett for seg selv, betalte med reisekortet og aktiverte billetten. Datteren
+forsøkte så å kjøpe billett for seg selv for samme strekning med samme reisekort. Siden hun
+er student, valgte hun «Student» på billettautomaten og fikk da opp en informasjonsside
+om studentpriser. Hun klikket «OK» på informasjonssiden for å gå videre. Hun ble da
+presentert med et skjermbilde som sa «Denne reisen er dekket av din forrige billett». Basert
+på informasjonen gitt av billettautomaten tok hun så reisekortet i trygg forvissning om at hun
+hadde gyldig billett.
+
+Klager viser til bilder av skjermteksten og mener at NSBs/ Ruters billettautomater har en
+programmeringsfeil som gjør at kunden ikke får kjøpt billetten vedkommende forsøker å
+kjøpe. Automatens logikk er med andre ord feil.
+
+Beskjeden som ble vist på automaten er så klar i sin ordlyd og mening at den verken kan
+misforstås eller tolkes på noen som helst måte. Hvis NSBs intensjoner var andre enn de
+som fremkommer gjennom beskjeden som vises på automaten, så er det NSBs ansvar å
+komme fram til, og synliggjøre, disse intensjonene gjennom en korrekt beskjed. Ansvaret
+for NSBs tvetydighet og manglende samsvar mellom intensjoner, arbeidsprosesser og
+applikasjonsutvikling påligger NSB ene og alene.
+
+På bakgrunn av dette mener klager at hans datter har blitt urettmessig ilagt kontrollgebyr.
+
+Klager krever gebyret slettet.
+
+NSB har i det vesentlige anført:
+
+Billetten til klagers ektefelle ble kjøpt og validert under bestillingsdialogen på
+billettautomaten. Hennes billett i reisekortet var da aktivert for denne reisen, og flere billetter
+på samme reisekort kunne da ikke kjøpes/valideres innenfor denne billettens gyldighet på
+samme strekning.
+
+Inntil 15 personer kan reise samtidig på et Ruter reisekort når bestilling blir gjort samtidig.
+Bestiller man flere billetter samtidig og validerer, så vil alle billettene bli validert samtidig
+slik at billettene har samme gyldighet for start og slutt. Etter at reisestrekning er valgt i
+bestillingsdialogen får kunden valg om hvor mange som skal reise og type reisende; student,
+honnør m.m. Det vises til skjermbilder av bestillingsdialogen. Klager valgte å se bort fra dette
+og avbrøt heller ikke prosessen.
+
+Klager mener man må kunne gjennomføre en bestilling, validere billetten, for så å gi
+reisekortet til «nestemann» for å bestille en ny reise på samme strekning/tid. Automaten/
+reisekortet har ikke en slik funksjonalitet. Det ville da ikke være samtidighet verken i bestilling,
+validering eller gyldighet. NSB og Ruters automater har samme funksjonalitet når det gjelder
+dette.
+
+Klagers datter fikk korrekt beskjed med «denne reisen er dekket av din forrige billett».
+
+Automaten kan umulig vite at det er en annen person som skal ha ny billett for samme reise
+og varsler, til kundens beste, at reisen allerede er dekket med forrige billett. Ny belastning/
+betaling og validering av billett blir da ikke gjort og det vises heller ikke en oppdatert status på
+at reisepenger er trukket. NSB mener klagers datter ut fra bestillingsdialogen burde forstått at
+det ikke ble foretatt noen bestilling. Hun burde derfor ikke ha tatt plass i ubetjent vogn, men
+derimot sjekket om det faktisk var slik at hun fikk reise gratis fordi billetten til medpassasjerer
+og kortinnehaver (mor) var betalt. Skulle man legge klagers syn til grunn, skulle inntil 15
+personer kunne reise samtidig men betale for kun 1.
+
+NSB er ikke kjent med tidligere lignende klager på brukerdialogen til automatene. NSB
+har vært i kontakt med Ruter og de er heller ikke kjent med klager på deres tilsvarende
+brukerdialog. NSB anser automatene som så enkle og brukervennlige som et selvbetjent
+system kan være.
+
+NSB finner ikke grunnlag for å frafalle gebyret.
+
+Nemnda bemerker:
+
+Det fremgår av NSBs transportvilkår § 4 C at passasjerer som ved kontroll ikke kan fremvise
+gyldig billett vil bli ilagt et gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om
+passasjeren ikke har opptrådt klanderverdig.
+
+Selv om grunnen til at klager ikke hadde gyldig billett skyldtes at hun trodde hun hadde en
+gyldig billett ut fra beskjeden på automaten, endrer dette ikke det faktum at klager ikke kunne
+fremvise noen billett under billettkontrollen. NSBs kontrollører kunne derfor ilegge henne et
+gebyr i henhold til transportvilkårene.
+
+Det er passasjerens ansvar å ha gyldig billett. Nemnda mener det må være den reisende selv
+som må påse at man har en gyldig billett og dersom man er i tvil om man har fått gjennomført
+kjøp av billett ved automat, bør man oppsøke en betjent vogn og sjekke med konduktøren.
+
+Nemnda har i den videre vurdering av saken delt seg i et flertall og et mindretall.
+
+Flertallet, lederen og forbrukernes representanter, viser til at klagers datter har antatt
+at beskjeden «Denne reisen er dekket av din forrige billett», innebar at hun ikke
+trengte å foreta seg noe mer. Flertallet mener bestillingsdialogen på billettautomaten
+er utydelig. Det må gis uttrykkelig beskjed om at man ikke kan kjøpe billett nr. 2
+når man legger kortet på for andre gang etter første kjøp av en billett. Systemet
+er til å misforstå og kunne enkelt vært unngått ved at beskjeden om at billettkjøp
+nr. 2 på samme reisekort ikke er mulig, vises med en gang man har lagt kortet i
+billettautomaten og ikke først etter å ha foretatt valg av antall billetter og billettype.
+
+Flertallet anbefaler at NSB frafaller gebyret i dette tilfellet.
+
+Mindretallet, bransjens representanter, kan ikke se at bestillingsdialogen er utydelig
+eller at informasjonen er mangelfull på automatene. Det er mulig å kjøpe to billetter
+på samme reisekort, men dette må gjøres i én og samme bestilling ved at man velger
+antall reisende og type billett hver enkelt skal ha. Dette har klagers ektefelle og datter
+ikke gjort i henhold til bestillingsdialogen på automaten.
+
+Mindretallet er imidlertid enig i at det er svakhet ved systemet og at beskjeden heller kunne
+vært formulert slik at det fremgår tydeligere at et billettkjøp nr. 2 ikke er mulig.
+
+Mindretallet finner imidlertid ikke grunnlag for å anbefale at NSBs gebyr for manglende billett
+frafalles.
+
+På bakgrunn av flertallets vurdering traff nemnds slikt
+
+Vedtak:
+
+Transportklagenemnda - jernbane anbefaler at NSB frafaller gebyret.

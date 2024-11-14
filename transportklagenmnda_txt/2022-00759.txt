@@ -1,0 +1,221 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet forsinkelse, samt
+erstatning for unødvendig eksponering for covid-19.
+
+Dato
+20.12.2022
+
+Saksnummer
+2022-00759
+
+Tjenesteytere
+Finnair
+Nordic Regional Airlines Oy
+Qatar Airways
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Oslo til Delhi via Helsinki den 29. desember 2021 med følgende
+reiserute:
+
+AY916 29DEC OSLHEL 1715 1935 (Operert av NORRA - Nordic Regional Airlines)
+AY121 29DEC HELDEL 2020 0620+1
+
+AY916 ble forsinket slik at klager mistet sin videreforbindelse fra Helsinki til Delhi.  Klager
+ble innlosjert på hotell etter lang diskusjon med Finnair vedrørende omruting. De ble
+booket om til et morgenfly til Stockholm, hvor de måtte reise fra hotellet kl. 05:00.
+Omrutingsplanen var som følgende:
+
+30.12.21- Helsinki-Stockholm flightnr: AY0801 avgang Helsinki: 07:45 ankomst Stockholm:
+07:45. Stockholm-Doha flightnr: QR0170 avgang Stockholm: 08:40 ankomstid: 16:50.
+Doha-Delhi flightnr: QR580 avgang Doha: 02:00 31.12.21ankomst Delhi: 08:05.
+
+Klager ble nektet adgang på flyet med Qatar i Stockholm, grunnet endret flightnr på
+selfdeclaration form til India, noe Finnair hadde informert om at gikk automatisk.
+Dermed fikk de reisende en ny rute.
+
+Andre omrutingen fra Stockholm 30.12.21: Stockholm-Helsinki flightnr: AY0808 avgang
+Stocholm: 13:15 ankomst Helsinki: 15:20. Helsinki-Doha flightnr: AY6001 avgang Helsinki:
+16:30 Ankomst Doha: 23:25. Klager ble nektet adgang på flyet med Qatar i Helsinki
+grunnet at de ikke hadde mat til klager på flyet og sa selv at de spesifikt hadde bedt
+Finnair om å ikke ombooke klager til denne flyvningen.
+
+Tredje omrutingen fra Helsinki 31.12.21: Helsinki-Amsterdam AY1301 avgang Helsinki:
+08:15 Amsterdam-Delhi KL871 avgang: 12:00. Denne videre flygningen nektet klager på
+grunn av lang ventetid i Amsterdam, etter nesten ingen søvn og mat de siste 2 dagene og
+et ekstremt høyt stressnivå. I tillegg mistet klager bagasje og ble unødvendig eksponert
+for Covid-19. Nå krevde klager en direkteflyvning fra Helsinki til Delhi uten mellomlanding
+som i opprinnelige reiserute. Neste direktefly
+til Delhi gikk 1 januar og klager ble booket inn på Scandic de neste to dagene (30.12.21 til
+01.01.22).
+
+Klager ble eksponert for covid-19 under reisen og testet dermed positivt. Han havnet i
+isolat på Scandic Helsinki Airport før avreise 01.01.22.
+
+Finnair ville ikke gi klager årsaken til uregelmessighetene på flyplassen, men har senere
+skrevet på mail at det var flere årsaker til at flyet var forsinket. Videre står det i svaret
+fra Finnair: liten forsinkelse kom fra tidligere flyvning fra Hamburg til Helsinki, grunnet
+lufttrafikk kontroll restriksjoner relatert til ansatte og utstyr på ruten. Tidligere Helsinki-
+Oslo flyet var forsinket grunnet sen de-icing fra flyplassens tjenesteleverandør.
+
+Klager har anført at han kun krever standarderstatning for forsinkelsen, samt
+unødvendig eksponering av covid-19.
+
+Tjenesteyterne har i det vesentlige anført
+Nordic Regional Airlines (NORRA) har anført følgende:
+
+Selskapet benekter klagers krav relatert til flyvningen som ble operert av NORRA fra Oslo
+til Helsinki den 29.12.2021. Klager har forespurt standarderstatning på 600 EUR i henhold
+til EU-forordning 261/2004. 
+
+Originale flyvninger:
+000 OS/AY 916 Z 29DEC 3 OSLHEL LK2 1715 1935/FF *1A/E* Forsinket 2 timer and 43
+minutter.
+000 OS/AY 121 Z 29DEC 3 HELDEL LK2 2020 0620+1/FF *1A/E* Mistet videreforbindelse
+000 OS/AY 122 Z 19APR 2 DELHEL LK2 0915 1415/FF *1A/E*
+000 OS/AY 915 Z 19APR 2 HELOSL LK2 1605 1635/FF *1A/E*
+
+Omruting:
+065 AS/QR 302 H 30DEC 4 HELDOH TK2 1630 2325/NN *1A/E*
+065 AS/QR 570 H 31DEC 5 DOHDEL TK2 1410 2015/NN *1A/E*
+
+Ny omruting:
+
+086 AS/AY 801 H 30DEC 4 HELARN TK2 0745 0745/TK E*
+086 AS/QR 170 H 30DEC 4 ARNDOH TK2 0840 1650/NN *1A/E*
+
+086 AS/QR 580 H 31DEC 5 DOHDEL TK2 0200 0805/NN *1A/E*
+
+Ny omruting:
+265 AS/AY1301 H 31DEC 5 HELAMS TK2 0815 0955/TK E*
+265 AS/KL 871 M 31DEC 5 AMSDEL TK2 1200 0030+1/TK E*
+
+Faktisk omruting:
+287 AS/AY 121 Y 01JAN 6 HELDEL TK2 2020 0620+1/TK E*
+
+AY916 fra Oslo til Helsinki ankom sent i Helsinki, og gruppen mistet sin videreforbindelse
+til Delhi. 
+
+NORRA viser til en rapport som viser historisk vær-rapport fra værstasjonen ved Helsinki-
+Vantaa lufthavn onsdag den 29. desember 2021.
+
+Flyvningen ble forsinket 120 minutter grunnet sen de-icing posisjon fra flyplassen da
+AY915 forlot Helsinki.
+
+Ytterligere åtte minutters forsinkelse ble forårsaket av obligatoriske sikkerhetsårsaker
+ved Oslo Lufthavn. Det var også rotasjonsforsinkelse på 22 minutter på forutgående rute
+(årsak til å betale EU-kompensasjon).
+
+EU-domstolen har i sak C315/15, Pešková and Peška v. Travel Service A.S., stadfestet
+at dersom det er flere årsaker til flyforsinkelsen som involverer både ekstraordinære-
+og andre omstendigheter utenfor denne kategorien, så kan forsinkelsen knyttet
+til den første hendelsen trekkes fra totalforsinkelsen når en skal bestemme om
+standarderstatning skal utbetales.
+
+Ettersom det dessverre ikke er daglige flyvninger fra Helsinki til Delhi, ble gruppen
+omrutet via Arlanda/Stockholm for å fly med et annet flyselskap til Doha, og deretter til
+Delhi. 
+
+NORRA forstår at de ble nektet ombordstigning (muligens grunnet manglende
+reiseskjema påkrevd av Indiske myndigheter). De returnerte til Helsinki den 30.
+desember. Andre lands myndigheter sine restriksjoner er utenfor flyselskapets kontroll.
+
+NORRA forsøkte å omrute dem via Doha til Delhi med Qatar Airways, men Qatar Airways
+aksepterte ikke flere passasjerer på flyvingen, så dette var ikke mulig. NORRA sine
+ansatte forsøkte å foreslå flere omrutingsalternativer, men gruppen ønsket å vente til
+direkteflyvningen med avgang den 1. januar.
+
+Reisetiden var i den mest travle ferietiden, og med omicron-utbruddet (mange
+flykanselleringer for alle flyselskap grunnet sykdom hos flybesetningen og høyt
+sykefravær). Det var veldig vanskelig å finne den beste løsningen for gruppen. De ønsket
+ikke å reise separat.
+
+NORRA tilbød care-utgifter i henhold til EU-forordning 261/2004.
+
+NORRA sørget for hotell nær flyplassen i to netter, middager og frokoster på hotellet,
+samt to vouchere hver for lunsj.
+
+NORRA har også avtalt å sørge for de nye covid-testene.
+
+NORRA har iverksatt alle mulige tiltak i situasjonen for å sørge for å løse problemet så
+fort som mulig og transportere passasjeren til hans destinasjon så fort som mulig. 
+
+Qatar Airways har anført følgende:
+
+Passasjerene ble omrutet av Finnair grunnet uregelmessighet på den opprinnelige
+utreisen fra Oslo til Helsinki den 29. desember 2021.
+
+Historikken indikerer også at påfølgende omrutingsalternativer på QR var påkrevd av
+transportøren som forårsaket den opprinnelige uregelmessigheten da tidsrammen for
+dokumentasjon/PCR-testing/vaksinasjon/passasjer-lokaliseringsskjema for covid-19-krav
+til passasjerens destinasjonsland (India) ville også blitt ugyldig.
+
+Utenfor QR-operatørens kontroll og i full overensstemmelse med dokumentasjonen
+for endelig destinasjonsland COVID-19 og PCR-testingskrav og/eller restriksjoner – på
+plass på det tidspunktet – 29./30. desember 2021 - ble passasjerer pålagt å oppdatere
+statusen/gyldigheten til PCR-testingen/passasjerlokalisatoren deres før de går ombord til
+deres endelige destinasjon (Delhi) med QR.
+
+Finnair har anført følgende:
+
+Saken ser ut til å være besvart av NORRA, ettersom Finnair ikke er korrekt motpart.
+
+Nemnda bemerker
+
+En passasjer som kommer mer enn 3 timer forsinket frem til sitt endelige
+bestemmelsessted, har rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf EU-forordning 261/2004 artiklene 5, 6 og 7, samt EU-
+domstolens avgjørelser i sakene Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson
+med flere av 23.10.2012 (C-581/10).
+
+Værforhold som påvirker flytrafikken ved at det ikke er mulig å lande/ta av, ved at det
+oppstår overbelastning på flyplassen med mer, kan være en ekstraordinær omstendighet
+i forordningens forstand som medfører at den reisende ikke har krav på erstatning. Dette
+må vurderes konkret.
+
+Flyselskapet Nordic Regional Airlines har uttalt at forsinkelsen fra Gardermoen skyldtes
+sent innkommet fly fra Helsinki grunnet dårlige værforhold; stengte rullebaner, dårlig
+sikt og køer ved de-icing ved flyplassen i Helsinki. Uttalelsen er underbygget med logger
+og rapporter. Nemnda kan basert på ovenstående ikke anbefale at klager gis rett til
+standarderstatning i henhold til EU-forordning 261/2004 for forsinkelsen av AY916 den
+29. desember 2021.
+
+Det er ikke bestridt at klager ble booket om og hadde gyldig billett med Finnair og Qatar
+Airways fra Helsinki til Delhi via Stockholm og Doha den 30. desember 2021: 
+AY801 30DEC HELARN 0745 0745
+QR170 30DEC ARNDOH 0840 1650
+QR580 31DEC DOHDEL 0200 0805
+
+Klager med reisefølge ble imidlertid nektet ombordstigning i Stockholm på QR170 med
+den begrunnelse at han ikke hadde gyldig egenerklæringsskjema. Klager hevder han fikk
+beskjed fra Finnair om at dette ville gå automatisk. 
+
+Klager ble ombooket av Finnair, men ble igjen nektet ombordstigning på AY6001 i
+Helsinki, da klagers billett ikke var gyldig ved innsjekk hos Qatar Airways. 
+
+Etter EU-forordning 261/2004 skal flyselskapet gi passasjerer som nektes ombordstigning
+mot sin vilje, jf. artikkel 4, standarderstatning i samsvar med artikkel 7, tilbud om
+refusjon av flybillettprisen eller omruting snarest mulig til bestemmelsesstedet, jf.
+artikkel 8, og nødvendig hotellinnkvartering, jf. artikkel 9.   
+
+Før saken behandles i nemnda, skal partene gis mulighet til å uttale seg om både
+faktiske og rettslige sider av saken. Dersom partene ikke benytter seg av sin adgang til
+å uttale seg, kan nemnda likevel treffe vedtak på grunnlag av de opplysninger som er
+fremkommet tidligere i saken, jf. transportklagenemndforskriften § 5-3.
+
+Finnair har ikke avgitt uttalelse til nemnda angående nektet ombordstigning på QR170
+den 30.12.2021 og på AY6001 den 30.12.2021. Nemnda legger etter dette klagers
+anførsler til grunn. 
+
+Nemnda legger til grunn at klager ble nektet ombordstigning på QR170 og på AY6001
+grunnet henholdsvis feil informasjon fra Finnair, og feil ombooking av Finnair. Nemnda
+mener etter dette at klager har krav på standarderstatning med 600 euro for hver av
+hendelsene.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Finnair utbetaler 1 200 euro til klager.

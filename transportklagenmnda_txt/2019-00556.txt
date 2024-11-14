@@ -1,0 +1,109 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Ilagt gebyr som følge av teknisk problem i mobilapplikasjon
+
+Dato
+11.03.2019
+
+Saksnummer
+2019-00556
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager reiste med trikken fra Aker Brygge 20. desember 2019 da hun ble ilagt gebyr. 
+
+Før klager gikk ombord i trikken kjøpte hun billett via RuterBillett appen og betalte
+med Vipps. På grunn av problemer med Ruter appen gjorde klager to forsøk på å kjøpe
+billett, og den siste gangen virket det betaling var ok og klager gikk ombord i trikken. Da
+trikken kjørte fra Aker Brygge kom kontrollen og klager gikk inn på telefonen for å hente
+frem billetten. RuterBillett appen hang seg opp og kontrolløren ba klager legge frem
+legitimasjon uten noen videre forklaring. Kort tid etterpå får klager beskjed om å signere
+på et gebyr. 
+
+Klager forklarer kontrolløren at hun har kjøpt billett, men at RuterBillett appen har hengt
+seg opp. Hun prøver så å vise kontrolløren at det er trukket 2 x 35 kroner i nettbanken.
+Kontrolløren hisser seg opp og roper til klager at billett må kjøpes før ombordstigning.
+Klager forsøker å forklare kontrolløren situasjonen, men han står på sitt til tross for
+at han ikke har sjekket klagers telefon. Klager nekter å skrive under på gebyret, og
+kontrolløren ender opp med å slenge gebyret på klager. 
+
+Når det gjelder Ruters tilsvar til nemnda har klager følgende kommentarer: 
+
+Ruters påstand om at billetten ble betalt for sent avvises. Billetten ble betalt før klager
+gikk på trikken. Klager ber Ruter fremskaffe bevis som viser når kontrollen fant sted, og
+hvordan tidspunktet for start av kontroll faktisk registreres. 
+
+Sekundert er Ruter ansvarlig for feil som foreligger i Vipps appen. Det er Ruter som har
+inngått et samarbeid med Vipps og er følgelig ansvarlig for at den betalingsfunksjonen
+faktisk fungerer. Dette følger også av ulovfestet objektivt ansvar at Ruter er den
+nærmeste til å bære risikoen. 
+
+Ruter har selv sagt at klager fikk "betaling OK" i Vipps appen, og da kan det ikke være
+klagers ansvar som passasjer å dobbeltsjekke dette i etterkant. Videre bemerker klager
+at det ikke er mulig å endre betalingsløsning "raskt" via RuterBillett appen. Ruter må
+gjerne gjøre denne øvelsen selv før de fremmer en slik påstand. 
+
+Klager krever at Ruter frafaller gebyret og at selskapet kommer med en beklagelse.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på trikken 20. desember 2018 fordi hun ikke hadde gyldig billett. 
+
+Klager har tre forsøk på kjøp av billett i sin app-ID og alle disse forsøkene er gjort etter
+at trikken forlot Aker Brygge, hvor klager opplyser at hun kom på. Billettene ville derfor
+uansett vært kjøpt for sent. Billetten må være bekreftet før en går om bord. 
+
+I RuterBillett appen finnes det flere muligheter for å betale, Vipps er en mulighet, men
+det er også mulig å legge inn flere betalingskort. På den måten har man mulighet til å
+betale dersom et av alternativene ikke skulle fungere. 
+
+I dette tilfellet var problemet at betaling ikke gikk gjennom i Vipps appen. Selv om en får
+betaling OK i Vipp, må man forsikre seg om at billetten blir lastet ned i RuterBillett appen
+og at nedtelling starter. Noe som ikke ble gjort i dette tilfellet. Kjøpet blir da avbrutt og
+pengene som er reservert blir tilbakeført til konto. Klager vil kunne se i sin nettbank at
+hun ikke er trukket for disse forsøkene, noe som også er forklaringen på hvorfor hun ikke
+lenger kan finne disse kjøpene. Det ville vært mulig å betale med et betalingskort dersom
+dette hadde vært lagret i billettappen. Ruter kan ikke ta ansvar for feil som ligger hos
+tredjepart. 
+
+Klager viser til at hun har fått dokumentasjon fra sin bank på tidspunktet for når billett
+ble forsøkt kjøpt. Den eneste dokumentasjonen Ruter har mottatt på dette er et utsnitt
+fra en chat, uten at denne sier noe om hva saken dreier seg om. Det er ikke gjort noen
+forsøk på kjøp som passer tidspunktene, så Ruter kan ikke se at dette er relevant for
+denne saken. 
+
+Ruter kan på bakgrunn av overnevnte ikke se noen grunn til å endre standpunkt i denne
+saken.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på trikken fordi hun ikke hadde gyldig billett.
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å ha
+gyldig billett før ombordstigning eller før passering av kontrollsoner.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ved kontrollen ikke vise gyldig billett og vilkårene for å ilegge gebyr var til
+stede. 
+
+Nemnda viser til at det fremgår av Ruters sanntidssytem at trikken forlot Aker brygge kl.
+19.23.37.
+
+Klagers forsøk på å kjøpe billett er registrert henholdsvis kl. 19.24.36, 19.24.57 og
+19.25.14. Dette viser at klagers forsøk på å kjøpe billett ikke ble gjort før hun gikk ombord
+på trikken. 
+
+Nemnda kan ikke se at det er grunnlag for å anbefale at gebyrene frafalles.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold

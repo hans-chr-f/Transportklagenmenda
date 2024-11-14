@@ -1,0 +1,98 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr - manglende gyldig billett
+
+Dato
+21.01.2021
+
+Saksnummer
+2020-03364
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr den 26. september 2020. Klager anfører at hun hadde kjøpt billett.
+Hun forklarer at hun har et reisefølge som kan dokumentere dette. Klager anfører at
+det var appen som hadde teknisk feil og dette mener hun er noe som ikke kan gå utover
+kunden. Klager anfører at hun hadde betalt for billetten og forklarer at hun viste frem til
+kontrollørene at beløpet var blitt trukket i nettbanken. Videre anfører hun at hun sjekket
+om hun hadde gyldig billett før hun gikk ombord. Hun forklarer at hun fikk feilmelding da
+hun gikk av bussen. 
+
+Hun anfører at billetten forsvant da hun åpnet den og at hun ikke tenkte på å ta bilde
+av billetten når betalingen først gikk igjennom fordi hun ikke trodde dette kom til å bli et
+problem, ettersom det kom opp en billett på skjermen hennes etter at hun hadde betalt.
+Klager forklarer at hun hadde betalt for billetten og fått den opp på telefonen og mener
+det ikke er riktig å legge feil fra AtB sin side over på kunden.
+
+Etter at klager har mottatt AtB sitt tilsvar i saken presiserer hun at billetten kom opp,
+men at problemet oppstod da hun senere skulle åpne billetten igjen for å vise den frem
+til kontrollørene. Klager forstår ikke hvordan hun skulle ha skjønt at det var et problem
+med billetten. Hun mener det er tydelig at feilen ligger hos AtB, siden hun som kunde
+gjorde sin del ved å betale for billetten og deretter se billetten komme opp. Klager mener
+det er urimelig å bli ilagt gebyr i dette tilfellet. Hun legger også til at hun hadde kjøpt
+billett flere minutter før hun gikk på trikken, samt at pengene hadde blitt trukket fra
+konto. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+
+Klager ble ilagt gebyr 26. september 2020. AtB gikk over til åpen billettering i forbindelse
+med ny rutestruktur i Trondheim den 3. august 2019. Ved åpen billettering kan den
+reisende gå om bord i bussen uten å registrere/validere eller vise frem billetten for
+sjåfør, så lenge billetten er kjøpt/aktivert før påstigning. Mobilletten er gitt 30 minutter
+lengre aktiveringstid. Dersom man ikke kan fremvise gyldig billett ved kontroll ilegges
+tilleggsgebyr. AtBs regelverk gjelder for alle som befinner seg ombord på AtB sine
+transportmidler. 
+
+Kontrollen ble gjennomført på linje 9 den 26. september 2020 kl. 12:52. I AtBs
+Mobillettsystem bemerkes det at klager forsøkte å kjøpe to mobilletter samme dag.
+Det var på tidspunktene kl. 12:23 og på samme tidspunkt som kontrollen, det vil si kl.
+12:52. Statusen på begge bestillingene var "feilet", noe som betyr at bestillingen ikke gikk
+igjennom. Årsaker til at dette kan skje ved betaling via VIpps er at man enten avbryter
+bestillingen eller det er noe galt med selve bankkortet som er koblet opp mot Vipps. 
+
+AtB registrerer at fra tidligere kjøpshistorikk at klager totalt har bestilt 30 enkeltbilletter
+via Mobillett som også har fått betalingsstatus "feilet". AtB har tatt stikkprøver i noen av
+de aktuelle tidspunktene, for å se om det har vært problemer i AtBs Mobillettsystem i
+disse tilfellene. Ingen av billettkjøpene som ble gjort den 26. september 2020 i perioden
+kl. 12:23 til kl. 12:31 har fått status "feilet". Basert på dette er det overveiende sannsynlig
+at problemene klager har erfart ved kjøp av billett må ha vært lokale problemer utenfor
+AtBs kontroll. AtB legger til at det finnes flere betalingsalternativer for å kjøpe Mobillett.
+Dersom man erfarer problemer ved bruk av Vipps, kan man i tillegg betale med Mobillett
+konto, betalingskort eller telefonregning. 
+
+Det fremgår av bruksvilkårene for Mobillett og SMS-billett at denne skal være ferdigkjøpt
+før påstigning. Det er derfor viktig at den reisende selv passer på at man mottar en billett
+tilbake før påstigning. 
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi gebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på bussen den 26. september 2020 da hun ikke kunne vise gyldig
+billett.
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning.
+
+Av pkt. 6.2 følger at det skal ilegges tilleggsavgift dersom den reisende ikke kan vise
+gyldig billett. Klager kunne ved kontroll ikke vise gyldig billett og vilkårene for å ilegge
+tilleggsavgift var dermed til stede. AtB har opplyst at forsøk på billettkjøp både kl. 12.23
+og 12.52 har fått betalingsstatus feilet. 
+
+Nemnda bemerker at det ved kjøp av billetter via app er den reisendes ansvar å sørge for
+at billetten blir lastet ned og deretter også aktivert før påstigning.  
+
+Ifølge AtB var det ikke registrert feil i Mobillettsystemet.
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

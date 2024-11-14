@@ -1,0 +1,100 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om refusjon grunnet dobbelt bestilt reise.
+
+Dato
+27.05.2014
+
+Saksnummer
+705/13F
+
+Tjenesteyter
+Tripmonster
+
+Klager har i det vesentlige anført:
+
+Klager bestilte den 2. oktober 2013 en reise på Tripmonster. Han fylte inn navn og
+kortnummer, men fikk opp følgende feilmelding: «Error, betaling mislykket prøv på nytt».
+Klager prøvde på nytt, og endte opp med å ha betalt for reisen to ganger.
+
+Klager stiller seg sterkt kritisk til hvordan det går an å motta to forskjellige referansenummer
+på akkurat samme bestilling, på under fire minutter.
+
+Klager krever refundert den ene reisen.
+
+Det vises for øvrig til klagers brev.
+
+Tripmonster har i det vesentlige anført:
+
+Klager kjøpte en reise på Tripmonsters nettside, en den 2. oktober kl. 15:09. En reiseplan ble
+umiddelbart sendt til klagers e-post adresse. Deretter bestilte klager en ny reise samme dag
+kl. 15:13, og en ny reiseplan ble sendt.
+
+Bookingsystemene kjenner ikke til om en passasjer bestiller flere reiser i samme navn og på
+samme strekning og tidspunkt. Da klager hadde betalt den første reisen, gikk han tilbake på
+nettsiden for å legge inn betaling på nytt. Bookingsystemet husker den siste forespørselen
+som ble foretatt, dvs. samme datoer og strekning ble vist i bestillingsbildet. Derfor ble det
+kreert en ny reise da klager la inn kredittkortopplysninger på nytt.
+
+Tripmonster har vært i kontakt med flyselskapet, men de kan ikke hjelpe da det er ingen
+refusjon på billettene klager har kjøpt. Ettersom det er ingen refusjon på billettene kan heller
+ikke Tripmonster være behjelpelig med refusjon.
+
+Tripmonster har gjort hva de kan i denne saken ved å kontakte flyselskapet. Først den 3.
+oktober kl. 14:03 ble reisebyrået kontaktet av klager per e-post. Han mottok da et automatisk
+svar som viste til svarfrist på 24 timer. Til tross for at det var under 24 timer til avreise
+kontaktet ikke klager Tripmonster per telefon eller via chat.
+
+Tripmonster kan ikke holdes ansvarlig for klagers feilbestilling, og kan på grunnlag av
+ovennevnte dessverre ikke imøtekomme hans krav.
+
+Det vises for øvrig til Tripmonsters brev.
+
+Nemnda bemerker:
+
+Det står påstand mot påstand om hva som har skjedd.
+
+Klager anfører at han ved første bestilling fikk en feilmelding om at betalingen mislyktes, prøv
+på nytt. Han fulgte dette og bestilte på nytt.
+
+Tripmonster bestrider på sin side dette og anfører at de har gått gjennom sine logger og at
+det der fremgår at alt har gått uten problemer.
+
+Det er vanskelig for nemnda å vite hva som er skjedd. Nemnda har ikke kjennskap til de
+aktuelle datasystemer og sammenhengen mellom disse. Nemnda har heller ingen datateknisk
+kompetanse.
+
+Nemnda har ved den videre vurdering av saken delt seg i et flertall og et mindretall.
+
+Flertallet, lederen og forbrukernes representanter, finner det imidlertid underlig om
+klager skulle ha bestilt samme reise med fire minutters mellomrom uten at han fikk
+feilmelding eller noe ga ham grunn til å tro at første bestilling ikke gikk igjennom.
+Flertallet kan ikke se at den forklaring Tripmonster gir, skal gi grunnlag for dette.
+
+Flertallet finner etter en samlet vurdering av de foreliggende opplysninger det mest
+sannsynlig at klager har fått en feilmelding som han angir. Feilmeldingen er gitt under
+bestillingsdialogen på Tripmonsters hjemmeside, og flertallet er av den oppfatning at
+Tripmonster er nærmest til å dekke den oppståtte ekstrautgift.
+
+Flertallet anbefaler at Tripmonster erstatter klagers ekstrautgift på NOK 1 990.
+
+Mindretallet, bransjens representanter, er av den oppfatning at Tripmonster ikke
+hadde mulighet til å påvirke at klager reserverte samme reise to ganger. Klager bestilte
+selv sin reise via internett, og mindretallet er av den oppfatning at klager selv må bære
+ansvaret for feil som ledet til at det ble generert to bestillinger.
+
+Mindretallet finner det sannsynlig at klagers første bestilling rent teknisk tilsynelatende
+har forløpt normalt ved at bekreftelse er sendt til klagers e-post, og klager har fått et
+referansenummer. Da det var god tid til avreise og bestilling fant sted på dagtid, er
+mindretallet av den oppfattning at når klager var usikker på om bestilling var OK - til tross for
+at det ble sendt bekreftelse på e-post - burde han ringt Tripmonster for å avklare om bestilling
+OK - før klager gjennomførte ny bestilling. Mindretallet mener således at klager selv må dekke
+sitt tap.
+
+På bakgrunn av flertallets vurdering traff nemnda slikt
+
+Vedtak:
+
+Transportklagenemnda - fly anbefaler at Tripmonster betaler NOK 1 990 til klager.

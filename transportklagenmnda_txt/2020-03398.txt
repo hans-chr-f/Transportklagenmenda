@@ -1,0 +1,97 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr - billett kjøpt for sent
+
+Dato
+08.01.2021
+
+Saksnummer
+2020-03398
+
+Tjenesteytere
+AtB AS
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr 22. september 2020 da han reiste med bussen fra Dalen Hageby
+til Strindheim. Klagers representant, hans far, anfører at det ikke er holdbart bevis i
+en slik sammenheng at AtB etter koordinering og samstilling av forskjellige system og
+tidspunkt har kommet frem til at billetten sannsynligvis ble kjøpt av hans sønn 20-30
+sekunder etter påstigning. Representanten anfører videre at kontrolløren bevisst satte
+tidspunktet for kontrollen tilbake i tid, 3-4 minutter, slik at det skulle fremstå på en slik
+måte at billettkjøpet skjedde i forbindelse med kontrolltidspunktet. Representanten
+mener at gebyret er ilagt basert på uriktig angivelse fra kontrolløren. 
+
+Etter at klager har mottatt AtB sitt tilsvar i saken legger representanten til at det fremgår
+av sanntidsinformasjonen at kontrollørene har jukset med tiden for å få informasjonen
+til å stemme. Siden representanten mener dette er i tråd med informasjonen han har
+mottatt fra sin sønn opprettholder han påstanden om at gebyret er utskrevet på et
+uriktig grunnlag. Representanten presiserer at gebyret ble skrevet kl. 07:52 og ikke kl.
+07:47. Representanten legger også til at det er ca. 1 minutt mellom holdeplassene Dalen
+Hageby og Strindheim. 
+
+Klager krever frafall av gebyret.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på linje 25 den 22. september 2020. 
+
+AtB forklarer at i forbindelse med innføring av ny rutestruktur i Trondheim, gikk AtB over
+til åpen billettering. Dette innebærer at den reisende kan gå om bord i bussen uten å
+registrere/validere eller vise frem billett for sjåfør, så lenge billetten er kjøpt/aktivert før
+påstigning. Dersom man ikke kan fremvise gyldig billett ved kontroll ilegges tilleggsgebyr.
+
+AtB viser videre til bruksvilkår for Mobillett, hvor det fremgår at Mobillett og SMS-billett
+skal kjøpes før man går om bord i bussen og at det ikke er tilstrekkelig å kjøpe Mobillett
+etter at man har gått om bord.
+
+Kontrollen ble gjennomført den 22. september 2020 kl. 07:47. Klagers representant har
+i sin opprinnelige klage til AtB skrevet at sønnen så på telefonen idet kontrolløren fylte
+ut gebyrblanketten, og da var kl. 07:51. I slike tilfeller hvor det er stor mangel på samsvar
+mellom partene, bør man vektlegge tidspunkter som blir logget automatisk i systemer
+som dokumentasjon. 
+
+Kontrollørene sjekker sin synkroniserte klokke i det bussen kjører inn til holdeplassen
+(eller forlater forrige holdeplass dersom den er synlig). I dette tilfellet ble kontrollen
+startet kl 07.47, når bussen var mellom Dalen Hageby og Strindheim 2. Klokkeslett
+for når gebyrblanketten blir fylt ut sier ingenting om tidspunkt for start av kontroll.
+Bussens faktiske passeringstid som var kl. 07:47:14 fra Dalen Hageby stemmer med det
+kontrollørene har satt som kontrollstart i sin kontrollørrapport. 
+
+Kjøpstidspunkt blir logget i AtBs Mobillettsystem. AtB har ved behandling av klagen vært
+i dialog med leverandøren av Mobillettsystemet, og således fått eksakt kjøpstidspunkt
+fra utvikler. Her fremgår det at kjøpstidspunktet var 07.47.27, hvilket svarer til billettkjøp
+etter start av kontroll. 
+
+På grunn av ovennevnte informasjon finner AtB ikke grunnlag for å ettergi
+tilleggsgebyret.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på bussen den 22. september 2020 fordi han ikke kunne fremvise
+gyldig billett ved kontroll.
+
+Det følger av AtBs transportvedtekter pkt. 3 a og b at det er den reisendes ansvar å ha
+gyldig betalingsmiddel og å ha gyldig billett ved påstigning. Av transportvedtektenes pkt.
+6.2 følger det at det skal ilegges tilleggsavgift dersom den reisende ikke kan vise gyldig
+billett. Bestemmelsen er objektiv. Gebyr kan således ilegges selv om passasjeren ikke har
+opptrådt klanderverdig.
+
+Det vises til at tidspunktet for kjøp, kl. 07:47:27, var etter at bussen hadde kjørt
+fra holdeplassen hvor det er opplyst at klager gikk ombord. Bussen kjørte ifølge
+sanntidsloggen fra Dalen Hageby kl. 07:47:14 og siden klager gikk ombord på denne
+holdeplassen skulle billetten vært aktivert før påstigning, det vil si før kl. 07:47:14. Siden
+klagers billett ikke var aktivert ved påstigning var det derfor grunnlag for å ilegge gebyr,
+da det følger av transportvedtektene nr. 11 at en elektronisk billett skal være aktivert ved
+påstigning på et transportmiddel. 
+
+Klager hadde ikke gyldig billett da han gikk på, og det var således grunnlag for ileggelse
+av gebyr. Nemnda kan derfor ikke se at det foreligger en grunn til å ettergi gebyret i dette
+tilfellet.
+
+Vedtak
+
+Transportklagenemnda for kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold.

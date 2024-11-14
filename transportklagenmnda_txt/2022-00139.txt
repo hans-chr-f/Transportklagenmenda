@@ -1,0 +1,119 @@
+Vedtak i Transportklagenemnda - Sjø
+
+Sammendrag
+
+Krav om rettelse av uriktig registrering av AutoPass brikke.
+
+Dato
+05.04.2022
+
+Saksnummer
+2022-00139
+
+Tjenesteytere
+Skyttel AS
+
+Klager har i det vesentlige anført
+
+Klager registrerte sin gamle AutoPASS brikke på ny bil den 19. oktober 2021. Klager har
+vært i kontakt med Fremtind service hvor de forklarer at brikken var aktiv fra og med den
+20. oktober 2021. 
+
+Den 20. oktober 2021 reiser klager sørover fra Bodø for å hente ny bil. På veien ble det
+tre fergepasseringer og noen veistasjoner med AutoPASS. Passeringene langs veien ble
+registrert, men på fergene tok de bare bilde av bilens registreringsnummer. 
+
+Klager har vært i kontakt med Skyttel som mener at klagers bil ikke hadde aktiv brikke,
+mener at den ikke var registrert i databasen de bruker.
+
+Tjenesteyterne har i det vesentlige anført
+Skyttel anfører at de har en brikkeliste der vi kan søke opp ønsket bil/brikke for å se
+status, uansett hvilket selskap brikken er fra. Denne oppdateres hver dag og kalles en
+statusliste. 
+
+Statuslisten viser om en bil har en gyldig brikke eller ikke, i tillegg til å vise når brikken og
+bil er koblet sammen og aktiv. Den viser også historikk på når biler og brikker var koblet
+sammen tidligere og når brikke ble stoppet på en aktuell bil. Det vises til vedlegg om
+statuslisten som viser at brikke: xx93 var knyttet til gammel bil: ZT frem til 29.11.2021,
+mens ny bil: YF ikke var koblet til brikke før 30.11.2021. Da det ikke var en avtale på bil på
+passeringstidpunkt blir det sendt fullprisfaktura. Hadde Skyttel sett i ettertid når klager
+første gang henvendte seg til Skyttel AS, at brikke var gyldig på passeringstidpunktet
+kunne vi i ettertid ha flyttet passeringer til brikkeavtale, men systemet tillater ikke dette
+så lenge ikke brikke var gyldig på denne bil på passeringstidspunktet.
+
+Klager skal ha fått bekreftet av Fremtind Service AS at ny bil og brikke var koblet opp mot
+hverandre19.10.21. Statuslisten viser ikke at dette har gått i orden. Det er også sjekket
+opp at systemene var oppdaterte og at Skyttel hadde den nyeste informasjonen. Det
+vises til vedlegg på faktura xx78 som klager har mottatt fra Fremtind Service AS. Denne
+fakturaen viser at gammel bil fremdeles står registrert på klager avtale ved senere dato i
+november. 
+
+I mailkorrespondanse mellom Skyttel og klager er det lagt frem at brikke ikke var koblet
+til bilen klager reiste med, og at selv om brikken var fysisk i bilen er det skrevet: «Det
+er som tidligere nevnt ikke tilstrekkelig at brikken befinner seg i bilen. Brikken må også
+tilhøre det aktuelle registreringsnummeret brikken benyttes på. Det har ikke vært tilfellet
+her.»
+
+Det er deretter skrevet: «Dersom det har vært feil i databasen hos Fremtind Service,
+anbefales du å søke om refusjon av manglende rabatt hos dem. Vi må forholde oss til
+status på brikken på passeringstidspunktet og ved passering 20.10.21 tilhørte brikke
+xx93 ikke reg.nr YF.» Skyttel viser videre til side 10 i vedlegget fra klager, at Fremtind har
+sagt de skal refundere de 10% som kunde skulle ha hatt om passeringene var belastet
+brikke.
+
+Klager hevder at AutoPASS for ferje ikke har oppdaterte systemer. Fergene klager har
+tatt brukte AutoPASS ferjekort som betalingsmåte frem til før Coronatiltak kom til Norge.
+Fra og med 06.04.2020 har disse fergene gått over til bildegjenkjenning og bruker ikke
+brikke som et fysisk betalingsmiddel. Signalet fra brikken blir ikke lest slik som i en
+bomstasjon. Det blir istedenfor tatt bilde av skilt og fergepassering går til den avtalen
+som er registrert på bilen. Er ikke bil registrert på en brikkeavtale eller en fergeavtale vil
+det bli sendt fullprisfaktura til eier av kjøretøyet. Viser til lov om midlertidig billettering:
+https://lovdata.no/dokument/LTI/lov/2020-05-26-55
+
+§ 2. Billettering
+Billettering etter denne lov kan gjennomføres ved identifikasjon av kjøretøyet gjennom
+registrering av kjennemerke eller AutoPASS-brikke.
+
+Skyttel har forklart i mailkorrespondanse til klager: «Det stemmer at ferjestrekningen
+fakturaen gjelder, Forøy - Ågskaret, er et ferjekortsamband. Nå som ikke ferjekortene
+fysisk tas imot på ferjen blir det tatt bilde av skiltet, og det sjekkes deretter opp om
+bilen har noen avtale. Dersom bilen har enten brikke eller ferjeavtale belastes dette.
+Finnes det ingen avtale sendes det fullprisfaktura. YF hadde ingen gyldig avtale ved
+passeringstidspunktet, og det er derfor sendt faktura.»
+
+Skyttel AS har svart klager i mailkorrespondanse på hvorfor det er sendt fullprisfaktura,
+noe vi legger frem her i tilsvaret, og viser også til at det er rett at passeringer er sendt slik
+og ikke gått via brikkeavtalen.
+
+Nemnda bemerker
+
+Klager ble belastet for fullpris på ferge og ikke gjennom AutoPASS brikke, og fikk da ikke
+10% rabatt på passeringen.
+
+Skyttel har bemerket at på flere ferger brukes skiltavlesning som betalingsløsning.
+De har en brikkeliste der de kan søke opp ønsket bil/brikke for å se status, uansett
+hvilket selskap brikken er fra. Denne oppdateres hver dag og den kalles en statusliste.
+Statuslisten viser om en bil har en gyldig brikke eller ikke, i tillegg til å vise når brikken og
+bil er koblet sammen og aktiv. Den viser også historikk på når biler og brikker var koblet
+sammen tidligere og når brikke ble stoppet på
+en aktuell bil. 
+
+Når et reg.nr blir avlest sjekkes det opp mot en
+statusliste. Dersom reg.nr ikke har en gyldig AutoPASS avtale ved passering kan ikke
+passeringen belastes i avtalen, og således ikke gis avtalt rabatt. Statuslisten viste at
+klagers brikke var koblet til gammel bil frem til 29.11.2021, og han ble således fakturert
+for fullt beløp. 
+
+Nemnda kan ikke se at det har blitt gjort noen feil fra Skyttel sin side. De har forholdt seg
+til den informasjonen som har vært tilgjengelig. Feilen synes å måtte ligge hos Fremtind.
+
+Det er videre noe uklart hva klager krever, men nemnda forstår klager dit hen at han
+krever beløpet mellom full pris og rabattert pris som anført i e-post av 3. februar 2022. 
+
+Det fremgår av e-postkorrespondanse mellom klager og Fremtind, at Fremtind vil
+refundere klager rabatten på 10%. Klager har således ikke hatt noen ekstra kostnader
+ved dette, og det er ikke grunnlag for refusjon.
+
+Vedtak
+
+Transportklagenemnda sjø finner ikke å anbefale at klager gis medhold.

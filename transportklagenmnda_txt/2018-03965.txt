@@ -1,0 +1,130 @@
+Vedtak i Pakkereisenemnda
+
+Sammendrag
+
+Krav om standarderstatning ved forsinkelse.
+
+Dato
+26.03.2019
+
+Saksnummer
+2018-03965
+
+Tjenesteytere
+TUI Norge AS
+
+Klager har i det vesentlige anført
+
+Klager kjøpte en pakkereise for to personer med innkvartering i et dobbeltrom på Hotel
+San Marco, Alghero, Sardinia i perioden 30.05.2018 - 06.06.2018. Totalpris kr. 8.824.
+
+TUIfly Nordics rute BLX5553 ble forsinket fra Oslo til Sardinia den 30.05.2018.
+Forsinkelsen ble på 5 timer.  
+
+Klagers representant har anført: "Ifølge våre opplysninger skyldtes ikke forsinkelsen
+ATC men derimot tekniske problemer med flyet (SE-RFX) som oppstod på en av
+de foregående rotasjoner samme dag (6B307). Forsinkelsen forplantet seg til de
+etterfølgende flyvningene (først 6B308 og deretter vår klienters flyvning 6B553)."
+
+Klager krever standarderstatning etter EU 261/2004 på 400 euro per person, totalt 800
+euro.
+
+Det vises for øvrig til korrespondanse fra klager.
+
+Tjenesteyterne har i det vesentlige anført
+TUI vil aller først korrigere en skrivefeil i svar som ble lagt inn i sakens dokumenter den
+18. desember. Her skriver de at den aktuelle ankomst tiden til Oslo ble kl. 23.50. Det
+riktige skal være at den aktuelle ankomst tiden til Sardinia ble kl. 23.50.
+
+TUI har lagt ved en offisiell NOTAM til TUI Group vedrørende ATC streiken. Som det her
+fremkommer i punkt 1 til 7 ble det kun innvilget tillatelse til å fly for spesielle flyvninger
+i tidsrommet fra kl. 07.00 – kl. 10.00 UTC tid. Dette tilsvarer fra kl. 10.00 – kl. 13.00 lokal
+gresk tid. Ingen andre flyvninger fikk tillatelse til å lande eller ta av i dette tidsrommet.
+
+"VALID: 30 MAY 07:00 2018 UNTIL 30 MAY 10:00 2018.
+
+A1448/18 - DUE TO INDUSTRIAL ACTION OF AIR TRAFFIC CONTROL
+PERSONNEL,
+PARTICIPATING IN GENERAL STRIKE PROCLAIMED BY THE SUPREME
+ADMINISTRATION OF GREEK CIVIL SERVANTS TRADE UNION (ADEDY) ON
+30TH MAY 2018, FLIGHTS DESTINED/DEPARTING TO/FROM GREEK AIRPORTS
+WILL BE AFFECTED.
+ONLY THE FOLLOWING FLIGHTS WVILL BE SERVED:
+1.ALL ACFT OVERFLYING ATHINAI FIR/HELLAS UIR.
+2.VIP FLIGHTS (HEADS OF STATES-PRIME MINISTERS).
+3.ALL STATE OPERATIONAL ACFT PARTICIPATING IN SCHEDULED MISSIONS
+AND EXERCISES.
+4.FLIGHTS IN UNUSUAL OR EMERGENCY SITUATIONS.
+5.HOSPITAL FLIGHTS.
+6.HUMANITARIAN FLIGHTS.
+7.SEARCH AND RESCUE FLIGHTS."
+
+TUIfly Nordic hadde 12 flyvninger som ble påvirket av den greske ATC streiken den 30
+mai 2018. Klagers representant skriver i sakens dokument den 4. januar at de vil at
+Pakkereisenemnda skal fortsette behandlingen av saken, også etter å ha mottatt svaret
+fra TUIfly Nordic. De skriver videre at forsinkelsen ikke skyldes ATC streik, men tekniske
+problemer. De skriver at det ovennevnte er ifølge deres opplysninger, men de legger ikke
+ved noe som beviser dette.
+
+TUI har lagt ved logg for flyet (SE-RFX) den 30. mai 2018: " Planlagte lokale tider for
+overnevnte fly (SE-RFX) er som følger:
+Avgang fra Oslo Lufthavn med BLX307 kl. 06.40, ankomst til Zakynthos kl. 11.30
+Avgang fra Zakynthos med BLX308 kl. 12.40, ankomst til Oslo Lufthavn kl. 15.35
+Avreise fra Oslo Lufthavn med, BLX553 kl. 16.50, ankomst Sardinia kl. 20.05"
+
+Som det fremkommer ovenfor, i den offisielle NOTAM, ble alle greske flyplasser påvirket
+av ATC streiken. TUIfly Nordic hadde 12 berørte flyvninger. Årsaken skyldes den
+ekstraordinære omstendigheten som ikke kunne vært unngått selv om alle rimelig tiltak
+var truffet. TUI viser i den anledning til EU-forordningens Artikkel 5, punkt 3:
+«Et transporterende luftfartsselskap skal ikke være pålagt å betale erstatning i samsvar
+med artikkel 7 dersom det kan godtgjøre at innstillingen skyldes ekstraordinære
+omstendigheter som ikke kunne vært unngått selv om alle rimelig tiltak var truffet».
+
+Videre viser TUI til sitt svar til klagers representant, lagt inn i saken den 18. desember
+2018, hvor de viser til EU-forordning 261/2004, side to og punkt 14).
+
+Videre viser TUI til lenken til Friederike Wallentin-Hermann mot Alitalia, dom C-549/07, og
+viser til punkt 41, under det tredje spørsmålet. https://eur-lex.europa.eu/legal-content/
+SV/TXT/?uri=CELEX:62007CJ0549
+
+TUI Norge fastholder sin beslutning om at det på grunnlag av forsinkelsen oppsto som
+en følge av den greske ATC streiken, og forhold utenfor TUIfly Nordics kontroll, ikke
+utbetales erstatning i henhold til EU forordningen 261/2004 til passasjerene om bord på
+BLX553.
+
+Det vises for øvrig til korrespondanse fra TUI Norge AS.
+
+Nemnda bemerker
+
+Kansellering/innstilling av en flyreise gir rett til erstatning med mindre flyselskapet
+godtgjør at innstillingen skyldes ekstraordinære omstendigheter som ikke kunne ha
+vært unngått selv om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004.  Det
+er flyselskapet som må godtgjøre at det forelå en slik ekstraordinær omstendighet.
+Flyselskapet må videre godtgjøre at det har truffet alle rimelige tiltak for å unngå
+innstillingen.
+
+Innstilling/kansellering skyldtes i dette tilfelle at det var streik på flyplassen blant air
+traffic controll personell.  Flyplassen Zakynthos var i perioden streiken varte kun åpen for
+spesielle flyankomster/avganger, slik som VIP-flyvninger og ambulansefly.  Det aktuelle
+flyets bevegelser er dokumentert i en vedlagt movement log. 
+
+Streiken forplantet seg slik at den aktuelle flyavgangen klagerne reiste med ble
+forsinket med mer enn 3 timer. Nemnda finner at dette er en hendelse som lå utenfor
+flyselskapets kontroll og at den omfattes av begrepet "ekstraordinære omstendigheter
+som ikke kunne ha vært unngått selv om alle rimelige tiltak var truffet", jfr. EU-forordning
+261/2004 artikkel 5 nr. 3.  
+
+Klageren har i et slikt tilfelle ikke rett til standarderstatning etter EU-forordningen, men
+har rett til øvrige ytelser som fremgår av forordningen. Ettersom det kun foreligger
+en klage fra et profesjonelt klagested er det ikke gitt noen opplysninger om hvorvidt
+klagerne fikk forpleining i ventetiden. Nemnda kan derfor ikke vurdere om EU-direktivet
+artikkel 9 er overholdt. Det er klageren som må dokumentere at han eventuelt har et
+krav, og det er ikke gjort i denne saken.
+
+Pakkereisenemnda finner at forsinkelsen ikke er kompensasjonsberettiget i henhold til
+EU-forordning 261/2004, da årsaken til forsinkelsen var ekstraordinære omstendigheter
+utenfor selskapets kontroll.
+
+Vedtak
+
+Pakkereisenemnda finner ikke å kunne anbefale at klageren gis medhold.

@@ -1,0 +1,124 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om refusjon av dobbelt bestilt reise.
+
+Dato
+04.12.2018
+
+Saksnummer
+2017-03094
+
+Tjenesteytere
+Tripmonster / Tripmate
+
+Klager har i det vesentlige anført
+
+Den 5. oktober 2017 bestilte klager en reise hos Tripmonster t/r Oslo Antalya via Istanbul
+for reise 18. – 25. november 2017. 
+
+Bestilling 1907583 ble gjort den 5 oktober hvorpå klager fikk en bestillingsbekreftelse
+kl. 06:44. Kl. 06:48 mottok klager en ytterligere bestillingsbekreftelse med nr. 1907584.
+Samme morgen kl. 07:19 mottar klager en ny e-post fra Tripmonster hvor de hevdet at
+de ikke hadde mottatt betaling for bestilling 1907584. Klager mottok også en e-post fra
+Tripmonster om at det ikke var mottatt betaling for bestilling 1907583.
+
+Kundeservice ba klager booke ny reise da ingen betaling var registrert. 
+Klager booker så en ny reise den 10. oktober og får bestillings nr. 1911191. Samme dag
+fikk klager en bekreftelse på at flybilletten var tilgjengelig. Det ble også gjort enda en
+bestilling 1911188, men den ble kansellert.
+
+Bestilling 1907583 og 1907584 ble signert via bank id, men klager fikk beskjed om at
+Tripmonster ikke hadde mottatt betaling. Disse ble kansellert automatisk da ingen
+betaling har kommer inn.
+Bestilling 1907585 ble også signert via bank id og denne gikk gjennom uten at klager
+visste det. Klager har ikke mottatt noen mail på at denne bookingen gikk gjennom.
+Bestilling 1911188 ble også signert via bank id. Kundeservice ga på spørsmål beskjed om
+at klager ikke hadde noen gyldige billetter hos Tripmonster. 
+Bestilling 1911191 ble også signert via bank id og var vellykket. Denne skal klager
+benytte. 
+
+Klager krever å få slettet kravet på kr. 2019.
+
+Tjenesteyterne har i det vesentlige anført
+Når man bestiller på Tripmonsters hjemmeside vil bestillingsbekreftelsen alltid sendes til
+e-postadressen som ble oppgitt ved bestilling.
+
+Om man oppretter mer enn en bestilling med samme e-postadresse i løpet av samme
+dag, vil man umiddelbart få en advarsel på skjermen. Advarselen forklarer at du har gjort
+en booking med den angitte e-postadressen og spør om du vil gjøre en ny bestilling. 
+
+Tripmonster viser til klagers bestillingshistorikk: 
+
+5/10-2017 på kl. 6:44 gjør klager reservasjonen 1907583 gjennom vår nettside og
+deretter en bekreftelse sendes umiddelbart via e-post. Når klager velger å ikke betale
+dette med en gang blir det automatisk sendt en påminnelse om betaling samme morgen
+kl. 07:29. 
+
+5/10-2017 på 6:48 gjør klager også reservasjon 1907584, det blir her også sendt ut en
+automatisk påminnelse som den over. Påminnelsen sendes ut kl. 07:19. 
+
+Samme dag klokka 18:50, gjør klager sin tredje booking, denne med
+reservasjonsnummer 1907585. For denne reservasjonen velger klager å betale gjennom
+Ressursbank og betalingen er registrert kl. 06:52. Når betalingen er fullført, vil klager
+automatisk motta en e-post fra Resource Bank som bekrefter kjøpet. Denne e-posten
+inkluderer Tripmonster Booking nummer 1907585. På booking siden kan klager også se
+at betalingen er registrert, og deretter under "prisspesifikasjon" Samme kveld sendes
+også klagers billett (e-ticket) via e-post til oppgitte epostadresse, og til hennes personlige
+bestillingsside. Dette gjøres automatisk kl 20:46.
+
+10/10-2017 kontakter klager Tripmonster igjen, hvor hun etterlyser en faktura på booking
+1907584. Det blir forklart at denne bookingen ikke er aktiv pga. manglende betaling.
+
+Klager har så gjort enda en bestilling 1911191. Her er alt i orden. Deretter gjør klager en
+ytterligere bestilling 1911188 som hun velger å ikke betale.  
+
+Klager kontakter nå Tripmonster da hun mottar fakturaer fra Ressursbank. Dette er den
+17/11-17 dagen før hun skal reise. Det er først nå hun oppdager at hun har to identiske
+bookinger. Tripmonster tilbyr å kansellere den ene og søke om refundering.
+
+Tripmonster beklager det inntrufne og at de ikke vil erstatte noe da klager selv har
+dobbelt booket seg. 
+
+Tripmonster viser også til sine reisevilkår om betaling.
+
+Tripmonster anser ikke at de kan bli holdt erstatningsansvarlig for klagers krav på kr
+2019. Tripmonster kan ikke holdes ansvarlig for bestillingene hun har gjort og valgt å
+bekrefte gjennom å sluttføre sin betaling på Tripmonster sin hjemmeside.
+
+Det er sendt e-post for alle bestillinger, samt elektroniske billetter til bestillingene hun
+har valgt å fullføre med betaling til Ressursbank.
+
+Tripmonster har søkt om refusjon av den delen av flyskattene som refunderes av
+flyselskapet i henhold til reglene for begge billettene som Klager kjøpte og som hun
+ikke valgte å bruke. Vi refunderer beløpet vi mottar fra Turkish Airlines minus vår
+administrative avgift på 150 nok per billett når dette refunderes fra flyselskapet.
+
+Nemnda bemerker
+
+Saken gjelder flere bestillinger av samme reise på Tripmonsters nettside. 
+
+Nemnda legger til grunn at det er teknisk umulig å gjennomføre en bestilling på
+Tripmonsters nettside uten at kunden har gjennomført bestillingsprosessen, og at det
+automatisk sendes en epostbekreftelse til oppgitte epostadresse etter endt bestilling.
+Videre at klager gjennomførte fem nesten identiske bestillinger på Tripmonsters nettside,
+hvor tre ikke ble betalt og hvor to ble betalt med faktura. 
+
+I henhold til Tripmonsters regler og vilkår som klager må krysse av for å ha forstått og
+lest, kommer følgende frem:
+"Den reisende har selv ansvar for å forsikre seg om at eventuelle dobbeltbestillinger blir
+avbestilt uansett hvor de er gjennomført. Den reisende risikerer ellers at flyselskapet
+uten forvarsel avbestiller dobbeltbestillingen. Tripmonster tar ikke ansvar for
+flyselskapenes avbestillinger eller uteblitt tilbakebetaling i forbindelse med dette."
+
+Nemnda mener klager selv må bære ansvaret for at hun dobbeltbestilte reisene. 
+
+Det var ingen refusjon på billettene klager bestilte, og Tripmonster har tilbudt refusjon av
+refunderbare skatter og avgifter med fradrag av sitt servicegebyr. 
+
+Nemnda kan ikke anbefale at klager gis medhold i sitt krav.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler ikke at klager gis medhold i sitt krav.

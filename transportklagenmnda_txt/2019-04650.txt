@@ -1,0 +1,160 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning og refusjon av ny flybillett
+grunnet kansellering. Rolls Royce-fabrikasjonsfeil.
+
+Dato
+20.10.2020
+
+Saksnummer
+2019-04650
+
+Tjenesteytere
+Norwegian Air Shuttle
+
+Klager har i det vesentlige anført
+
+Klager skulle reise med DY7002 fra New York til Oslo den 8. september 2019 og deretter
+med D81734 fra Oslo til Palma de Mallorca. Planlagt ankomst for DY7002 i Oslo var kl.
+12.50 den 9. september, mens flyet videre til Spania skulle gå kl. 16.35. Planlagt ankomst
+på endelig bestemmelsessted var kl. 20.05 den 9. september.
+
+Flyvningen DY7002 ble imidlertid kansellert mindre enn syv dager før avgang. Klager har
+anført at han forsøkte å komme i kontakt med Norwegian på telefon, men at han ikke
+klarte dette. Han ble derfor nødt til å kjøpe nye flybilletter selv. Han anfører at han så seg
+nødt til å be om refusjon av billetten siden han ikke klarte å få hjelp til omruting, men at
+han ikke har mottatt disse pengene på tross av at Norwegian opplyser om at pengene er
+tilbakeført.
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004 for kanselleringen,
+i tillegg til refusjon av de nye flybillettene på 777,14 euro.
+
+Tjenesteyterne har i det vesentlige anført
+DY7002 skulle etter planen utføres av et fly av typen Boeing 787-8 med
+registreringsnummer LN-LNE. Denne flymaskinen har motorer av typen Rolls Royce
+Trent 1000 TEN. I 2018 ble det oppdaget en massefabrikasjonsfeil på turbinbladene til
+denne motortypen, som innebar at alle fly av typen Boeing 787-8 og 787-9 Dreamliner
+måtte gjennomgå en avansert teknisk inspeksjon. De første inspeksjonene ble
+gjennomført høsten og vinteren 2018. Mot slutten av mars 2019 ble det innført krav
+om ytterligere inspeksjoner av flyene. Det vises her til European Aviation Safety Agency
+(AESA) sitt Airworthiness Directive (AD) 2019-0099. Direktivet innebærer at alle fly med
+motorer av typen Rolls Royce Trent 1000 TEN må inspiseres etter nærmere angitte
+aktivitetsintervaller. Angjeldende flyvning ble kansellert som følge av en slik inspeksjon.
+
+I tilfeller der en uregelmessighet er forårsaket av en ekstraordinær omstendighet er
+flyselskapet fritatt plikten til å betale erstatning. Jf. artikkel 5 (3) i EU-forordning 261/2004
+er ikke flyselskapet forpliktet til å betale erstatning hvis det kan bevise at forstyrrelsen
+var forårsaket av en ekstraordinær omstendighet og at det iverksatte alle rimelige tiltak
+for å unngå den ekstraordinære omstendigheten.
+
+Norwegian viser i den sammenheng til EU-domstolens avgjørelse i saken C-257/14
+(van der Lans), avsnitt 38, som lyder slik: «visse tekniske fejl [kan] være omfattet af
+sådanne usædvanlige omstændigheder. Dette er f.eks. tilfældet, hvis den konstruktør,
+der har konstrueret det berørte luftfartsselskabs flåde af luftfartøjer, eller en kompetent
+myndighed afdækker, at luftfartøjerne, selv om de allerede er i drift, er behæftet med en
+skjult fabrikationsmangel, der påvirker flysikkerheden.»
+
+Det er normalt innen luftfarten å planlegge flere ruter med samme flymaskin og
+besetning. Det er i tillegg lagt opp til at det skal være en standby-besetning ved hver
+base, basert på statistikk, for å sikre den regelmessige flytrafikken der det trengs. Det
+kan derimot ikke forventes at et flyselskap skal ha tilgjengelig kapasitet i form av fly,
+besetning, piloter eller ingeniører ved alle flyplasser, eller ha forberedt wetlease for alle
+destinasjoner for å unngå forsinkelser og kanselleringer. Dette ville medført urimelig
+høye driftskostnader, som igjen ville ha ført til høyere priser på flybillettene. Planlegging
+av bruk av en flymaskin over flere sektorer, som i dette tilfellet, er ordinær praksis for
+å sikre god økonomisk utnyttelse av flymaskinen. Dette er også trukket frem av en tysk
+domstol (X ZR 121/13).
+
+På tidspunktet for direktivets ikrafttredelse forelå det ingen konkret plan for når den
+enkelte maskin skulle/måtte til inspeksjon. Det var derfor svært utfordrende å kartlegge
+fremdriften og legge en videre plan for å unngå driftsforstyrrelser.
+
+Norwegian har iverksatt alle tiltak som med rimelighet kunne treffes for å minimere
+driftsforstyrrelsene. På den bakgrunn er Norwegians vurdering at klager ikke er
+kompensasjonsberettiget.
+
+Hva gjelder refusjon av den alternative billetten gjør Norwegian oppmerksom på at
+følgende SMS ble sendt til passasjeren i bestillingen: «We're sorry to inform that your
+Norwegian flight DY7002 from New York (JFK) to Oslo (OSL) 08.09.2019 23:30 is cancelled
+due to technical issues. You can rebook or refund your ticket free of charge online.
+If you're unable to reasonably return home and you need accommodation, please
+contact our airport representatives to arrange hotel. To read about your rights visit
+www.norwegian.com/rights. For support, please call us on 1-800-357-4159. Other
+conditions may apply to tickets booked as part of a package or booked through a travel
+agency.»
+
+Denne SMS-en ble sendt kl. 21.42 norsk tid den 7. september 2019. Passasjeren ba om
+refusjon på nettet kl. 00.40 norsk tid den 8. september 2019. Dersom passasjeren hadde
+kontaktet Norwegian på telefon eller på annen måte for å be om omruting, ville dette
+være registrert i loggen. Det gjøres oppmerksom på at Norwegian kan kontaktes på flere
+måter: via skjema på nettet, på telefon eller via chat på Norwegian nettsider. I henhold til
+registrert logg ringte ikke klager, men han ba om refusjon på nettet samme kveld.
+
+Klager valgte således ett av alternativene i henhold til artikkel 8 nummer 1 i EU-
+forordningen – i dette tilfellet refusjon av billetten i stedet for omruting. Flyselskapet er
+dermed ikke ansvarlig for eventuelle tilleggsutgifter som passasjeren har pådratt seg.
+
+Norwegian viser også til at det i EU-kommisjonens tolkningsveiledning artikkel 4.2
+står følgende: «As a general principle, when the passenger is informed about the
+cancellation of the flight and is correctly informed on the available choices, the choice
+offered to passengers under Article 8(1) is to be made once. In such cases, as soon as
+the passenger has chosen one of the three options under Article 8(1)(a), (b) or (c), the air
+carrier no longer has any obligation linked to the other two options.
+
+Norwegian anser at klager kjøpte nye flybilletter med annet selskap på eget initiativ og vil
+ikke refundere utgiftene til alternative billetter.
+
+Nemnda bemerker
+
+Klagers flyvning DY7002 fra New York til Oslo den 8. september 2019 kl. 23.30 ble
+kansellert. Passasjerene fikk beskjed om kansellering den 7. september 2019 kl. 21.42.
+Klager hadde en videreforbindelse med Norwegian fra Oslo til Palma de Mallorca.
+
+Kansellering gir rett til standardkompensasjon med mindre flyselskapet godtgjør at
+innstillingen skyldes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordningen 261/2004 artikkel 5.
+
+Nemnda legger til grunn at årsaken til kanselleringen av DY7002 den 8. september 2019
+var en skjult fabrikasjonsfeil som ble oppdaget på Rolls Royce Trent 1000-motorene
+som benyttes på Norwegians flymaskiner av typen Boeing 787 (Dreamliner). Det er
+på disse motorene behov for inspeksjoner etter nærmere angitte aktivitetsintervaller.
+Nemnda mener at skjulte fabrikasjonsfeil må anses som en ekstraordinær omstendighet
+i forordningens forstand, og viser til EU-domstolens avgjørelse i C-257/14 (Van der Lans).
+
+Nemnda viser til at problemet med motorene hadde vært kjent siden 2018, og det ble
+innført krav om ytterligere inspeksjoner i mars 2019, altså et halvt år før den aktuelle
+flyvningen. Flyene med denne type motorer må inspiseres etter nærmere angitte
+aktivitetsintervaller. Nemnda forutsetter derfor at det foreligger en forutberegnelighet
+for når disse inspeksjonene vil bli gjennomført og når det eventuelt vil oppstå
+uregelmessigheter. Norwegian kan ikke vite hva resultatet av inspeksjonen vil bli.
+
+Nemnda kan i dette tilfellet ikke ta stilling til om kanselleringen skyldtes funn ved
+inspeksjonen. Nemnda mener at det er for dårlig forklart hva som skjedde med det
+aktuelle flyet. Nemnda kan ikke se at flyselskapet har godtgjort at alle rimelige tiltak
+er truffet for å unngå kanselleringen. Klager har derfor krav på 600 euro i erstatning i
+henhold til forordningen.
+
+Klager har også fremsatt krav om refusjon av 777,14 euro for nye flybilletter. Etter EU-
+forordning 261/2004 artikkel 8 nummer 1 har passasjeren ved kansellering rett til å få
+valget mellom refusjon og omruting snarest mulig.
+
+Norwegian har anført at det ikke er registrert at klager forsøkte å ta kontakt med
+Norwegian på telefon for å be om omruting før han sendte inn en forespørsel
+om refusjon av billetten. Klager har på sin side opplyst at han ikke kom gjennom
+på telefon til Norwegian, og det fremgår av fremlagte dokumenter at han den 8.
+september kl. 00.24 kjøpte en tur-retur-billett fra New York til Palma de Mallorca med
+Air Europa. Nemnda bemerker at Norwegian ikke har opplyst om det fantes noe aktuelt
+omrutingsalternativ til klager. Nemnda mener derfor at Norwegian må erstatte klagers
+kostnader til omruting, fratrukket allerede refundert beløp.
+
+Vedtak
+
+Transportklagenemnda - fly anbefaler at Norwegian utbetaler 600 euro i
+standarderstatning i tillegg til 777,14 euro for de nye flybillettene, fratrukket det som er
+refundert for de opprinnelige billettene.
+
+Forbrukerrepresentant Maite de Geus-Cossard, Forbruker Europa, hadde uventet
+forfall. De resterende medlemmer fant det forsvarlig å behandle saken, jf.
+transportklagenemndforskriften § 5-5 femte ledd.

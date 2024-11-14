@@ -1,0 +1,95 @@
+Vedtak i Transportklagenemnda
+- Kollektivreiser
+
+Sammendrag
+
+Krav om frafall av gebyr ved reise med T-bane.
+Problemer med betaling ved hjelp av Vipps
+
+Dato
+19.11.2019
+
+Saksnummer
+2019-02535
+
+Tjenesteytere
+Ruter
+
+Klager har i det vesentlige anført
+
+Klager ble ilagt gebyr under en kontroll fordi hun ikke fikk frem noen billett i RuterBillett
+appen, til tross for at hun hadde kjøpt billett. 
+
+Tidligere den dagen gjennomførte klager to billettkjøp i RuterBillett appen hvor hun
+betalte med Vipps, uten at hun registrerte at det ikke ble utstedt noen billett i appen.
+Da klager skulle bytte buss gikk hun inn i applikasjonen og oppdaget at hun ikke hadde
+billett. Klager stusset over dette ettersom det var kort tid siden hun hadde kjøpt den
+forrige billetten, men kjøpte en ny på stedet. Hun ble da klar over at billetten ikke ble
+lastet ned i RuterBillett appen. En sjekk i nettbanken bekreftet at det var trukket 3
+enkeltbilletter til kroner 36. 
+
+Da klager skulle ta bussen fra Majorstuen til Oslo S kjøpte hun igjen en ny billett ved
+hjelp av Vipps, men ingen billett dukket opp i RuterBillett appen. Klager ble da stoppet i
+kontroll og ilagt gebyr. 
+
+Klager fastholder at dette dreier seg om en svikt fra Ruter sin side, og mener det er
+urimelig at hun skal holdes ansvarlig. Klager krever følgelig at Ruter frafaller gebyret,
+samt at hun får tilbakebetalt kroner 36 for dobbelt betalt enkeltbillett og at Ruter
+utsteder kvittering i appen for billettene hun har kjøpt og betalt den dagen.
+
+Tjenesteyterne har i det vesentlige anført
+Klager ble ilagt gebyr på T-banen fordi hun ikke hadde gyldig billett. I billettappen finnes
+det flere muligheter for å betale, hvor Vipps er en av dem. Om det ikke går an å betale
+med Vipps finnes det andre betalingsmåter i appen som bankkort/kredittkort, Apple Pay
+og PayPal. 
+
+Selv om man får betaling "OK" i Vipps-appen, må man forsikre seg om at billetten blir
+lastet ned og at nedtelling starter. Det skjedde ikke i dette tilfellet. Da blir kjøpet avbrutt
+og pengene som er reservert blir tilbakeført til konto. Det ville vært mulig å betale med
+et betalingskort dersom dette var lagret i billettappen. Ruter kan ikke ta ansvar for feil
+som ligger hos tredjepart. Det er kundens ansvar å påse at man har fått en aktiv billett
+før ombordstigning uansett betalingsmåte. 
+
+Ruter kan på bakgrunn av dette ikke se noen grunn til å endre standpunkt i denne saken.
+
+Nemnda bemerker
+
+Klager ble ilagt gebyr på T-banen 21. mai 2019 fordi hun ikke kunne vise noen gyldig
+billett. 
+
+Det fremgår av Ruters transportvilkår punkt 3 bokstav b at den reisende plikter å ha
+gyldig billett før ombordstigning eller før passering av kontrollsoner.
+
+Det følger videre av punkt 6.2 første avsnitt at passasjerer som ved kontroll ikke kan vise
+gyldig billett, vil bli ilagt gebyr. Bestemmelsen er objektiv. Gebyr kan således ilegges selv
+om passasjeren ikke har opptrådt klanderverdig.
+
+Klager kunne ikke vise gyldig billett og vilkårene for å ilegge gebyr var til stede.
+
+Nemnda bemerker at det er den reisendes ansvar å sørge for at man har gyldig billett. 
+
+Nemnda har merket seg at klagers opplysninger om at hun kjøpte billett to ganger
+tidligere på dagen, og at hun ved overgang fra den siste bussen oppdaget at billett ikke
+var lastet ned. 
+
+Etter nemndas syn hadde klager ved kjøp av enda en billett senere på dagen, ekstra
+foranledning til å sjekke om hun fikk lastet ned billett, og eventuelt sørge for å kjøpe
+billett på annen måte.
+
+Nemnda føyer til at det er sannsynlig at prosessen med kjøp av billett ikke ble fullført slik
+at billett ble lastet ned. Selv om betaling blir belastet konto i banken, blir beløpet ikke
+belastet før billett er lastet ned. 
+
+Nemnda finner ikke grunnlag for å anbefale at gebyret blir frafalt.
+
+Nemndas Forbrukerrepresentanter vil særlig bemerke at gebyr ikke bør ilegges dersom
+det det avdekkes i forkant av og under kontrollen at det er tekniske problemer i
+betalingsappen og at ilagt gebyr bør ettergis dersom dette oppdages i etterhånd. Det
+er derfor viktig at kommunikasjonen mellom Ruter og Vipps om eventuelle tekniske
+problemer til enhver tid er oppdatert, og at slike problemer enkelt lar seg bringe på det
+rene på forespørsel.
+
+Vedtak
+
+Transportklagenemnda Kollektivtransport finner ikke å kunne anbefale at klager gis
+medhold
