@@ -9,11 +9,12 @@ Transportklagenemnda egner seg godt til en slik undersøkelse. For det første e
 
 ## Framgangsmåte
 
-1. [Etablering av korpus med vedtak fra Transportklagenemnda](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)  
+1. [Etablering av korpus med vedtak fra Transportklagenemnda.](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)  
 Først laster vi ned alle vedtak fra transportklagenemnda som pdf-filer. Disse konverterer vi så til rene tekst filer. Vi prosesserer også alle vedtakene og fjerner navn på alle nemndsmedlemmer.
 2. Parsing av vedtak
-3. RAG
-4. Løsing av rettspørsmål
+3. Embedding av dokumenter og opplasting til vektordatabase.
+4. RAG
+5. Løsing av rettspørsmål
 
 
 ## Kontakt
