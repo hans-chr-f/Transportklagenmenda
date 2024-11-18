@@ -1,0 +1,98 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning samt forpleining grunnet forsinkelse.
+
+Dato
+14.06.2024
+
+Saksnummer
+2023-04041
+
+Tjenesteytere
+Swiss International Air Lines
+
+Klager har i det vesentlige anført
+
+Klager skulle reise fra Oslo til Malaga via Zürich den 4. desember 2023 med Swiss
+International Air Lines.  LX1219 fra Oslo til Zürich ble forsinket slik at klager mistet sin
+videreforbindelse. Han ble booket om via Paris, og ankom Malaga 8 timer og 20 minutter
+forsinket.
+
+Klager mener at minusgrader ikke automatisk gir utslag i en så lang forsinkelse. Klager
+mener det var omstendighetene rundt ombordstigningen som var den faktiske årsaken
+til forsinkelsen. Passasjerer måtte sende håndbagasjen i lasterommet, dette tok lang
+tid. I tillegg hadde de ikke kontroll på antall passasjerer ombord, noe som trakk ut tiden
+ytterligere.   
+
+Klager krever standarderstatning i henhold til EU-forordning 261/2004, samt erstatning
+for utgifter til mat og drikke på flyplassen i Zürich med EUR 61,9.
+
+Tjenesteyterne har i det vesentlige anført
+Klager var booket som følger:
+
+04.12.2023 LX1219 OSL-ZRH 08:40-11:10
+04.12.2023 LX2114 ZRH-AGP 12:35-15:10
+
+LX1219 ankom Zürich forsinket med 1 time og 44 minutter grunnet sterk kulde. METAR
+viser at temperaturer var ved -16 grader og at duggpunkt var ved -19 grader på det
+aktuelle tidspunktet.
+
+METAR: OSL/ENGM04Dec23 07:20 UTC
+Message: 34005KT 9999 BKN005 M16/M19 Q1017 NOSIG
+
+Klager ble ombooket til neste ledige avgang via Paris: 
+
+04.12.2023 LX644 ZRH-CDG 17:25-18:40
+04.12.2023 AF1748 CDG-AGP 21:10-23:40
+
+Swiss viser til ekstraordinære omstendigheter i henhold til artikkel 5 3. EC 261/2004, og
+flyselskapet må derfor avvise kravet om standarderstatning i henhold til artikkel 7 EC
+261/2004.
+
+Nemnda bemerker
+
+En passasjer som kommer mer enn 3 timer forsinket frem til sitt endelige
+bestemmelsessted, har rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf EU-forordning 261/2004 artiklene 5, 6 og 7, samt EU-
+domstolens avgjørelser i sakene Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson
+med flere av 23.10.2012 (C-581/10).
+
+Værforhold som påvirker flytrafikken ved at det ikke er mulig å lande/ta av, ved at det
+oppstår store forsinkelser med videre, kan være en slik ekstraordinær omstendighet som
+medfører at den reisende ikke har krav på erstatning. Dette må vurderes konkret.
+
+Swiss har forklart og dokumentert at det var kaldt på Gardermoen på tidspunktet, og har
+fremlagt METAR, samt utklipp av en logg som viser følgende tekst:  "OSL WTR SYSTEM
+FROZEN LX1219 ...". Swiss har imidlertid ikke forklart hvilket system som ble frosset, eller
+hvordan kulden påvirket dette systemet, slik at LX1219 ble forsinket. 
+
+Etter nemndas syn har Swiss i denne saken ikke godtgjort ekstraordinære
+omstendigheter, eller at forsinkelsen ikke kunne vært unngått selv om alle rimelige tiltak
+var truffet. Forsinkelsen gir etter dette rett til standarderstatning.
+
+Klager har videre krevet erstattet utgifter til mat og drikke i ventetiden. 
+
+I tilfeller hvor et fly kanselleres, eller forsinkes slik at klager mister sin videreforbindelse,
+og passasjeren blir booket om til en ny flyavgang, har passasjeren rett på å få dekket
+rimelige utgifter til mat og alkoholfri drikke i ventetiden, jf. EU-forordning 261/2004
+artikkel 9, jf. artikkel 5. 
+Klagers rett på refusjon av forpleiningsutgifter er imidlertid avgrenset til hva som var
+«nødvendige, passende og rimelige» ut fra ventetidens lengde. Dette følger av dom fra
+EU-domstolen i sak C-12/11 McDonagh avsnitt 51.
+
+Nemnda mener at utgiftene klager pådro seg til mat og drikke i ventetiden er et
+påregnelig tap, og nemnda anbefaler derfor at Swiss utbetaler EUR 61,9 til klager.
+
+Forbrukerrepresentanten mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standarderstatning eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at Swiss International Air Lines utbetaler
+standarderstatning til klager med EUR 400, samt erstatter hans utgifter til forpleining
+med EUR 61,9.

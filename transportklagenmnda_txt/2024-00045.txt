@@ -1,0 +1,96 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om kansellering av en booking. Anført teknisk feil/systemfeil ved bestilling.
+
+Dato
+07.10.2024
+
+Saksnummer
+2024-00420
+
+Tjenesteytere
+Supersaver
+
+Klager har i det vesentlige anført
+
+Klager (2 passasjerer) anfører at det ble bestilt én flyreise gjennom den ene passasjeren
+sin mobil. Det viser seg at Supersaver har registrert bookingen to ganger. Dette
+oppdaget ikke klager før de skulle sjekke inn på hjemreisen og fikk beskjed om at de
+hadde to returer per person. 
+
+Klager krever at den ene bookingen kanselleres. 
+
+Klager har ikke bestilt to reiser, slik det ser ut til å være registrert. Under en tidligere
+henvendelse til SuperSaver, opplevde de dessverre dårlig dekning på mobilnettet,
+spesifikt mellom Mo og Matre på Vestlandet. Denne forbindelsesutfordringen resulterte
+i at bestillingen ble gjennomført uventet mens de var på reise. Da dekningen ble
+gjenopprettet, mottok de bekreftelse på at bestillingen var fullført, og la ikke ytterligere
+vekt på dette.
+
+Klager vil gjerne understreke at de ikke bør påføres utgifter på grunn av systemfeil hos
+SuperSaver som resulterer i uventede bestillinger. Klager ber om at det undersøkes
+om det foreligger duplikatbestillinger med identisk informasjon, inkludert de samme
+reisedetaljer og personopplysninger.
+
+Tjenesteyterne har i det vesentlige anført
+Tjenesteyter har i det vesentlige anført: 
+
+Marco Polo Travel AS, Supersaver, er en formidler av de reisetjenester, inkludert
+flybilletter, som tilbys på nettsiden Supersaver.no. Vi opptrer utelukkende i vår kapasitet
+som formidlere og avtalen for det faktiske kjøpet av flybilletter og flytjenester trer i
+kraft direkte mellom forbrukeren og det aktuelle flyselskapet. Vi er ikke medleverandør
+av tjenester og er ikke part i avtaleforholdet mellom forbrukeren og flyselskapet.
+
+Dette innebærer at ansvaret vårt er begrenset til formidlingen og til de eventuelle
+ekstratjenester forbrukeren kjøper av oss. 
+
+Kunden booket sin første ordre (LVXGSM) den 6. november 2022 klokken 16:57:25.
+Bookingbekreftelsen for denne ordren ble korrekt levert til kundens oppgitte mailadresse
+klokken 16:57:49, hvilket er mindre enn 1 minutt etter at kunden bekreftet bookingen på
+vår hjemmeside. Ingen tekniske feil har skjedd fra Supersavers side når denne bookingen
+ble opprettet. 
+
+Kunden har benyttet billettene i denne bookingen. Supersaver kan dog informere om
+at kunden har startet en tvist angående betaling for denne bookingen, som har blitt
+avgjort til vår fordel, da det ikke er rimelig å få tilbakebetaling for et produkt somt har
+blitt benyttet i sin helhet. 
+
+Vi vil også påpeke at det ses på som urimelig at kunden ikke var vitende om at denne
+reisen hadde blitt booket ettersom kunden har benyttet billettene. Dette viser at kunden
+var klar over at denne bookingen ble laget. 
+
+Kunden booket deretter en identisk booking (LVXHV8) samme dag, klokken 17:01. Vi
+gjør oppmerksom på at den første ordrebekreftelsen allerede var levert hos kunden ved
+dette tidspunktet. Den andre bookingbekreftelsen ble også levert korrekt til kundens
+oppgitte e-postadresse, og dette skjedde klokken 17:02:03, hvilket også er innen et
+minutt fra kunden bekreftet bookingen på vår side. 
+
+Kunden har ikke benyttet billettene i denne bookingen og kunden har heller ikke
+kontaktet oss innen avreisen 8. desember 2022. Dette innebærer at kunden har blitt
+markert som no-show hos flyselskapet, og en full refusjon ble derfor ikke godkjent av
+Widerøe. Supersaver kan bekrefte at vi har mottatt skatter tilbake fra Widerøe for denne
+bookingen, og at disse har blitt videreformidlet til klagers opprinnelige betalingsmetode.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at klager hadde kjøpt billetter som ikke er refunderbare dersom
+kunden avbestiller reisen selv. Dette gjelder med unntak for det beløpet som utgjør
+myndighetspålagte skatter og avgifter, som klager allerede har fått refundert. 
+
+Nemnda har vurdert klagers anførsler, men finner at det ikke er sannsynliggjort at
+dobbeltbookingen skyldes systemfeil. Supersaver har fremlagt dokumentasjon som
+viser at ordrebekreftelse for første bestilling ble sendt et minutt etter at bestillingen ble
+foretatt, og at neste bestilling skjedde fem minutter senere. Nemnda mener at klager
+selv har et ansvar for å undersøke situasjonen nærmere når det oppstår feil i bestillings-
+og betalingsprosesser ved kjøp på internett. 
+
+Basert på partenes forklaringer, finner nemnda det mest sannsynlig at det forhold at
+bestillingen har blitt gjennomført to ganger skyldes feil på klagers side som Supersaver
+ikke kan lastes for. Nemnda mener derfor at klager selv må bære ansvaret for egen
+bestilling av nye billetter.
+
+Vedtak
+
+Transportklagenemnda kan ikke anbefale at klager gis medhold.

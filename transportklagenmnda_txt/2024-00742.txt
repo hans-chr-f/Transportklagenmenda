@@ -1,0 +1,181 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning som følge av kansellering.
+Tredjeland til EU. Codeshare. Reduksjon i standarderstatning.
+
+Dato
+23.10.2024
+
+Saksnummer
+2024-00658
+
+Tjenesteytere
+SAS
+United Airlines
+
+Klager har i det vesentlige anført
+
+Klager (to passasjerer) skulle reise fra Miami til Oslo via Newark 13. januar 2024.
+Billettene ble bestilt gjennom Norwegian Cruise Line. 
+
+Klagers reiserute så slik ut: 
+
+13/01/2024 SK8740 Miami – Newark 2:25 pm – 5:35 pm 
+13/01/2024 SK908 Newark – Oslo 6:55 pm – 8:30 am 
+
+Dagen før flyvningen, ble klager informert om at flyet fra Miami – Newark (SK8740) hadde
+blitt kansellert, og klager ble av SAS ombooket til: 
+
+13/01/2024 UA9809 Miami – Zurich 16:40 – 07:50 
+14/01/24 SK3516 Zurich – Oslo 09:55 – 12:20. 
+
+Klager krever standarderstatning for kanselleringen, eventuelt forsinkelse fordi de ankom
+Oslo 3 timer og 50 min forsinket. 
+
+Klager har fått avslag fra SAS med den begrunnelse at flyvningen ikke er markert med
+SAS prefiks SK, noe klager ikke forstår da de har bestilt hele reisen gjennom et reisebyrå
+og alle flyvningene var med SAS og markert med SAS prefiks SK. Bagasjetagger er
+utstedt av SAS på alle flyvningene, og klager har også fått bonuspoeng med SAS på alle
+flyvningene – også de omrutede. SAS sier at SK8740 ble kansellert, men «operert av»
+United Airlines. Dette oppleves som ansvarsfraskrivelse da klager har bestilt hele reisen
+gjennom SAS, og det er SK-prefiks på alle deres billetter.
+
+Tjenesteyterne har i det vesentlige anført
+SAS har anført: 
+
+SAS har mottatt klage fra passasjerene vedrørende flyvning fra Miami til Newark til Oslo
+med SK8740 13/01/24. Klager har krevd kompensasjon i henhold til EU 261/04 siden
+flyvningen ble kansellert. SAS bestrider kravet fordi SK8740 var utført av United Airlines/
+UA 1571, se vedlegg. 
+
+United Airlines har anført: 
+
+United Airlines har forståelse for at kanselleringen var veldig frustrerende og beklager
+at klager er skuffet over United Airlines sin utførelse. Ettersom United Airlines er basert
+i USA og ikke er et EU-flyselskap, og den kansellerte flyvningen hadde avreise fra USA og
+ikke i en EU-stat, kommer ikke EU-forordningen til anvendelse. 
+I tillegg var flyvningen kansellert på grunn av bakkesettingen av 737-MAX 9. United er
+villig til å dekke ekstrautgifter klager har hatt som følge av kanselleringen, og ber klager
+sende inn kopi av kvitteringer med betalingsinformasjon til United Airlines. Ved mottak
+av dette, vil United Airlines prosessere utbetalingen.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at det oppstod en kansellering på klagers reise den 13. januar
+2024. Kanselleringen oppstod på flightnummer SK8740 fra Miami til Newark. Etter å ha
+blitt omrutet ankom klager Oslo etter en forsinkelse på 3 timer og 50 minutter. 
+
+Spørsmålet er om EU-forordning 261/2004 får anvendelse på klagers reise fra innad i
+USA med United Airlines, til Europa fra USA med SAS.
+
+EU-forordning 261/2004 gjelder i utgangspunktet for passasjerer som reiser fra en
+lufthavn som ligger i EU/EØS-området jf. artikkel 3 nr. 1 bokstav a. Forordningen får også
+anvendelse for passasjerer som reiser fra en lufthavn utenfor EU/EØS området, og til
+en lufthavn innen EU/EØS dersom det utførende flyselskapet er et EU/EØS flyselskap,
+jf. artikkel 3 nr. 1 bokstav b. Det «utførende luftfartsselskap» er i artikkel 2 bokstav b)
+definert til «et lufttransportforetak som utfører eller har til hensikt å utføre en flyvning i
+henhold til en avtale med en passasjer eller på vegne av en annen person, juridisk eller
+fysisk, som har en avtale med denne passasjeren».
+
+EU-domstolen har i sin dom C-367/20 KLM Royal Dutch Airlines av 12. november 2020
+som gjaldt en flyvning fra New York via Amsterdam til Hamburg, der billetten var utstedt
+av KLM i et såkalt code share samarbeid med Delta Airlines, konkludert med følgende
+(dansk oversettelse):
+
+«Artikel 5, stk. 1, litra c), og artikel 7, stk. 1, i Europa-Parlamentets og Rådets forordning
+(EF) nr. 261/2004 af 11. februar 2004 om fælles bestemmelser om kompensation
+og bistand til luftfartspassagerer ved boardingafvisning og ved aflysning eller lange
+forsinkelser og om ophævelse af forordning (EØF) nr. 295/91, sammenholdt med
+denne forordnings artikel 3, stk. 1, litra b), og artikel 3, stk. 5, skal fortolkes således, at
+i forbindelse med en flyvning med direkte tilsluttet flyforbindelse, som er sammensat
+af to flyvninger, og som har været genstand for en samlet reservation, fra en lufthavn,
+der er beliggende på et tredjelands område, til en lufthavn beliggende i en medlemsstat
+via en lufthavn i en anden medlemsstat, kan en passager, der ankommer til sit endelige
+bestemmelsessted med en forsinkelse på tre timer eller mere, som skyldes den første
+flyvning, som i henhold til en code sharing-aftale blev udført af et luftfartsselskab
+med hjemsted i et tredjeland, i henhold til denne forordning anlægge sit søgsmål om
+kompensation mod det EF-luftfartsselskab, som udførte den anden flyvning.».
+
+Klager hadde en billett utsted av SAS i et såkalt «code share» samarbeid med United
+Airlines. Det vil si at flyselskapene samarbeider om reiseruten, og selger denne som
+en gjennomgående reise merket med rutenumrene til det flyselskapet som har utstedt
+billetten, selv om en eller flere av strekningen faktisk flys av et annet selskap. I klagers
+billett er alle flightnumrene utstedt med SK som står for SAS. Den første flystrekningen
+fra Miami til Newark skulle utføres av United Airlines, og flystrekningen fra Newark til
+Oslo skulle flys av SAS. 
+
+Basert på dette mener nemndas flertall - leder og forbrukerrepresentant - at
+forordningen får anvendelse på klagers flyvninger.
+
+Mindretallet – bransjerepresentanten – mener at forordningen ikke kommer
+til anvendelse. Utgangspunktet etter forordningen er at det transporterende
+luftfartsselskapet er ansvarssubjektet. Hensikten er å gi luftfartsselskapene et initiativ
+for å unngå uregelmessigheter i form av kanselleringer, nektet ombordstigninger og
+forsinkelser. Lovgiver har ved artikkel 3 nr. 1 bokstav b innskrenket forordningens
+virkeområde på reiser fra en tredjestat og inn til unionen ved at det transporterende
+luftfartsselskapet må være et EF luftfartsselskap for at forordningen skal komme til
+anvendelse. Fra dette klare utgangspunktet har EU domstolen utformet et unntak for
+reiser som utføres under en code-share avtale. 
+
+Etter mindretallets syn kan det ikke utledes av EU-domstolens avgjørelse C-367/20
+at forordningen kommer til anvendelse på flyvninger ut av en tredjestat, fløyet av et
+luftfartsselskap uten europeisk lisens, uten at det foreligger en code-share avtale med et
+EF luftfartsselskap, og at alle flyvninger blir fløyet under dette flyselskapets flynummer. 
+
+I C-367/20 var det en code-share avtale mellom KLM og Delta og samtlige av flyvningene
+ble fløyet av KLM. KLM ble derfor holdt ansvarlig for hele strekningen. Reisen var fra New
+York til Hamburg via Amsterdam.
+
+Bransjerepresentanten mener det er god grunn til å være forsiktig med å foreta
+utvidende fortolkninger av EU domstolen sin praksis på dette område.
+
+Mindretallet legger til grunn at klager hadde bestilt en gjennomgående reise fra Miami
+til Oslo gjennom Norwegian Cruise Line. Kanselleringen fant sted på strekningen
+Miami til Newark. Denne strekningen ble operert av United Airlines, som ikke er et
+EF luftfartsselskap. I denne saken var det en innenlandsflyvning i USA og deretter en
+flyvning fra USA til et medlemsland. Det var derfor ikke en gjennomgående reise fra en
+lufthavn på et tredjelands område, til en lufthavn i en medlemsstat via en lufthavn i en
+annen medlemsstat, slik som i C-367/20. Den kansellerte flyvningen fant sted utenfor
+medlemsområdet. 
+
+Mindretallets syn er at kanselleringen av United Airlines sin flyvning fra Miami til Newark
+ikke gir grunnlag for kompensasjon i henhold til EU-forordning 261/2004.
+
+Nemnda konkluderte deretter, i tråd med flertallets oppfatning, med at forordningen får
+anvendelse på klagers flyvninger. 
+
+Spørsmålet er så om kanselleringen på klager sin flyvning gir rett til standarderstatning.
+
+Kansellering gir rett til standarderstatning med mindre flyselskapet godtgjør at
+innstillingen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artikkel 5 og 7. 
+
+United Airlines har anført at flyvningen ble kansellert som følge av bakkesettingen
+av Boeing 737 Max 9-flyene. Nemnda mener av bakkesetting av fly initiert av
+luftfartsmyndigheter i utgangspunktet vil kunne anses som en ekstraordinær
+omstendighet. Det er imidlertid ikke fremlagt dokumentasjon som godtgjør at klagers
+flyvning ble kansellert som følge av bakkesettingen av Boeing 737 Max 9-flyene, og
+det er heller ikke kommentert om kanselleringen kunne vært unngått med rimelige
+tiltak. Nemnda mener på denne bakgrunn at klager har rett til standarderstatning for
+kanselleringen. 
+
+I utgangspunktet gir en kansellering fra Miami til Oslo (mer enn 3 500 kilometer) rett
+til 600 euro i standarderstatning per passasjer, jf. artikkel 7 (1) c. Standarderstatningen
+kan imidlertid avkortes med 50% dersom passasjeren tilbys omruting som lar dem
+ankomme endelig destinasjon med en forsinkelse på mindre enn 4 timer, jf. artikkel 7 (2)
+c. Etter det opplyste ankom klager Oslo etter en forsinkelse på 3 timer og 50 minutter.
+Standarderstatningen kan derfor avkortes med 50%. 
+
+På denne bakgrunn anbefaler Transportklagenemnda at SAS utbetaler 300 euro per
+passasjer i standarderstatning til klager for kanselleringen, totalt 600 euro. 
+
+Forbrukerrepresentanten mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standarderstatning eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at SAS betaler 600 euro til klager i standarderstatning.

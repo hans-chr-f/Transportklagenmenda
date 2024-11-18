@@ -1,0 +1,106 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet forsinkelse og mistet
+videreforbindelse. Air Traffic Flow Management (ATFM).
+
+Dato
+08.10.2024
+
+Saksnummer
+2024-00134
+
+Tjenesteytere
+SAS
+
+Klager har i det vesentlige anført
+
+Klager hadde bestilt flyreise t/r Stavanger-København-Alicante med SAS.
+
+SK1871 (operert av SAS) - Stavanger-København - kl. 06:00-kl. 07:00 - 23. desember 2023
+SK2813 (operert av SAS) - København-Alicante - kl. 08:20-kl. 11:40 - 23. desember 2023
+
+SK2814 (operert av SAS) - Alicante-København - kl. 12:30-kl. 15:55 - 7. januar 2024
+SK1874 (operert av SAS) - København-Stavanger - kl. 17:00-kl. 18:15 - 7. januar 2024
+
+Klagers utgående flyvning SK1871 Stavanger-København ble forsinket slik at klager ikke
+ville rekke videreforbindelsen SK2813 København-Alicante.
+
+Klager ble derfor omrutet til ny reise:
+
+SK1418 (operert av SAS) - København-Stockholm - kl. 09:40-kl. 10:50 - 23. desember 2023
+SK1853 (operert av SAS) - Stockholm-Alicante - kl. 11:35-kl. 15:35 - 23. desember 2023 
+
+Klager ankom endedestinasjonen Alicante kl. 16:15, ca. 4 timer og 35 minutter forsinket,
+og krever standarderstatning på 400 EUR grunnet forsinkelsen.
+
+Klager har kommentert tilsvaret til SAS:
+
+Av dokumentene til SAS kan man lese at forsinkelse på de første 30 minutter skyldtes
+mangel på crew. KLM-mannskap var tilgjengelig på det tidspunktet og det gikk fly til
+Amsterdam uten betydelig forsinkelse, selv med bagasjeproblemer på flyplassen.
+Klager hadde bare opprinnelig transfertid på 1 time og 10 minutter, derfor var kun 30
+min forsinkelse allerede for mye til å rekke neste fly og mangel på mannskap er ikke
+ekstraordinært.
+
+Klager vil også informere om at i forbindelse med "Airport Facility"-problem vil inn- og
+avlasting av bagasje absolutt være innenfor kontrollen til flyselskapene og det er en del
+av deres daglige rutiner. Det kan derfor ikke anses som ekstraordinære omstendigheter.
+Kravet om standarderstatning på 400 EUR opprettholdes.
+
+Tjenesteyterne har i det vesentlige anført
+SAS har i det vesentlige anført:
+
+Klager krever standarderstatning. Etter undersøkelser finner SAS at flyet SK1871 den 23.
+DES 2023 ble forsinket på grunn av Air Traffic Flow Management (ATFM) Airport Facilities.
+
+Enhver forstyrrelse knyttet til Air Traffic Control (ATC) anses som en ekstraordinær
+omstendighet og passasjeren har ikke krav på kompensasjon.
+
+Passasjeren ble også booket om til det første tilgjengelige alternativet.
+
+SAS viser til Traffic & Flight Information og at SK1871 ble forsinket grunnet Airport
+Facilities.
+
+SAS viser også til Historical Flight Status og at flyvningen ble forsinket grunnet ATC (AF).
+SAS viser videre til Euro Control Report og BI Portal.
+
+Nemnda bemerker
+
+Nemnda legger til grunn at klagers utgående flyvning SK1871 Stavanger-København ble
+forsinket slik at klager ikke rakk videreforbindelsen SK2813 København-Alicante. Klager
+ble omrutet til ny reise og ankom endedestinasjonen Alicante ca. 4 timer og 35 minutter
+forsinket.
+
+En passasjer som kommer mer enn 3 timer forsinket frem til sitt endelige
+bestemmelsessted, har rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artiklene 5, 6 og 7, samt EU-
+domstolens avgjørelser i sakene Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson
+med flere av 23.10.2012 (C-581/10).
+
+SAS har anført at forsinkelsen skyldtes Air Traffic Flow Management (ATFM) og ATC-
+restriksjoner. Klager hevder at det var problemer med på- og avlasting av bagasje.
+SAS har vist til AF - Airport Facilities og FC - Cabin Crew Shortage. Beskrivelsen til AF
+var "All delays due parking stands ramp congestion lighting buildings gate limitations
+etc." og hadde en forsinkelse på 44 minutter, mens beskrivelsen til FC var "sickness
+awaiting stand-by flight time limitation crew meals valid visa health docs etc." og hadde
+en forsinkelse på 30 minutter. 
+
+SAS har ikke beskrevet eller dokumentert disse forholdene nærmere og har heller
+ikke beskrevet hvilke tiltak som ble gjort for å unngå eller minimere følgene av de
+påstått ekstraordinære omstendighetene. Nemnda kan dermed ikke se at SAS har
+godtgjort at det var ekstraordinære omstendigheter utenfor deres kontroll som ikke
+kunne vært unngått selv om alle rimelige tiltak var truffet. Klager har med dette krav på
+standarderstatning grunnet forsinkelsen.
+
+Forbrukerrepresentanten mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standardkompensasjon eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at SAS utbetaler 400 EUR i standarderstatning til
+klager.

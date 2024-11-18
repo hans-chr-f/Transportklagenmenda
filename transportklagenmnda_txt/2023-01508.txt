@@ -1,0 +1,222 @@
+Vedtak i Transportklagenemnda - Fly
+
+Sammendrag
+
+Krav om standarderstatning grunnet kansellering og forsinkelse.
+Dårlige værforhold og spørsmål om halvering av standarderstatningen.
+
+Dato
+14.10.2024
+
+Saksnummer
+2024-01007
+
+Tjenesteytere
+KLM
+SAS
+
+Klager har i det vesentlige anført
+
+Klager hadde bestilt flyreise Stavanger-Amsterdam-Orlando gjennom Ticket.no:
+
+KL1196 (operert av KLM) - Stavanger-Amsterdam - kl. 06:00-kl. 07:35 - 16. februar 2024
+KL6132 (operert av KLM) - Amsterdam-Orlando - kl. 12:15-kl. 16:40 - 16. februar 2024
+
+KL1196 Stavanger-Amsterdam ble kansellert på avreisedagen grunnet tekniske feil på
+flyet.
+
+Klager ble omrutet til ny reise:
+
+SK4014 (operert av SAS) - Stavanger-Oslo - kl. 09:35-kl. 10:25 - 16. februar 2024
+BA763 (operert av British Airways) - Oslo-London - kl. 11:45-kl. 13:15 - 16. februar 2024
+VS91 (operert av Virgin Atlantic) - London-Orlando - kl. 14:35-kl. 19:45 - 16. februar 2024
+
+SK4014 Stavanger-Oslo ble forsinket grunnet dårlige værforhold på forutgående flyvning,
+som resulterte i at klager mistet videreforbindelsen.
+
+Klager ble deretter omrutet på nytt:
+
+FI319 (operert av Icelandair) - Oslo-Keflavik - kl. 13:00-kl. 15:05 - 16. februar 2024
+FI645 (operert av Icelandair) - Keflavik-Washington DC - kl. 16:50-kl. 18:20 - 16. februar
+2024
+UA869 (operert av United Airlines) - Washington DC-Orlando - kl. 22:06-kl. 00:29 - 16.-17.
+februar 2024
+
+Klager ankom endedestinasjonen Orlando kl. 00:29 den 17. februar 2024. Planlagt
+ankomst var kl. 16:40 den 16. februar 2024.
+
+Klager har kommentert tilsvarene til KLM og SAS:
+
+Klager mener fortsatt at han har krav på 600 EUR, da det er KLM er skyld i den lange
+forsinkelsen til ankomststedet i utgangspunktet. Etter at klager sendte klagen til
+Transportklagenemnda, fikk han svar fra KLM, mandag 15. april, der det ser ut til at de
+har omgjort den opprinnelige avgjørelsen, og at de nå vil overføre de resterende 300 EUR
+til klager innen 60 dager. Klager regner da med at KLM har innsett at den opprinnelige
+avgjørelsen derfor var feil, og at saken derfor gikk i klagers favør.
+
+Klager har ikke mottatt de resterende 300 EUR fra KLM.
+
+Svaret fra KLM er feilaktig. Klagers ankomst var forsinket med nesten 8 timer, ikke
+3-4 timer som de påstår. Klagers opprettholder sitt krav på 600 EUR i henhold til EU-
+regelverket. Klager bestilte en gjennomgående reise med KLM og deres alliansepartnere,
+og det at de valgte å sende klager på en alternativ rute med andre flyselskap utenfor
+alliansen (SAS og Icelandair) på grunn av kanselleringen, er ikke noe klager som kunde
+kan lastes for.
+
+Tidligere innsendt mail, viser også at de hadde omgjort vedtaket, og skulle utbetale de
+resterende 300 EUR, uten at dette har skjedd innen de 60 dagene dette skulle skje.
+
+Klager ble ikke omrutet via London, slik de hevder, men via Keflavik, som angitt som
+"Second rebooking" i vedlegget "omruting". Klager landet i Orlando klokken 00:29 neste
+dag, og ikke klokken 19:45 samme dag. Ankomsttiden var derfor betydelig senere enn
+den opprinnelige ankomsten, som skulle være klokken 16:40 samme dag.
+
+Klager krever standarderstatning på 600 EUR ettersom ankomsten ble så betydelig
+forsinket med nesten 8 timer.
+
+Tjenesteyterne har i det vesentlige anført
+KLM har i det vesentlige anført:
+
+KL1196/16FEB24 ble kansellert grunnet tekniske årsaker.
+
+Klager ble ombooket på ny avgang med SAS med ankomst 3-4 timer forsinket. Klager har
+fått utbetalt 300 EUR i EU261/2004-kompensasjon.
+
+Klager nevner at reisen ble mer enn 7 timer forsinket. I dette tilfellet ble SK4014/16FEB24
+fra Stavanger til Oslo Gardermoen forsinket. Klager mistet i dette tilfellet sin
+videreforbindelse og ble ombooket med en senere avgang som resulterte i ny
+forsinkelse.
+
+I dette tilfellet er forsinkelsen forårsaket av SAS. KLM ber nemnda sende klagen til
+det berørte flyselskap. KLM har i dette tilfellet allerede utbetalt kompensasjon for
+kanselleringen basert på opprinnelig ombooking.
+
+KLM har mottatt tilsvar fra klager om at han ikke har mottatt resterende EUR 300 fra KLM
+som avtalt.
+
+Som nevnt i tidligere korrespondanse i denne saken, har klager kun krav på EUR 300 da
+forsinkelsen var 3-4 timer med ny ombooking. Som nevnt tidligere, var det ytterligere
+forsinkelser grunnet ny ombooking med SAS.
+
+Det er vedlagt betalingsbekreftelse for utbetaling av EUR 300 for tidligere
+utbetalt kompensasjon fra KLM grunnet flykanselleringen. I tillegg er det vedlagt
+omrutinginformasjon.
+
+SAS har i det vesentlige anført:
+
+SAS har mottatt en klage fra passasjeren ovenfor angående reise fra Stavanger til
+Amsterdam til Orlando med SK 4014 16/02/2024.
+
+Kunden har krevd kompensasjon i henhold til EU-forordning 261/2004, siden flyet ble
+forsinket.
+
+SAS bestrider kravet siden flyvning SK 4014 ble forsinket på grunn av værforhold på
+tidligere flyvning (avgangsstasjon, vær under flydriftsminima).
+
+SAS viser til Traffic and Flight Information, BI-Portal, Power BI, Ediss, Flightstats og
+METAR.
+
+SAS viser til at de omrutet til neste ledige flyvning med FI319.
+
+Da forsinkelsen skyldtes værforhold på forutgående flyvning, er dette utenfor SAS sin
+kontroll og en ekstraordinær omstendighet som ikke gir grunnlag for standarderstatning.
+
+Nemnda bemerker
+
+Spørsmålet om standarderstatning for kanselleringen av KL1196 Stavanger-Amsterdam
+grunnet tekniske feil på flyet:
+
+Nemnda legger til grunn at klagers flyvning KL1196 Stavanger-Amsterdam ble kansellert
+på avreisedagen grunnet tekniske feil på flyet. Det er ikke omtvistet at kanselleringen gir
+rett til standarderstatning. Tvisten går ut på selve summen klager har krav på.
+
+Klager ble omrutet av KLM til ny reise med SAS fra Stavanger-Oslo, British Airways
+fra Oslo-London og Virgin Atlantic fra London-Orlando. Planlagt ankomst på
+omrutingstilbudet var kl. 19:45 i Orlando.
+
+Klager har den 17. mars 2024 mottatt 300 EUR i standarderstatning av KLM grunnet
+kanselleringen.
+
+Spørsmålet er om klager har krav på ytterligere 300 EUR i standarderstatning, slik at
+klager får totalt 600 EUR i henhold til EU-forordning 261/2004 artikkel 7 nr. 1 bokstav c.
+
+KLM har anført at standarderstatningen på 600 EUR ble halvert ettersom forsinkelsen var
+på 3-4 timer med ny omruting. KLMs omrutingtilbud ville i utgangspunktet medføre at
+klager ankom endedestinasjonen Orlando kl. 19:45 den 16. februar 2024, mens planlagt
+ankomst på klagers opprinnelige reise var kl. 16:40 den 16. februar 2024. Det er kun 3
+timer og 5 minutter mellom disse klokkeslettene.
+
+Ordlyden i den aktuelle bestemmelsen EU-forordning 261/2004 artikkel 7 nr. 2 er som
+følger:
+
+"Når passasjerer tilbys omruting til det endelige bestemmelsessted på en annen flyging
+i henhold til artikkel 8, og ankomsttiden ikke går ut over planlagt ankomsttid på den
+opprinnelig reserverte flygingen
+a. med to timer for alle flyginger på høyst 1 500 kilometer, eller
+b. med tre timer for alle flyginger innenfor Fellesskapet på over 1 500 kilometer og alle
+andre flyginger på mellom 1 500 og 3 500 kilometer, eller
+c. med fire timer for alle flyginger som ikke omfattes av bokstav a) eller b), kan det
+utførende luftfartsselskap redusere erstatningen omhandlet i nr. 1 med 50 %."
+
+Slik nemnda ser det, må spørsmålet vurderes ut fra den planlagte ankomsttiden,
+slik saken her ligger an. Planlagt ankomsttid var 3 timer og 5 minutter etter
+opprinnelig ankomsttid. Det foreligger dermed rettslig grunnlag for at KLM kan halvere
+standarderstatningen. Klager gis etter dette ikke medhold i sitt krav om ytterligere
+standarderstatning på dette punktet. 
+
+Klager kan imidlertid kreve standarderstatning for flere uregelmessigheter på samme
+reise og viser i den forbindelse til avgjørelse i EU-domstolen av 12. mars 2020 i sak
+C-832/18.Spørsmålet blir derfor om klager også har krav på standarderstatning for
+forsinkelsen av SK4014 Stavanger-Oslo.
+
+Nemnda legger til grunn at klagers flyvning SK4014 Stavanger-Oslo ble forsinket slik at
+klager mistet videreforbindelsen til London og Orlando.
+Klager ble omrutet av SAS til ny reise med Icelandair fra Oslo-Keflavik og Keflavik-
+Washington DC, og deretter med United Airlines fra Washington DC-Orlando. Klager
+ankom endedestinasjonen Orlando kl. 00:29 den 17. februar 2024. 
+
+En passasjer som kommer mer enn 3 timer forsinket frem til sitt endelige
+bestemmelsessted, har rett til standarderstatning med mindre flyselskapet godtgjør at
+forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne vært unngått selv
+om alle rimelige tiltak var truffet, jf. EU-forordning 261/2004 artiklene 5, 6 og 7, samt EU-
+domstolens avgjørelser i sakene Sturgeon-Condor av 19.11.2009 (C-402/07) og Nelson
+med flere av 23.10.2012 (C-581/10).
+
+SAS har anført at forsinkelsen skyldtes dårlige værforhold på forutgående flyvning. I tråd
+med EU-domstolens avgjørelse C-74/19 kan en hendelse på en forutgående flyvning
+kvalifisere som en ekstraordinær omstendighet der hendelsen forårsaker forsinkelser for
+de etterfølgende flyvningene. Forutsetningen er at det er en direkte årsakssammenheng
+mellom den ekstraordinære omstendigheten og forsinkelsen av påfølgende flyvning.
+
+Værforhold som påvirker flytrafikken ved at det ikke er mulig å lande/ta av, ved at
+det oppstår overbelastning på flyplassen eller lignende, kan være en ekstraordinær
+omstendighet i forordningens forstand som medfører at den reisende ikke har krav
+på erstatning. Dette må vurderes konkret. Det er flyselskapet som må godtgjøre at det
+foreligger et slikt spesielt tilfelle. Flyselskapet må videre godtgjøre at de har truffet alle
+rimelige tiltak for å unngå forsinkelsen. 
+
+SAS har vist til vedlagt METAR og sagt at forsinkelsen skyldtes "weather below aircraft
+operating minima".
+
+Nemnda kan ikke se at SAS har forklart nærmere hvordan værforholdene påvirket
+klagers flyvning. Nemnda kan heller ikke, basert på vedlagt METAR fra SAS, se hva som
+skulle vært ekstraordinære værforhold på Stavanger flyplass den dagen. SAS har derfor
+ikke godtgjort at forsinkelsen skyldtes ekstraordinære omstendigheter som ikke kunne
+vært unngått selv om alle rimelige tiltak var truffet. 
+
+Klager har med dette krav på ytterligere standarderstatning for forsinket ankomst på
+over 3 timer, ettersom planlagt ankomst med omrutingstilbudet var kl. 19:45 den 16.
+februar 2024, og faktisk ankomst var kl. 00:29 den 17. februar 2024, noe som tilsvarer ca.
+4 timer og 44 minutter forsinkelse. Klager har krav på 600 EUR i standarderstatning, jf.
+EU-forordning 261/2004 artikkel 7 nr. 1 bokstav c.  Nemnda anbefaler at SAS utbetaler
+denne summen til klager.
+
+Forbrukerrepresentanten mener at klager i dette tilfellet har krav på forsinkelsesrente
+iht. forsinkelsesrenteloven, normalt regnet fra 30 dager etter at klager har krevd
+standarderstatning eller annen erstatning, og fra 7 dager etter at klager har krevd
+refusjon.
+
+Vedtak
+
+Transportklagenemnda anbefaler at SAS utbetaler 600 EUR i standarderstatning til
+klager.
