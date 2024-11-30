@@ -12,7 +12,7 @@ Transportklagenemnda egner seg godt til en slik undersøkelse. For det første e
 1. [Etablering av korpus med vedtak fra Transportklagenemnda.](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Etablering_av_vedtakskorpus.ipynb)  
 Først laster vi ned alle vedtak fra transportklagenemnda som pdf-filer. Disse konverterer vi så til ren tekst. Vi fjerner opplysninger (navn) om nemndsmedlemmer.
 2. [Parsing av vedtak.](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Parsing_av_vedtak.ipynb) Vi leser ut informasjon om hvilken delnemnd som har skrevet vedtaket (fly, sjø, kollektivreiser, pakkereiser). Vi leser også ut en unik id fra filnavnet. Så lager vi denne informasjonen på et felles format sammen med vedtakene (jsonl).
-3. Embedding av dokumenter og opplasting til vektordatabase.
+3. [Embedding av dokumenter og opplasting til vektordatabase.](https://github.com/hans-chr-f/Transportklagenmenda/blob/main/Openai_embeddings.ipynb)
 4. RAG
 5. Løsing av rettspørsmål
 
