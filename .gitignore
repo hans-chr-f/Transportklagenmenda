@@ -1,5 +1,6 @@
 tika-server-standard-2.6.0.jar
 vedtak.jsonl
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
