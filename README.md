@@ -1,4 +1,4 @@
-# Juss og språkmodeller anno 2024
+# Juss og språkmodeller anno 2025
 
 Denne nettsiden dokumenter teknologibruk og framgangsmåte i forskningen som ligger til grunn for artikkelen *Juss og språkmodeller anno 2025* som er publisert i XXXX.
 
